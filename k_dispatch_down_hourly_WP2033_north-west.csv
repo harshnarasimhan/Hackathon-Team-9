@@ -1,0 +1,2353 @@
+hour,generator,bus,carrier,offered_MW,dispatched_MW,curtailed_MW,constraint_based_MW,surplus_based_MW
+2030-01-14 06:00:00,Moy wind,Moy,wind,2.593,2.593,0.0,0.0,0.0
+2030-01-14 07:00:00,Moy wind,Moy,wind,6.114,6.114,0.0,0.0,0.0
+2030-01-14 08:00:00,Moy wind,Moy,wind,5.271,5.271,0.0,0.0,0.0
+2030-01-14 09:00:00,Moy wind,Moy,wind,11.048,11.048,0.0,0.0,0.0
+2030-01-14 10:00:00,Moy wind,Moy,wind,12.149,12.149,0.0,0.0,0.0
+2030-01-14 11:00:00,Moy wind,Moy,wind,17.131,17.131,0.0,0.0,0.0
+2030-01-14 12:00:00,Moy wind,Moy,wind,4.658,4.658,0.0,0.0,0.0
+2030-01-14 13:00:00,Moy wind,Moy,wind,3.826,3.826,0.0,0.0,0.0
+2030-01-14 14:00:00,Moy wind,Moy,wind,3.361,3.361,0.0,0.0,0.0
+2030-01-14 15:00:00,Moy wind,Moy,wind,11.73,11.73,0.0,0.0,0.0
+2030-01-14 16:00:00,Moy wind,Moy,wind,11.796,11.796,0.0,0.0,0.0
+2030-01-14 17:00:00,Moy wind,Moy,wind,17.165,17.165,0.0,0.0,0.0
+2030-01-14 18:00:00,Moy wind,Moy,wind,12.583,12.583,0.0,0.0,0.0
+2030-01-14 19:00:00,Moy wind,Moy,wind,10.435,10.435,0.0,0.0,0.0
+2030-01-14 20:00:00,Moy wind,Moy,wind,7.536,7.536,0.0,0.0,0.0
+2030-01-14 21:00:00,Moy wind,Moy,wind,6.489,6.489,0.0,0.0,0.0
+2030-01-14 22:00:00,Moy wind,Moy,wind,6.057,6.057,0.0,0.0,0.0
+2030-01-14 23:00:00,Moy wind,Moy,wind,11.845,11.845,0.0,0.0,0.0
+2030-01-15 00:00:00,Moy wind,Moy,wind,16.845,16.845,0.0,0.0,0.0
+2030-01-15 01:00:00,Moy wind,Moy,wind,17.032,17.032,0.0,0.0,0.0
+2030-01-15 02:00:00,Moy wind,Moy,wind,19.69,19.69,0.0,0.0,0.0
+2030-01-15 03:00:00,Moy wind,Moy,wind,25.242,25.242,0.0,0.0,0.0
+2030-01-15 04:00:00,Moy wind,Moy,wind,26.655,26.655,0.0,0.0,0.0
+2030-01-15 05:00:00,Moy wind,Moy,wind,24.845,24.845,0.0,0.0,0.0
+2030-01-15 06:00:00,Moy wind,Moy,wind,21.942,21.942,0.0,0.0,0.0
+2030-01-15 07:00:00,Moy wind,Moy,wind,19.051,19.051,0.0,0.0,0.0
+2030-01-15 08:00:00,Moy wind,Moy,wind,19.931,19.931,0.0,0.0,0.0
+2030-01-15 09:00:00,Moy wind,Moy,wind,25.352,25.352,0.0,0.0,0.0
+2030-01-15 10:00:00,Moy wind,Moy,wind,24.338,24.338,0.0,0.0,0.0
+2030-01-15 11:00:00,Moy wind,Moy,wind,29.609,29.609,0.0,0.0,0.0
+2030-01-15 12:00:00,Moy wind,Moy,wind,20.564,20.564,0.0,0.0,0.0
+2030-01-15 13:00:00,Moy wind,Moy,wind,12.869,12.869,0.0,0.0,0.0
+2030-01-15 14:00:00,Moy wind,Moy,wind,13.02,13.02,0.0,0.0,0.0
+2030-01-15 15:00:00,Moy wind,Moy,wind,15.497,15.497,0.0,0.0,0.0
+2030-01-15 16:00:00,Moy wind,Moy,wind,15.575,15.575,0.0,0.0,0.0
+2030-01-15 17:00:00,Moy wind,Moy,wind,9.888,9.888,0.0,0.0,0.0
+2030-01-15 18:00:00,Moy wind,Moy,wind,8.659,8.659,0.0,0.0,0.0
+2030-01-15 19:00:00,Moy wind,Moy,wind,5.831,5.831,0.0,0.0,0.0
+2030-01-15 20:00:00,Moy wind,Moy,wind,8.643,8.643,0.0,0.0,0.0
+2030-01-15 21:00:00,Moy wind,Moy,wind,6.166,6.166,0.0,0.0,0.0
+2030-01-15 22:00:00,Moy wind,Moy,wind,6.164,6.164,0.0,0.0,0.0
+2030-01-15 23:00:00,Moy wind,Moy,wind,2.853,2.853,0.0,0.0,0.0
+2030-01-16 00:00:00,Moy wind,Moy,wind,3.948,3.948,0.0,0.0,0.0
+2030-01-16 01:00:00,Moy wind,Moy,wind,2.598,2.598,0.0,0.0,0.0
+2030-01-16 02:00:00,Moy wind,Moy,wind,0.889,0.889,0.0,0.0,0.0
+2030-01-16 03:00:00,Moy wind,Moy,wind,3.665,3.665,0.0,0.0,0.0
+2030-01-16 04:00:00,Moy wind,Moy,wind,8.18,8.18,0.0,0.0,0.0
+2030-01-16 05:00:00,Moy wind,Moy,wind,6.541,6.541,0.0,0.0,0.0
+2030-01-16 06:00:00,Moy wind,Moy,wind,9.015,9.015,0.0,0.0,0.0
+2030-01-16 07:00:00,Moy wind,Moy,wind,7.297,7.297,0.0,0.0,0.0
+2030-01-16 08:00:00,Moy wind,Moy,wind,15.783,15.783,0.0,0.0,0.0
+2030-01-16 09:00:00,Moy wind,Moy,wind,14.226,14.226,0.0,0.0,0.0
+2030-01-16 10:00:00,Moy wind,Moy,wind,10.534,10.534,0.0,0.0,0.0
+2030-01-16 11:00:00,Moy wind,Moy,wind,8.704,8.704,0.0,0.0,0.0
+2030-01-16 12:00:00,Moy wind,Moy,wind,17.597,17.597,0.0,0.0,0.0
+2030-01-16 13:00:00,Moy wind,Moy,wind,17.651,17.651,0.0,0.0,0.0
+2030-01-16 14:00:00,Moy wind,Moy,wind,22.615,22.615,0.0,0.0,0.0
+2030-01-16 15:00:00,Moy wind,Moy,wind,22.201,22.201,0.0,0.0,0.0
+2030-01-16 16:00:00,Moy wind,Moy,wind,23.283,23.283,0.0,0.0,0.0
+2030-01-16 17:00:00,Moy wind,Moy,wind,27.494,27.494,0.0,0.0,0.0
+2030-01-16 18:00:00,Moy wind,Moy,wind,20.538,20.538,0.0,0.0,0.0
+2030-01-16 19:00:00,Moy wind,Moy,wind,24.673,24.673,0.0,0.0,0.0
+2030-01-16 20:00:00,Moy wind,Moy,wind,21.763,21.763,0.0,0.0,0.0
+2030-01-16 21:00:00,Moy wind,Moy,wind,20.997,20.997,0.0,0.0,0.0
+2030-01-16 22:00:00,Moy wind,Moy,wind,19.593,19.593,0.0,0.0,0.0
+2030-01-16 23:00:00,Moy wind,Moy,wind,21.056,21.056,0.0,0.0,0.0
+2030-01-17 00:00:00,Moy wind,Moy,wind,23.856,23.856,0.0,0.0,0.0
+2030-01-17 01:00:00,Moy wind,Moy,wind,25.87,25.87,0.0,0.0,0.0
+2030-01-17 02:00:00,Moy wind,Moy,wind,24.818,24.818,0.0,0.0,0.0
+2030-01-17 03:00:00,Moy wind,Moy,wind,23.116,23.116,0.0,0.0,0.0
+2030-01-17 04:00:00,Moy wind,Moy,wind,19.904,19.904,0.0,0.0,0.0
+2030-01-17 05:00:00,Moy wind,Moy,wind,22.719,22.719,0.0,0.0,0.0
+2030-01-17 06:00:00,Moy wind,Moy,wind,20.592,20.592,0.0,0.0,0.0
+2030-01-17 07:00:00,Moy wind,Moy,wind,11.031,11.031,0.0,0.0,0.0
+2030-01-17 08:00:00,Moy wind,Moy,wind,15.257,15.257,0.0,0.0,0.0
+2030-01-17 09:00:00,Moy wind,Moy,wind,10.023,10.023,0.0,0.0,0.0
+2030-01-17 10:00:00,Moy wind,Moy,wind,9.662,9.662,0.0,0.0,0.0
+2030-01-17 11:00:00,Moy wind,Moy,wind,9.907,9.907,0.0,0.0,0.0
+2030-01-17 12:00:00,Moy wind,Moy,wind,10.766,10.766,0.0,0.0,0.0
+2030-01-17 13:00:00,Moy wind,Moy,wind,8.941,8.941,0.0,0.0,0.0
+2030-01-17 14:00:00,Moy wind,Moy,wind,7.16,7.16,0.0,0.0,0.0
+2030-01-17 15:00:00,Moy wind,Moy,wind,5.637,5.637,0.0,0.0,0.0
+2030-01-17 16:00:00,Moy wind,Moy,wind,4.495,4.495,0.0,0.0,0.0
+2030-01-17 17:00:00,Moy wind,Moy,wind,3.858,3.858,0.0,0.0,0.0
+2030-01-17 18:00:00,Moy wind,Moy,wind,3.7,3.7,0.0,0.0,0.0
+2030-01-17 19:00:00,Moy wind,Moy,wind,3.93,3.93,0.0,0.0,0.0
+2030-01-17 20:00:00,Moy wind,Moy,wind,4.605,4.605,0.0,0.0,0.0
+2030-01-17 21:00:00,Moy wind,Moy,wind,5.711,5.711,0.0,0.0,0.0
+2030-01-17 22:00:00,Moy wind,Moy,wind,7.086,7.086,0.0,0.0,0.0
+2030-01-17 23:00:00,Moy wind,Moy,wind,8.915,8.915,0.0,0.0,0.0
+2030-01-18 00:00:00,Moy wind,Moy,wind,10.72,10.72,0.0,0.0,0.0
+2030-01-18 01:00:00,Moy wind,Moy,wind,11.408,11.408,0.0,0.0,0.0
+2030-01-18 02:00:00,Moy wind,Moy,wind,9.291,9.291,0.0,0.0,0.0
+2030-01-18 03:00:00,Moy wind,Moy,wind,8.747,8.747,0.0,0.0,0.0
+2030-01-18 04:00:00,Moy wind,Moy,wind,8.884,8.884,0.0,0.0,0.0
+2030-01-18 05:00:00,Moy wind,Moy,wind,3.376,3.376,0.0,0.0,0.0
+2030-01-18 06:00:00,Moy wind,Moy,wind,7.667,7.667,0.0,0.0,0.0
+2030-01-18 07:00:00,Moy wind,Moy,wind,8.965,8.965,0.0,0.0,0.0
+2030-01-18 08:00:00,Moy wind,Moy,wind,6.762,6.762,0.0,0.0,0.0
+2030-01-18 09:00:00,Moy wind,Moy,wind,8.887,8.887,0.0,0.0,0.0
+2030-01-18 10:00:00,Moy wind,Moy,wind,7.114,7.114,0.0,0.0,0.0
+2030-01-18 11:00:00,Moy wind,Moy,wind,11.278,11.278,0.0,0.0,0.0
+2030-01-18 12:00:00,Moy wind,Moy,wind,24.809,24.809,0.0,0.0,0.0
+2030-01-18 13:00:00,Moy wind,Moy,wind,14.05,14.05,0.0,0.0,0.0
+2030-01-18 14:00:00,Moy wind,Moy,wind,24.877,24.877,0.0,0.0,0.0
+2030-01-18 15:00:00,Moy wind,Moy,wind,26.212,26.212,0.0,0.0,0.0
+2030-01-18 16:00:00,Moy wind,Moy,wind,24.802,24.802,0.0,0.0,0.0
+2030-01-18 17:00:00,Moy wind,Moy,wind,25.929,25.929,0.0,0.0,0.0
+2030-01-18 18:00:00,Moy wind,Moy,wind,23.225,23.225,0.0,0.0,0.0
+2030-01-18 19:00:00,Moy wind,Moy,wind,26.414,26.414,0.0,0.0,0.0
+2030-01-18 20:00:00,Moy wind,Moy,wind,28.92,28.92,0.0,0.0,0.0
+2030-01-18 21:00:00,Moy wind,Moy,wind,28.421,28.421,0.0,0.0,0.0
+2030-01-18 22:00:00,Moy wind,Moy,wind,26.926,26.926,0.0,0.0,0.0
+2030-01-18 23:00:00,Moy wind,Moy,wind,31.965,31.965,0.0,0.0,0.0
+2030-01-19 00:00:00,Moy wind,Moy,wind,32.361,32.361,0.0,0.0,0.0
+2030-01-19 01:00:00,Moy wind,Moy,wind,32.4,32.4,0.0,0.0,0.0
+2030-01-19 02:00:00,Moy wind,Moy,wind,32.376,32.376,0.0,0.0,0.0
+2030-01-19 03:00:00,Moy wind,Moy,wind,32.286,32.286,0.0,0.0,0.0
+2030-01-19 04:00:00,Moy wind,Moy,wind,32.022,32.022,0.0,0.0,0.0
+2030-01-19 05:00:00,Moy wind,Moy,wind,31.689,31.689,0.0,0.0,0.0
+2030-01-19 06:00:00,Moy wind,Moy,wind,31.47,31.47,0.0,0.0,0.0
+2030-01-19 07:00:00,Moy wind,Moy,wind,28.775,28.775,0.0,0.0,0.0
+2030-01-19 08:00:00,Moy wind,Moy,wind,23.539,23.539,0.0,0.0,0.0
+2030-01-19 09:00:00,Moy wind,Moy,wind,14.132,14.132,0.0,0.0,0.0
+2030-01-19 10:00:00,Moy wind,Moy,wind,11.447,11.447,0.0,0.0,0.0
+2030-01-19 11:00:00,Moy wind,Moy,wind,8.363,8.363,0.0,0.0,0.0
+2030-01-19 12:00:00,Moy wind,Moy,wind,9.077,9.077,0.0,0.0,0.0
+2030-01-19 13:00:00,Moy wind,Moy,wind,6.875,6.875,0.0,0.0,0.0
+2030-01-19 14:00:00,Moy wind,Moy,wind,7.758,7.758,0.0,0.0,0.0
+2030-01-19 15:00:00,Moy wind,Moy,wind,9.228,9.228,0.0,0.0,0.0
+2030-01-19 16:00:00,Moy wind,Moy,wind,18.757,18.757,0.0,0.0,0.0
+2030-01-19 17:00:00,Moy wind,Moy,wind,26.125,26.125,0.0,0.0,0.0
+2030-01-19 18:00:00,Moy wind,Moy,wind,22.138,22.138,0.0,0.0,0.0
+2030-01-19 19:00:00,Moy wind,Moy,wind,19.019,19.019,0.0,0.0,0.0
+2030-01-19 20:00:00,Moy wind,Moy,wind,20.063,20.063,0.0,0.0,0.0
+2030-01-19 21:00:00,Moy wind,Moy,wind,16.442,16.442,0.0,0.0,0.0
+2030-01-19 22:00:00,Moy wind,Moy,wind,26.968,26.968,0.0,0.0,0.0
+2030-01-19 23:00:00,Moy wind,Moy,wind,29.873,29.873,0.0,0.0,0.0
+2030-01-20 00:00:00,Moy wind,Moy,wind,31.877,31.877,0.0,0.0,0.0
+2030-01-20 01:00:00,Moy wind,Moy,wind,32.036,32.036,0.0,0.0,0.0
+2030-01-20 02:00:00,Moy wind,Moy,wind,30.99,30.99,0.0,0.0,0.0
+2030-01-20 03:00:00,Moy wind,Moy,wind,26.231,26.231,0.0,0.0,0.0
+2030-01-20 04:00:00,Moy wind,Moy,wind,23.199,23.199,0.0,0.0,0.0
+2030-01-20 05:00:00,Moy wind,Moy,wind,11.819,11.819,0.0,0.0,0.0
+2030-01-20 06:00:00,Moy wind,Moy,wind,13.271,13.271,0.0,0.0,0.0
+2030-01-20 07:00:00,Moy wind,Moy,wind,8.872,8.872,0.0,0.0,0.0
+2030-01-20 08:00:00,Moy wind,Moy,wind,19.372,19.372,0.0,0.0,0.0
+2030-01-20 09:00:00,Moy wind,Moy,wind,13.682,13.682,0.0,0.0,0.0
+2030-01-20 10:00:00,Moy wind,Moy,wind,13.121,13.121,0.0,0.0,0.0
+2030-01-20 11:00:00,Moy wind,Moy,wind,11.961,11.961,0.0,0.0,0.0
+2030-01-20 12:00:00,Moy wind,Moy,wind,14.617,14.617,0.0,0.0,0.0
+2030-01-20 13:00:00,Moy wind,Moy,wind,12.754,12.754,0.0,0.0,0.0
+2030-01-20 14:00:00,Moy wind,Moy,wind,7.029,7.029,0.0,0.0,0.0
+2030-01-20 15:00:00,Moy wind,Moy,wind,9.847,9.847,0.0,0.0,0.0
+2030-01-20 16:00:00,Moy wind,Moy,wind,9.244,9.244,0.0,0.0,0.0
+2030-01-20 17:00:00,Moy wind,Moy,wind,15.921,15.921,0.0,0.0,0.0
+2030-01-20 18:00:00,Moy wind,Moy,wind,10.188,10.188,0.0,0.0,0.0
+2030-01-20 19:00:00,Moy wind,Moy,wind,13.994,13.994,0.0,0.0,0.0
+2030-01-20 20:00:00,Moy wind,Moy,wind,12.117,12.117,0.0,0.0,0.0
+2030-01-20 21:00:00,Moy wind,Moy,wind,4.182,4.182,0.0,0.0,0.0
+2030-01-20 22:00:00,Moy wind,Moy,wind,3.137,3.137,0.0,0.0,0.0
+2030-01-20 23:00:00,Moy wind,Moy,wind,0.757,0.757,0.0,0.0,0.0
+2030-01-21 00:00:00,Moy wind,Moy,wind,1.25,1.25,0.0,0.0,0.0
+2030-01-21 01:00:00,Moy wind,Moy,wind,0.767,0.767,0.0,0.0,0.0
+2030-01-21 02:00:00,Moy wind,Moy,wind,0.89,0.89,0.0,0.0,0.0
+2030-01-21 03:00:00,Moy wind,Moy,wind,1.521,1.521,0.0,0.0,0.0
+2030-01-21 04:00:00,Moy wind,Moy,wind,2.418,2.418,0.0,0.0,0.0
+2030-01-21 05:00:00,Moy wind,Moy,wind,3.49,3.49,0.0,0.0,0.0
+2030-01-14 06:00:00,Corderry wind,Corderry,wind,109.19,109.19,0.0,0.0,0.0
+2030-01-14 07:00:00,Corderry wind,Corderry,wind,124.049,124.049,0.0,0.0,0.0
+2030-01-14 08:00:00,Corderry wind,Corderry,wind,127.168,127.168,0.0,0.0,0.0
+2030-01-14 09:00:00,Corderry wind,Corderry,wind,139.493,139.493,0.0,0.0,0.0
+2030-01-14 10:00:00,Corderry wind,Corderry,wind,135.01,135.01,0.0,0.0,0.0
+2030-01-14 11:00:00,Corderry wind,Corderry,wind,141.644,141.644,0.0,0.0,0.0
+2030-01-14 12:00:00,Corderry wind,Corderry,wind,70.917,70.917,0.0,0.0,0.0
+2030-01-14 13:00:00,Corderry wind,Corderry,wind,77.361,77.361,0.0,0.0,0.0
+2030-01-14 14:00:00,Corderry wind,Corderry,wind,58.399,58.399,0.0,0.0,0.0
+2030-01-14 15:00:00,Corderry wind,Corderry,wind,114.327,114.327,0.0,0.0,0.0
+2030-01-14 16:00:00,Corderry wind,Corderry,wind,114.322,114.322,0.0,0.0,0.0
+2030-01-14 17:00:00,Corderry wind,Corderry,wind,130.685,130.685,0.0,0.0,0.0
+2030-01-14 18:00:00,Corderry wind,Corderry,wind,123.625,123.625,0.0,0.0,0.0
+2030-01-14 19:00:00,Corderry wind,Corderry,wind,129.388,129.388,0.0,0.0,0.0
+2030-01-14 20:00:00,Corderry wind,Corderry,wind,107.157,107.157,0.0,0.0,0.0
+2030-01-14 21:00:00,Corderry wind,Corderry,wind,103.209,103.209,0.0,0.0,0.0
+2030-01-14 22:00:00,Corderry wind,Corderry,wind,93.697,93.697,0.0,0.0,0.0
+2030-01-14 23:00:00,Corderry wind,Corderry,wind,133.851,133.851,0.0,0.0,0.0
+2030-01-15 00:00:00,Corderry wind,Corderry,wind,141.143,141.143,0.0,0.0,0.0
+2030-01-15 01:00:00,Corderry wind,Corderry,wind,140.564,140.564,0.0,0.0,0.0
+2030-01-15 02:00:00,Corderry wind,Corderry,wind,141.138,141.138,0.0,0.0,0.0
+2030-01-15 03:00:00,Corderry wind,Corderry,wind,144.373,144.373,0.0,0.0,0.0
+2030-01-15 04:00:00,Corderry wind,Corderry,wind,145.184,145.184,0.0,0.0,0.0
+2030-01-15 05:00:00,Corderry wind,Corderry,wind,144.806,144.806,0.0,0.0,0.0
+2030-01-15 06:00:00,Corderry wind,Corderry,wind,143.169,143.169,0.0,0.0,0.0
+2030-01-15 07:00:00,Corderry wind,Corderry,wind,130.085,130.085,0.0,0.0,0.0
+2030-01-15 08:00:00,Corderry wind,Corderry,wind,136.449,136.449,0.0,0.0,0.0
+2030-01-15 09:00:00,Corderry wind,Corderry,wind,140.203,140.203,0.0,0.0,0.0
+2030-01-15 10:00:00,Corderry wind,Corderry,wind,135.71,135.71,0.0,0.0,0.0
+2030-01-15 11:00:00,Corderry wind,Corderry,wind,137.794,137.794,0.0,0.0,0.0
+2030-01-15 12:00:00,Corderry wind,Corderry,wind,123.654,123.654,0.0,0.0,0.0
+2030-01-15 13:00:00,Corderry wind,Corderry,wind,96.113,96.113,0.0,0.0,0.0
+2030-01-15 14:00:00,Corderry wind,Corderry,wind,90.173,90.173,0.0,0.0,0.0
+2030-01-15 15:00:00,Corderry wind,Corderry,wind,57.863,57.863,0.0,0.0,0.0
+2030-01-15 16:00:00,Corderry wind,Corderry,wind,57.633,57.633,0.0,0.0,0.0
+2030-01-15 17:00:00,Corderry wind,Corderry,wind,50.268,50.268,0.0,0.0,0.0
+2030-01-15 18:00:00,Corderry wind,Corderry,wind,63.782,63.782,0.0,0.0,0.0
+2030-01-15 19:00:00,Corderry wind,Corderry,wind,51.537,51.537,0.0,0.0,0.0
+2030-01-15 20:00:00,Corderry wind,Corderry,wind,52.794,52.794,0.0,0.0,0.0
+2030-01-15 21:00:00,Corderry wind,Corderry,wind,37.15,37.15,0.0,0.0,0.0
+2030-01-15 22:00:00,Corderry wind,Corderry,wind,26.231,26.231,0.0,0.0,0.0
+2030-01-15 23:00:00,Corderry wind,Corderry,wind,22.969,22.969,0.0,0.0,0.0
+2030-01-16 00:00:00,Corderry wind,Corderry,wind,31.347,31.347,0.0,0.0,0.0
+2030-01-16 01:00:00,Corderry wind,Corderry,wind,16.996,16.996,0.0,0.0,0.0
+2030-01-16 02:00:00,Corderry wind,Corderry,wind,3.442,3.442,0.0,0.0,0.0
+2030-01-16 03:00:00,Corderry wind,Corderry,wind,9.506,9.506,0.0,0.0,0.0
+2030-01-16 04:00:00,Corderry wind,Corderry,wind,33.637,33.637,0.0,0.0,0.0
+2030-01-16 05:00:00,Corderry wind,Corderry,wind,31.154,31.154,0.0,0.0,0.0
+2030-01-16 06:00:00,Corderry wind,Corderry,wind,27.985,27.985,0.0,0.0,0.0
+2030-01-16 07:00:00,Corderry wind,Corderry,wind,25.388,25.388,0.0,0.0,0.0
+2030-01-16 08:00:00,Corderry wind,Corderry,wind,39.467,39.467,0.0,0.0,0.0
+2030-01-16 09:00:00,Corderry wind,Corderry,wind,28.037,28.037,0.0,0.0,0.0
+2030-01-16 10:00:00,Corderry wind,Corderry,wind,25.869,25.869,0.0,0.0,0.0
+2030-01-16 11:00:00,Corderry wind,Corderry,wind,19.104,19.104,0.0,0.0,0.0
+2030-01-16 12:00:00,Corderry wind,Corderry,wind,34.362,34.362,0.0,0.0,0.0
+2030-01-16 13:00:00,Corderry wind,Corderry,wind,51.47,51.47,0.0,0.0,0.0
+2030-01-16 14:00:00,Corderry wind,Corderry,wind,71.437,71.437,0.0,0.0,0.0
+2030-01-16 15:00:00,Corderry wind,Corderry,wind,71.713,71.713,0.0,0.0,0.0
+2030-01-16 16:00:00,Corderry wind,Corderry,wind,92.528,92.528,0.0,0.0,0.0
+2030-01-16 17:00:00,Corderry wind,Corderry,wind,130.893,130.893,0.0,0.0,0.0
+2030-01-16 18:00:00,Corderry wind,Corderry,wind,112.016,112.016,0.0,0.0,0.0
+2030-01-16 19:00:00,Corderry wind,Corderry,wind,111.282,111.282,0.0,0.0,0.0
+2030-01-16 20:00:00,Corderry wind,Corderry,wind,108.927,108.927,0.0,0.0,0.0
+2030-01-16 21:00:00,Corderry wind,Corderry,wind,105.311,105.311,0.0,0.0,0.0
+2030-01-16 22:00:00,Corderry wind,Corderry,wind,108.118,108.118,0.0,0.0,0.0
+2030-01-16 23:00:00,Corderry wind,Corderry,wind,99.863,99.863,0.0,0.0,0.0
+2030-01-17 00:00:00,Corderry wind,Corderry,wind,95.745,95.745,0.0,0.0,0.0
+2030-01-17 01:00:00,Corderry wind,Corderry,wind,84.991,84.991,0.0,0.0,0.0
+2030-01-17 02:00:00,Corderry wind,Corderry,wind,102.057,102.057,0.0,0.0,0.0
+2030-01-17 03:00:00,Corderry wind,Corderry,wind,114.139,114.139,0.0,0.0,0.0
+2030-01-17 04:00:00,Corderry wind,Corderry,wind,101.653,101.653,0.0,0.0,0.0
+2030-01-17 05:00:00,Corderry wind,Corderry,wind,102.729,102.729,0.0,0.0,0.0
+2030-01-17 06:00:00,Corderry wind,Corderry,wind,97.321,97.321,0.0,0.0,0.0
+2030-01-17 07:00:00,Corderry wind,Corderry,wind,73.505,73.505,0.0,0.0,0.0
+2030-01-17 08:00:00,Corderry wind,Corderry,wind,84.821,84.821,0.0,0.0,0.0
+2030-01-17 09:00:00,Corderry wind,Corderry,wind,53.379,53.379,0.0,0.0,0.0
+2030-01-17 10:00:00,Corderry wind,Corderry,wind,49.989,49.989,0.0,0.0,0.0
+2030-01-17 11:00:00,Corderry wind,Corderry,wind,41.274,41.274,0.0,0.0,0.0
+2030-01-17 12:00:00,Corderry wind,Corderry,wind,44.502,44.502,0.0,0.0,0.0
+2030-01-17 13:00:00,Corderry wind,Corderry,wind,38.972,38.972,0.0,0.0,0.0
+2030-01-17 14:00:00,Corderry wind,Corderry,wind,31.755,31.755,0.0,0.0,0.0
+2030-01-17 15:00:00,Corderry wind,Corderry,wind,25.213,25.213,0.0,0.0,0.0
+2030-01-17 16:00:00,Corderry wind,Corderry,wind,20.213,20.213,0.0,0.0,0.0
+2030-01-17 17:00:00,Corderry wind,Corderry,wind,17.283,17.283,0.0,0.0,0.0
+2030-01-17 18:00:00,Corderry wind,Corderry,wind,16.56,16.56,0.0,0.0,0.0
+2030-01-17 19:00:00,Corderry wind,Corderry,wind,17.553,17.553,0.0,0.0,0.0
+2030-01-17 20:00:00,Corderry wind,Corderry,wind,20.003,20.003,0.0,0.0,0.0
+2030-01-17 21:00:00,Corderry wind,Corderry,wind,24.609,24.609,0.0,0.0,0.0
+2030-01-17 22:00:00,Corderry wind,Corderry,wind,29.014,29.014,0.0,0.0,0.0
+2030-01-17 23:00:00,Corderry wind,Corderry,wind,34.232,34.232,0.0,0.0,0.0
+2030-01-18 00:00:00,Corderry wind,Corderry,wind,42.206,42.206,0.0,0.0,0.0
+2030-01-18 01:00:00,Corderry wind,Corderry,wind,40.076,40.076,0.0,0.0,0.0
+2030-01-18 02:00:00,Corderry wind,Corderry,wind,31.969,31.969,0.0,0.0,0.0
+2030-01-18 03:00:00,Corderry wind,Corderry,wind,26.248,26.248,0.0,0.0,0.0
+2030-01-18 04:00:00,Corderry wind,Corderry,wind,24.614,24.614,0.0,0.0,0.0
+2030-01-18 05:00:00,Corderry wind,Corderry,wind,8.83,8.83,0.0,0.0,0.0
+2030-01-18 06:00:00,Corderry wind,Corderry,wind,18.165,18.165,0.0,0.0,0.0
+2030-01-18 07:00:00,Corderry wind,Corderry,wind,12.958,12.958,0.0,0.0,0.0
+2030-01-18 08:00:00,Corderry wind,Corderry,wind,6.672,6.672,0.0,0.0,0.0
+2030-01-18 09:00:00,Corderry wind,Corderry,wind,10.888,10.888,0.0,0.0,0.0
+2030-01-18 10:00:00,Corderry wind,Corderry,wind,11.379,11.379,0.0,0.0,0.0
+2030-01-18 11:00:00,Corderry wind,Corderry,wind,16.711,16.711,0.0,0.0,0.0
+2030-01-18 12:00:00,Corderry wind,Corderry,wind,52.185,52.185,0.0,0.0,0.0
+2030-01-18 13:00:00,Corderry wind,Corderry,wind,35.34,35.34,0.0,0.0,0.0
+2030-01-18 14:00:00,Corderry wind,Corderry,wind,51.138,51.138,0.0,0.0,0.0
+2030-01-18 15:00:00,Corderry wind,Corderry,wind,58.941,58.941,0.0,0.0,0.0
+2030-01-18 16:00:00,Corderry wind,Corderry,wind,55.045,55.045,0.0,0.0,0.0
+2030-01-18 17:00:00,Corderry wind,Corderry,wind,50.762,50.762,0.0,0.0,0.0
+2030-01-18 18:00:00,Corderry wind,Corderry,wind,34.102,34.102,0.0,0.0,0.0
+2030-01-18 19:00:00,Corderry wind,Corderry,wind,38.515,38.515,0.0,0.0,0.0
+2030-01-18 20:00:00,Corderry wind,Corderry,wind,61.021,61.021,0.0,0.0,0.0
+2030-01-18 21:00:00,Corderry wind,Corderry,wind,59.697,59.697,0.0,0.0,0.0
+2030-01-18 22:00:00,Corderry wind,Corderry,wind,50.854,50.854,0.0,0.0,0.0
+2030-01-18 23:00:00,Corderry wind,Corderry,wind,94.254,94.254,0.0,0.0,0.0
+2030-01-19 00:00:00,Corderry wind,Corderry,wind,126.819,126.819,0.0,0.0,0.0
+2030-01-19 01:00:00,Corderry wind,Corderry,wind,145.017,145.017,0.0,0.0,0.0
+2030-01-19 02:00:00,Corderry wind,Corderry,wind,143.146,143.146,0.0,0.0,0.0
+2030-01-19 03:00:00,Corderry wind,Corderry,wind,139.862,139.862,0.0,0.0,0.0
+2030-01-19 04:00:00,Corderry wind,Corderry,wind,135.007,135.007,0.0,0.0,0.0
+2030-01-19 05:00:00,Corderry wind,Corderry,wind,132.391,132.391,0.0,0.0,0.0
+2030-01-19 06:00:00,Corderry wind,Corderry,wind,114.347,114.347,0.0,0.0,0.0
+2030-01-19 07:00:00,Corderry wind,Corderry,wind,88.14,88.14,0.0,0.0,0.0
+2030-01-19 08:00:00,Corderry wind,Corderry,wind,73.763,73.763,0.0,0.0,0.0
+2030-01-19 09:00:00,Corderry wind,Corderry,wind,62.045,62.045,0.0,0.0,0.0
+2030-01-19 10:00:00,Corderry wind,Corderry,wind,40.123,40.123,0.0,0.0,0.0
+2030-01-19 11:00:00,Corderry wind,Corderry,wind,31.218,31.218,0.0,0.0,0.0
+2030-01-19 12:00:00,Corderry wind,Corderry,wind,38.626,38.626,0.0,0.0,0.0
+2030-01-19 13:00:00,Corderry wind,Corderry,wind,30.863,30.863,0.0,0.0,0.0
+2030-01-19 14:00:00,Corderry wind,Corderry,wind,29.817,29.817,0.0,0.0,0.0
+2030-01-19 15:00:00,Corderry wind,Corderry,wind,31.29,31.29,0.0,0.0,0.0
+2030-01-19 16:00:00,Corderry wind,Corderry,wind,74.285,74.285,0.0,0.0,0.0
+2030-01-19 17:00:00,Corderry wind,Corderry,wind,103.861,103.861,0.0,0.0,0.0
+2030-01-19 18:00:00,Corderry wind,Corderry,wind,73.046,73.046,0.0,0.0,0.0
+2030-01-19 19:00:00,Corderry wind,Corderry,wind,63.711,63.711,0.0,0.0,0.0
+2030-01-19 20:00:00,Corderry wind,Corderry,wind,85.717,85.717,0.0,0.0,0.0
+2030-01-19 21:00:00,Corderry wind,Corderry,wind,100.294,100.294,0.0,0.0,0.0
+2030-01-19 22:00:00,Corderry wind,Corderry,wind,142.701,142.701,0.0,0.0,0.0
+2030-01-19 23:00:00,Corderry wind,Corderry,wind,145.372,145.372,0.0,0.0,0.0
+2030-01-20 00:00:00,Corderry wind,Corderry,wind,145.442,145.442,0.0,0.0,0.0
+2030-01-20 01:00:00,Corderry wind,Corderry,wind,145.375,145.375,0.0,0.0,0.0
+2030-01-20 02:00:00,Corderry wind,Corderry,wind,144.918,144.918,0.0,0.0,0.0
+2030-01-20 03:00:00,Corderry wind,Corderry,wind,125.857,125.857,0.0,0.0,0.0
+2030-01-20 04:00:00,Corderry wind,Corderry,wind,103.874,103.874,0.0,0.0,0.0
+2030-01-20 05:00:00,Corderry wind,Corderry,wind,60.987,60.987,0.0,0.0,0.0
+2030-01-20 06:00:00,Corderry wind,Corderry,wind,78.791,78.791,0.0,0.0,0.0
+2030-01-20 07:00:00,Corderry wind,Corderry,wind,60.772,60.772,0.0,0.0,0.0
+2030-01-20 08:00:00,Corderry wind,Corderry,wind,120.97,120.97,0.0,0.0,0.0
+2030-01-20 09:00:00,Corderry wind,Corderry,wind,103.117,103.117,0.0,0.0,0.0
+2030-01-20 10:00:00,Corderry wind,Corderry,wind,110.094,110.094,0.0,0.0,0.0
+2030-01-20 11:00:00,Corderry wind,Corderry,wind,105.6,105.6,0.0,0.0,0.0
+2030-01-20 12:00:00,Corderry wind,Corderry,wind,130.578,130.578,0.0,0.0,0.0
+2030-01-20 13:00:00,Corderry wind,Corderry,wind,138.467,138.467,0.0,0.0,0.0
+2030-01-20 14:00:00,Corderry wind,Corderry,wind,83.812,83.812,0.0,0.0,0.0
+2030-01-20 15:00:00,Corderry wind,Corderry,wind,98.137,98.137,0.0,0.0,0.0
+2030-01-20 16:00:00,Corderry wind,Corderry,wind,72.243,72.243,0.0,0.0,0.0
+2030-01-20 17:00:00,Corderry wind,Corderry,wind,96.163,96.163,0.0,0.0,0.0
+2030-01-20 18:00:00,Corderry wind,Corderry,wind,76.955,76.955,0.0,0.0,0.0
+2030-01-20 19:00:00,Corderry wind,Corderry,wind,91.606,91.606,0.0,0.0,0.0
+2030-01-20 20:00:00,Corderry wind,Corderry,wind,100.606,100.606,0.0,0.0,0.0
+2030-01-20 21:00:00,Corderry wind,Corderry,wind,68.132,68.132,0.0,0.0,0.0
+2030-01-20 22:00:00,Corderry wind,Corderry,wind,51.13,51.13,0.0,0.0,0.0
+2030-01-20 23:00:00,Corderry wind,Corderry,wind,10.243,10.243,0.0,0.0,0.0
+2030-01-21 00:00:00,Corderry wind,Corderry,wind,12.875,12.875,0.0,0.0,0.0
+2030-01-21 01:00:00,Corderry wind,Corderry,wind,8.229,8.229,0.0,0.0,0.0
+2030-01-21 02:00:00,Corderry wind,Corderry,wind,7.707,7.707,0.0,0.0,0.0
+2030-01-21 03:00:00,Corderry wind,Corderry,wind,8.979,8.979,0.0,0.0,0.0
+2030-01-21 04:00:00,Corderry wind,Corderry,wind,13.933,13.933,0.0,0.0,0.0
+2030-01-21 05:00:00,Corderry wind,Corderry,wind,22.08,22.08,0.0,0.0,0.0
+2030-01-14 06:00:00,Clogher wind,Clogher,wind,42.777,42.777,0.0,0.0,0.0
+2030-01-14 07:00:00,Clogher wind,Clogher,wind,60.763,60.763,0.0,0.0,0.0
+2030-01-14 08:00:00,Clogher wind,Clogher,wind,67.184,67.184,0.0,0.0,0.0
+2030-01-14 09:00:00,Clogher wind,Clogher,wind,81.339,81.339,0.0,0.0,0.0
+2030-01-14 10:00:00,Clogher wind,Clogher,wind,77.214,77.214,0.0,0.0,0.0
+2030-01-14 11:00:00,Clogher wind,Clogher,wind,85.217,85.217,0.0,0.0,0.0
+2030-01-14 12:00:00,Clogher wind,Clogher,wind,49.481,49.481,0.0,0.0,0.0
+2030-01-14 13:00:00,Clogher wind,Clogher,wind,51.638,51.638,0.0,0.0,0.0
+2030-01-14 14:00:00,Clogher wind,Clogher,wind,37.187,37.187,0.0,0.0,0.0
+2030-01-14 15:00:00,Clogher wind,Clogher,wind,69.265,69.265,0.0,0.0,0.0
+2030-01-14 16:00:00,Clogher wind,Clogher,wind,55.399,55.399,0.0,0.0,0.0
+2030-01-14 17:00:00,Clogher wind,Clogher,wind,62.195,62.195,0.0,0.0,0.0
+2030-01-14 18:00:00,Clogher wind,Clogher,wind,43.345,43.345,0.0,0.0,0.0
+2030-01-14 19:00:00,Clogher wind,Clogher,wind,48.396,48.396,0.0,0.0,0.0
+2030-01-14 20:00:00,Clogher wind,Clogher,wind,31.967,31.967,0.0,0.0,0.0
+2030-01-14 21:00:00,Clogher wind,Clogher,wind,38.89,38.89,0.0,0.0,0.0
+2030-01-14 22:00:00,Clogher wind,Clogher,wind,35.584,35.584,0.0,0.0,0.0
+2030-01-14 23:00:00,Clogher wind,Clogher,wind,58.871,58.871,0.0,0.0,0.0
+2030-01-15 00:00:00,Clogher wind,Clogher,wind,75.504,75.504,0.0,0.0,0.0
+2030-01-15 01:00:00,Clogher wind,Clogher,wind,80.075,80.075,0.0,0.0,0.0
+2030-01-15 02:00:00,Clogher wind,Clogher,wind,77.656,77.656,0.0,0.0,0.0
+2030-01-15 03:00:00,Clogher wind,Clogher,wind,85.711,85.711,0.0,0.0,0.0
+2030-01-15 04:00:00,Clogher wind,Clogher,wind,86.252,86.252,0.0,0.0,0.0
+2030-01-15 05:00:00,Clogher wind,Clogher,wind,84.922,51.213,33.709,2.082,31.626
+2030-01-15 06:00:00,Clogher wind,Clogher,wind,70.152,70.152,0.0,0.0,0.0
+2030-01-15 07:00:00,Clogher wind,Clogher,wind,58.791,58.791,0.0,0.0,0.0
+2030-01-15 08:00:00,Clogher wind,Clogher,wind,68.262,68.262,0.0,0.0,0.0
+2030-01-15 09:00:00,Clogher wind,Clogher,wind,73.496,73.496,0.0,0.0,0.0
+2030-01-15 10:00:00,Clogher wind,Clogher,wind,55.271,55.271,0.0,0.0,0.0
+2030-01-15 11:00:00,Clogher wind,Clogher,wind,58.872,58.872,0.0,0.0,0.0
+2030-01-15 12:00:00,Clogher wind,Clogher,wind,48.704,48.704,0.0,0.0,0.0
+2030-01-15 13:00:00,Clogher wind,Clogher,wind,39.049,39.049,0.0,0.0,0.0
+2030-01-15 14:00:00,Clogher wind,Clogher,wind,22.791,22.791,0.0,0.0,0.0
+2030-01-15 15:00:00,Clogher wind,Clogher,wind,20.154,20.154,0.0,0.0,0.0
+2030-01-15 16:00:00,Clogher wind,Clogher,wind,14.313,14.313,0.0,0.0,0.0
+2030-01-15 17:00:00,Clogher wind,Clogher,wind,10.263,10.263,0.0,0.0,0.0
+2030-01-15 18:00:00,Clogher wind,Clogher,wind,15.372,15.372,0.0,0.0,0.0
+2030-01-15 19:00:00,Clogher wind,Clogher,wind,13.777,13.777,0.0,0.0,0.0
+2030-01-15 20:00:00,Clogher wind,Clogher,wind,14.944,14.944,0.0,0.0,0.0
+2030-01-15 21:00:00,Clogher wind,Clogher,wind,9.316,9.316,0.0,0.0,0.0
+2030-01-15 22:00:00,Clogher wind,Clogher,wind,4.997,4.997,0.0,0.0,0.0
+2030-01-15 23:00:00,Clogher wind,Clogher,wind,3.689,3.689,0.0,0.0,0.0
+2030-01-16 00:00:00,Clogher wind,Clogher,wind,10.379,10.379,0.0,0.0,0.0
+2030-01-16 01:00:00,Clogher wind,Clogher,wind,9.723,9.723,0.0,0.0,0.0
+2030-01-16 02:00:00,Clogher wind,Clogher,wind,2.089,2.089,0.0,0.0,0.0
+2030-01-16 03:00:00,Clogher wind,Clogher,wind,6.959,6.959,0.0,0.0,0.0
+2030-01-16 04:00:00,Clogher wind,Clogher,wind,15.496,15.496,0.0,0.0,0.0
+2030-01-16 05:00:00,Clogher wind,Clogher,wind,9.958,9.958,0.0,0.0,0.0
+2030-01-16 06:00:00,Clogher wind,Clogher,wind,10.028,10.028,0.0,0.0,0.0
+2030-01-16 07:00:00,Clogher wind,Clogher,wind,12.004,12.004,0.0,0.0,0.0
+2030-01-16 08:00:00,Clogher wind,Clogher,wind,19.758,19.758,0.0,0.0,0.0
+2030-01-16 09:00:00,Clogher wind,Clogher,wind,15.09,15.09,0.0,0.0,0.0
+2030-01-16 10:00:00,Clogher wind,Clogher,wind,17.457,17.457,0.0,0.0,0.0
+2030-01-16 11:00:00,Clogher wind,Clogher,wind,12.413,12.413,0.0,0.0,0.0
+2030-01-16 12:00:00,Clogher wind,Clogher,wind,13.349,13.349,0.0,0.0,0.0
+2030-01-16 13:00:00,Clogher wind,Clogher,wind,16.026,16.026,0.0,0.0,0.0
+2030-01-16 14:00:00,Clogher wind,Clogher,wind,18.442,18.442,0.0,0.0,0.0
+2030-01-16 15:00:00,Clogher wind,Clogher,wind,20.016,20.016,0.0,0.0,0.0
+2030-01-16 16:00:00,Clogher wind,Clogher,wind,23.129,23.129,0.0,0.0,0.0
+2030-01-16 17:00:00,Clogher wind,Clogher,wind,47.351,47.351,0.0,0.0,0.0
+2030-01-16 18:00:00,Clogher wind,Clogher,wind,28.915,28.915,0.0,0.0,0.0
+2030-01-16 19:00:00,Clogher wind,Clogher,wind,29.433,29.433,0.0,0.0,0.0
+2030-01-16 20:00:00,Clogher wind,Clogher,wind,21.027,21.027,0.0,0.0,0.0
+2030-01-16 21:00:00,Clogher wind,Clogher,wind,18.569,18.569,0.0,0.0,0.0
+2030-01-16 22:00:00,Clogher wind,Clogher,wind,18.025,18.025,0.0,0.0,0.0
+2030-01-16 23:00:00,Clogher wind,Clogher,wind,15.765,15.765,0.0,0.0,0.0
+2030-01-17 00:00:00,Clogher wind,Clogher,wind,29.229,29.229,0.0,0.0,0.0
+2030-01-17 01:00:00,Clogher wind,Clogher,wind,33.801,33.801,0.0,0.0,0.0
+2030-01-17 02:00:00,Clogher wind,Clogher,wind,40.094,40.094,0.0,0.0,0.0
+2030-01-17 03:00:00,Clogher wind,Clogher,wind,39.057,39.057,0.0,0.0,0.0
+2030-01-17 04:00:00,Clogher wind,Clogher,wind,32.202,32.202,0.0,0.0,0.0
+2030-01-17 05:00:00,Clogher wind,Clogher,wind,28.608,28.608,0.0,0.0,0.0
+2030-01-17 06:00:00,Clogher wind,Clogher,wind,32.708,32.708,0.0,0.0,0.0
+2030-01-17 07:00:00,Clogher wind,Clogher,wind,23.054,23.054,0.0,0.0,0.0
+2030-01-17 08:00:00,Clogher wind,Clogher,wind,26.188,26.188,0.0,0.0,0.0
+2030-01-17 09:00:00,Clogher wind,Clogher,wind,16.29,16.29,0.0,0.0,0.0
+2030-01-17 10:00:00,Clogher wind,Clogher,wind,14.446,14.446,0.0,0.0,0.0
+2030-01-17 11:00:00,Clogher wind,Clogher,wind,11.642,11.642,0.0,0.0,0.0
+2030-01-17 12:00:00,Clogher wind,Clogher,wind,20.612,20.612,0.0,0.0,0.0
+2030-01-17 13:00:00,Clogher wind,Clogher,wind,18.439,18.439,0.0,0.0,0.0
+2030-01-17 14:00:00,Clogher wind,Clogher,wind,14.575,14.575,0.0,0.0,0.0
+2030-01-17 15:00:00,Clogher wind,Clogher,wind,13.864,13.864,0.0,0.0,0.0
+2030-01-17 16:00:00,Clogher wind,Clogher,wind,12.078,12.078,0.0,0.0,0.0
+2030-01-17 17:00:00,Clogher wind,Clogher,wind,10.164,10.164,0.0,0.0,0.0
+2030-01-17 18:00:00,Clogher wind,Clogher,wind,8.697,8.697,0.0,0.0,0.0
+2030-01-17 19:00:00,Clogher wind,Clogher,wind,9.356,9.356,0.0,0.0,0.0
+2030-01-17 20:00:00,Clogher wind,Clogher,wind,8.437,8.437,0.0,0.0,0.0
+2030-01-17 21:00:00,Clogher wind,Clogher,wind,7.901,7.901,0.0,0.0,0.0
+2030-01-17 22:00:00,Clogher wind,Clogher,wind,10.595,10.595,0.0,0.0,0.0
+2030-01-17 23:00:00,Clogher wind,Clogher,wind,11.386,11.386,0.0,0.0,0.0
+2030-01-18 00:00:00,Clogher wind,Clogher,wind,15.119,15.119,0.0,0.0,0.0
+2030-01-18 01:00:00,Clogher wind,Clogher,wind,13.427,13.427,0.0,0.0,0.0
+2030-01-18 02:00:00,Clogher wind,Clogher,wind,14.124,14.124,0.0,0.0,0.0
+2030-01-18 03:00:00,Clogher wind,Clogher,wind,12.063,12.063,0.0,0.0,0.0
+2030-01-18 04:00:00,Clogher wind,Clogher,wind,12.384,12.384,0.0,0.0,0.0
+2030-01-18 05:00:00,Clogher wind,Clogher,wind,6.029,6.029,0.0,0.0,0.0
+2030-01-18 06:00:00,Clogher wind,Clogher,wind,10.337,10.337,0.0,0.0,0.0
+2030-01-18 07:00:00,Clogher wind,Clogher,wind,8.777,8.777,0.0,0.0,0.0
+2030-01-18 08:00:00,Clogher wind,Clogher,wind,3.864,3.864,0.0,0.0,0.0
+2030-01-18 09:00:00,Clogher wind,Clogher,wind,6.893,6.893,0.0,0.0,0.0
+2030-01-18 10:00:00,Clogher wind,Clogher,wind,7.335,7.335,0.0,0.0,0.0
+2030-01-18 11:00:00,Clogher wind,Clogher,wind,8.394,8.394,0.0,0.0,0.0
+2030-01-18 12:00:00,Clogher wind,Clogher,wind,18.171,18.171,0.0,0.0,0.0
+2030-01-18 13:00:00,Clogher wind,Clogher,wind,13.115,13.115,0.0,0.0,0.0
+2030-01-18 14:00:00,Clogher wind,Clogher,wind,20.552,20.552,0.0,0.0,0.0
+2030-01-18 15:00:00,Clogher wind,Clogher,wind,29.458,29.458,0.0,0.0,0.0
+2030-01-18 16:00:00,Clogher wind,Clogher,wind,42.3,42.3,0.0,0.0,0.0
+2030-01-18 17:00:00,Clogher wind,Clogher,wind,32.026,32.026,0.0,0.0,0.0
+2030-01-18 18:00:00,Clogher wind,Clogher,wind,20.155,20.155,0.0,0.0,0.0
+2030-01-18 19:00:00,Clogher wind,Clogher,wind,19.2,19.2,0.0,0.0,0.0
+2030-01-18 20:00:00,Clogher wind,Clogher,wind,24.041,24.041,0.0,0.0,0.0
+2030-01-18 21:00:00,Clogher wind,Clogher,wind,25.711,25.711,0.0,0.0,0.0
+2030-01-18 22:00:00,Clogher wind,Clogher,wind,28.4,28.4,0.0,0.0,0.0
+2030-01-18 23:00:00,Clogher wind,Clogher,wind,58.674,58.674,0.0,0.0,0.0
+2030-01-19 00:00:00,Clogher wind,Clogher,wind,71.253,71.253,0.0,0.0,0.0
+2030-01-19 01:00:00,Clogher wind,Clogher,wind,87.181,87.181,0.0,0.0,0.0
+2030-01-19 02:00:00,Clogher wind,Clogher,wind,84.069,84.069,0.0,0.0,0.0
+2030-01-19 03:00:00,Clogher wind,Clogher,wind,85.891,85.891,0.0,0.0,0.0
+2030-01-19 04:00:00,Clogher wind,Clogher,wind,85.301,85.301,0.0,0.0,0.0
+2030-01-19 05:00:00,Clogher wind,Clogher,wind,82.746,41.132,41.614,0.0,41.614
+2030-01-19 06:00:00,Clogher wind,Clogher,wind,75.779,75.779,0.0,0.0,0.0
+2030-01-19 07:00:00,Clogher wind,Clogher,wind,72.21,72.21,0.0,0.0,0.0
+2030-01-19 08:00:00,Clogher wind,Clogher,wind,54.313,54.313,0.0,0.0,0.0
+2030-01-19 09:00:00,Clogher wind,Clogher,wind,51.394,51.394,0.0,0.0,0.0
+2030-01-19 10:00:00,Clogher wind,Clogher,wind,34.518,34.518,0.0,0.0,0.0
+2030-01-19 11:00:00,Clogher wind,Clogher,wind,31.223,31.223,0.0,0.0,0.0
+2030-01-19 12:00:00,Clogher wind,Clogher,wind,37.699,37.699,0.0,0.0,0.0
+2030-01-19 13:00:00,Clogher wind,Clogher,wind,26.717,26.717,0.0,0.0,0.0
+2030-01-19 14:00:00,Clogher wind,Clogher,wind,16.521,16.521,0.0,0.0,0.0
+2030-01-19 15:00:00,Clogher wind,Clogher,wind,18.736,18.736,0.0,0.0,0.0
+2030-01-19 16:00:00,Clogher wind,Clogher,wind,48.652,48.652,0.0,0.0,0.0
+2030-01-19 17:00:00,Clogher wind,Clogher,wind,65.21,65.21,0.0,0.0,0.0
+2030-01-19 18:00:00,Clogher wind,Clogher,wind,49.684,49.684,0.0,0.0,0.0
+2030-01-19 19:00:00,Clogher wind,Clogher,wind,46.429,46.429,0.0,0.0,0.0
+2030-01-19 20:00:00,Clogher wind,Clogher,wind,51.313,51.313,0.0,0.0,0.0
+2030-01-19 21:00:00,Clogher wind,Clogher,wind,49.628,49.628,0.0,0.0,0.0
+2030-01-19 22:00:00,Clogher wind,Clogher,wind,78.682,78.682,0.0,0.0,0.0
+2030-01-19 23:00:00,Clogher wind,Clogher,wind,87.224,87.224,0.0,0.0,0.0
+2030-01-20 00:00:00,Clogher wind,Clogher,wind,88.154,88.154,0.0,0.0,0.0
+2030-01-20 01:00:00,Clogher wind,Clogher,wind,87.474,87.474,0.0,0.0,0.0
+2030-01-20 02:00:00,Clogher wind,Clogher,wind,80.318,-0.0,80.318,0.0,80.318
+2030-01-20 03:00:00,Clogher wind,Clogher,wind,62.89,48.485,14.405,1.059,13.346
+2030-01-20 04:00:00,Clogher wind,Clogher,wind,45.997,45.997,0.0,0.0,0.0
+2030-01-20 05:00:00,Clogher wind,Clogher,wind,25.994,25.994,0.0,0.0,0.0
+2030-01-20 06:00:00,Clogher wind,Clogher,wind,25.405,25.405,0.0,0.0,0.0
+2030-01-20 07:00:00,Clogher wind,Clogher,wind,22.552,22.552,0.0,0.0,0.0
+2030-01-20 08:00:00,Clogher wind,Clogher,wind,39.75,39.75,0.0,0.0,0.0
+2030-01-20 09:00:00,Clogher wind,Clogher,wind,32.943,32.943,0.0,0.0,0.0
+2030-01-20 10:00:00,Clogher wind,Clogher,wind,41.791,41.791,0.0,0.0,0.0
+2030-01-20 11:00:00,Clogher wind,Clogher,wind,36.623,36.623,0.0,0.0,0.0
+2030-01-20 12:00:00,Clogher wind,Clogher,wind,43.874,43.874,0.0,0.0,0.0
+2030-01-20 13:00:00,Clogher wind,Clogher,wind,54.98,54.98,0.0,0.0,0.0
+2030-01-20 14:00:00,Clogher wind,Clogher,wind,37.533,37.533,0.0,0.0,0.0
+2030-01-20 15:00:00,Clogher wind,Clogher,wind,60.537,60.537,0.0,0.0,0.0
+2030-01-20 16:00:00,Clogher wind,Clogher,wind,42.733,42.733,0.0,0.0,0.0
+2030-01-20 17:00:00,Clogher wind,Clogher,wind,60.741,60.741,0.0,0.0,0.0
+2030-01-20 18:00:00,Clogher wind,Clogher,wind,53.229,53.229,0.0,0.0,0.0
+2030-01-20 19:00:00,Clogher wind,Clogher,wind,53.588,53.588,0.0,0.0,0.0
+2030-01-20 20:00:00,Clogher wind,Clogher,wind,56.273,56.273,0.0,0.0,0.0
+2030-01-20 21:00:00,Clogher wind,Clogher,wind,34.761,34.761,0.0,0.0,0.0
+2030-01-20 22:00:00,Clogher wind,Clogher,wind,23.84,23.84,0.0,0.0,0.0
+2030-01-20 23:00:00,Clogher wind,Clogher,wind,8.127,8.127,0.0,0.0,0.0
+2030-01-21 00:00:00,Clogher wind,Clogher,wind,8.166,8.166,0.0,0.0,0.0
+2030-01-21 01:00:00,Clogher wind,Clogher,wind,8.26,8.26,0.0,0.0,0.0
+2030-01-21 02:00:00,Clogher wind,Clogher,wind,13.801,13.801,0.0,0.0,0.0
+2030-01-21 03:00:00,Clogher wind,Clogher,wind,9.834,9.834,0.0,0.0,0.0
+2030-01-21 04:00:00,Clogher wind,Clogher,wind,13.857,13.857,0.0,0.0,0.0
+2030-01-21 05:00:00,Clogher wind,Clogher,wind,18.829,18.829,0.0,0.0,0.0
+2030-01-14 06:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,17.066,17.066,0.0,0.0,0.0
+2030-01-14 07:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,26.305,26.305,0.0,0.0,0.0
+2030-01-14 08:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,24.239,24.239,0.0,0.0,0.0
+2030-01-14 09:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,36.345,36.345,0.0,0.0,0.0
+2030-01-14 10:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,29.49,29.49,0.0,0.0,0.0
+2030-01-14 11:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,39.321,39.321,0.0,0.0,0.0
+2030-01-14 12:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,15.707,15.707,0.0,0.0,0.0
+2030-01-14 13:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,14.54,14.54,0.0,0.0,0.0
+2030-01-14 14:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,10.565,10.565,0.0,0.0,0.0
+2030-01-14 15:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,27.74,27.74,0.0,0.0,0.0
+2030-01-14 16:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,22.419,22.419,0.0,0.0,0.0
+2030-01-14 17:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,27.212,27.212,0.0,0.0,0.0
+2030-01-14 18:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,17.751,17.751,0.0,0.0,0.0
+2030-01-14 19:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,17.285,17.285,0.0,0.0,0.0
+2030-01-14 20:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,9.508,9.508,0.0,0.0,0.0
+2030-01-14 21:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,11.37,11.37,0.0,0.0,0.0
+2030-01-14 22:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,9.744,9.744,0.0,0.0,0.0
+2030-01-14 23:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,21.308,21.308,0.0,0.0,0.0
+2030-01-15 00:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,32.191,32.191,0.0,0.0,0.0
+2030-01-15 01:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,38.429,38.429,0.0,0.0,0.0
+2030-01-15 02:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,35.847,35.847,0.0,0.0,0.0
+2030-01-15 03:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,41.547,41.547,0.0,0.0,0.0
+2030-01-15 04:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,47.323,47.323,0.0,0.0,0.0
+2030-01-15 05:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,43.173,43.173,0.0,0.0,0.0
+2030-01-15 06:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,37.047,37.047,0.0,0.0,0.0
+2030-01-15 07:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,33.469,33.469,0.0,0.0,0.0
+2030-01-15 08:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,36.283,36.283,0.0,0.0,0.0
+2030-01-15 09:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,42.52,42.52,0.0,0.0,0.0
+2030-01-15 10:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,32.324,32.324,0.0,0.0,0.0
+2030-01-15 11:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,37.536,37.536,0.0,0.0,0.0
+2030-01-15 12:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,33.412,33.412,0.0,0.0,0.0
+2030-01-15 13:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,25.303,25.303,0.0,0.0,0.0
+2030-01-15 14:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,20.814,20.814,0.0,0.0,0.0
+2030-01-15 15:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,16.93,16.93,0.0,0.0,0.0
+2030-01-15 16:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,13.517,13.517,0.0,0.0,0.0
+2030-01-15 17:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,14.404,14.404,0.0,0.0,0.0
+2030-01-15 18:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,19.594,19.594,0.0,0.0,0.0
+2030-01-15 19:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,16.056,16.056,0.0,0.0,0.0
+2030-01-15 20:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,16.715,16.715,0.0,0.0,0.0
+2030-01-15 21:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,10.782,10.782,0.0,0.0,0.0
+2030-01-15 22:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,7.663,7.663,0.0,0.0,0.0
+2030-01-15 23:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,6.461,6.461,0.0,0.0,0.0
+2030-01-16 00:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,14.605,14.605,0.0,0.0,0.0
+2030-01-16 01:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,13.71,13.71,0.0,0.0,0.0
+2030-01-16 02:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,4.63,4.63,0.0,0.0,0.0
+2030-01-16 03:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,11.767,11.767,0.0,0.0,0.0
+2030-01-16 04:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,26.011,26.011,0.0,0.0,0.0
+2030-01-16 05:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,19.827,19.827,0.0,0.0,0.0
+2030-01-16 06:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,22.877,22.877,0.0,0.0,0.0
+2030-01-16 07:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,19.13,19.13,0.0,0.0,0.0
+2030-01-16 08:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,24.074,24.074,0.0,0.0,0.0
+2030-01-16 09:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,17.534,17.534,0.0,0.0,0.0
+2030-01-16 10:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,12.066,12.066,0.0,0.0,0.0
+2030-01-16 11:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,8.985,8.985,0.0,0.0,0.0
+2030-01-16 12:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,11.969,11.969,0.0,0.0,0.0
+2030-01-16 13:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,17.106,17.106,0.0,0.0,0.0
+2030-01-16 14:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,16.311,16.311,0.0,0.0,0.0
+2030-01-16 15:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,20.157,20.157,0.0,0.0,0.0
+2030-01-16 16:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,25.185,25.185,0.0,0.0,0.0
+2030-01-16 17:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,39.417,39.417,0.0,0.0,0.0
+2030-01-16 18:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,26.87,26.87,0.0,0.0,0.0
+2030-01-16 19:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,24.865,24.865,0.0,0.0,0.0
+2030-01-16 20:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,21.549,21.549,0.0,0.0,0.0
+2030-01-16 21:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,21.595,21.595,0.0,0.0,0.0
+2030-01-16 22:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,24.811,24.811,0.0,0.0,0.0
+2030-01-16 23:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,27.481,27.481,0.0,0.0,0.0
+2030-01-17 00:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,35.32,35.32,0.0,0.0,0.0
+2030-01-17 01:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,31.739,31.739,0.0,0.0,0.0
+2030-01-17 02:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,31.659,31.659,0.0,0.0,0.0
+2030-01-17 03:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,33.523,33.523,0.0,0.0,0.0
+2030-01-17 04:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,31.606,31.606,0.0,0.0,0.0
+2030-01-17 05:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,29.59,29.59,0.0,0.0,0.0
+2030-01-17 06:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,24.086,24.086,0.0,0.0,0.0
+2030-01-17 07:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,16.125,16.125,0.0,0.0,0.0
+2030-01-17 08:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,18.611,18.611,0.0,0.0,0.0
+2030-01-17 09:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,10.866,10.866,0.0,0.0,0.0
+2030-01-17 10:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,11.568,11.568,0.0,0.0,0.0
+2030-01-17 11:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,11.031,11.031,0.0,0.0,0.0
+2030-01-17 12:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,14.764,14.764,0.0,0.0,0.0
+2030-01-17 13:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,12.868,12.868,0.0,0.0,0.0
+2030-01-17 14:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,10.501,10.501,0.0,0.0,0.0
+2030-01-17 15:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,8.464,8.464,0.0,0.0,0.0
+2030-01-17 16:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,6.864,6.864,0.0,0.0,0.0
+2030-01-17 17:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,5.886,5.886,0.0,0.0,0.0
+2030-01-17 18:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,5.627,5.627,0.0,0.0,0.0
+2030-01-17 19:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,5.927,5.927,0.0,0.0,0.0
+2030-01-17 20:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,6.279,6.279,0.0,0.0,0.0
+2030-01-17 21:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,6.642,6.642,0.0,0.0,0.0
+2030-01-17 22:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,8.462,8.462,0.0,0.0,0.0
+2030-01-17 23:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,10.076,10.076,0.0,0.0,0.0
+2030-01-18 00:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,12.007,12.007,0.0,0.0,0.0
+2030-01-18 01:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,10.539,10.539,0.0,0.0,0.0
+2030-01-18 02:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,10.112,10.112,0.0,0.0,0.0
+2030-01-18 03:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,9.925,9.925,0.0,0.0,0.0
+2030-01-18 04:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,8.687,8.687,0.0,0.0,0.0
+2030-01-18 05:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,4.138,4.138,0.0,0.0,0.0
+2030-01-18 06:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,7.011,7.011,0.0,0.0,0.0
+2030-01-18 07:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,6.152,6.152,0.0,0.0,0.0
+2030-01-18 08:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,3.384,3.384,0.0,0.0,0.0
+2030-01-18 09:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,4.482,4.482,0.0,0.0,0.0
+2030-01-18 10:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,4.806,4.806,0.0,0.0,0.0
+2030-01-18 11:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,5.645,5.645,0.0,0.0,0.0
+2030-01-18 12:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,15.471,15.471,0.0,0.0,0.0
+2030-01-18 13:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,9.904,9.904,0.0,0.0,0.0
+2030-01-18 14:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,13.704,13.704,0.0,0.0,0.0
+2030-01-18 15:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,21.049,21.049,0.0,0.0,0.0
+2030-01-18 16:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,29.124,29.124,0.0,0.0,0.0
+2030-01-18 17:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,30.965,30.965,0.0,0.0,0.0
+2030-01-18 18:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,22.366,22.366,0.0,0.0,0.0
+2030-01-18 19:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,17.897,17.897,0.0,0.0,0.0
+2030-01-18 20:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,23.082,23.082,0.0,0.0,0.0
+2030-01-18 21:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,21.949,21.949,0.0,0.0,0.0
+2030-01-18 22:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,19.96,19.96,0.0,0.0,0.0
+2030-01-18 23:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,35.963,35.963,0.0,0.0,0.0
+2030-01-19 00:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,46.643,46.643,0.0,0.0,0.0
+2030-01-19 01:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,49.489,49.489,0.0,0.0,0.0
+2030-01-19 02:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,49.43,49.43,0.0,0.0,0.0
+2030-01-19 03:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,49.433,49.433,0.0,0.0,0.0
+2030-01-19 04:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,49.217,49.217,0.0,0.0,0.0
+2030-01-19 05:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,49.326,49.326,0.0,0.0,0.0
+2030-01-19 06:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,47.701,47.701,0.0,0.0,0.0
+2030-01-19 07:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,46.78,46.78,0.0,0.0,0.0
+2030-01-19 08:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,43.884,43.884,0.0,0.0,0.0
+2030-01-19 09:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,39.396,39.396,0.0,0.0,0.0
+2030-01-19 10:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,25.887,25.887,0.0,0.0,0.0
+2030-01-19 11:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,25.806,25.806,0.0,0.0,0.0
+2030-01-19 12:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,32.434,32.434,0.0,0.0,0.0
+2030-01-19 13:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,28.053,28.053,0.0,0.0,0.0
+2030-01-19 14:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,24.098,24.098,0.0,0.0,0.0
+2030-01-19 15:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,21.288,21.288,0.0,0.0,0.0
+2030-01-19 16:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,40.749,40.749,0.0,0.0,0.0
+2030-01-19 17:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,47.571,47.571,0.0,0.0,0.0
+2030-01-19 18:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,44.689,44.689,0.0,0.0,0.0
+2030-01-19 19:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,41.122,41.122,0.0,0.0,0.0
+2030-01-19 20:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,44.199,44.199,0.0,0.0,0.0
+2030-01-19 21:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,45.221,45.221,0.0,0.0,0.0
+2030-01-19 22:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,49.44,49.44,0.0,0.0,0.0
+2030-01-19 23:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,49.5,49.5,0.0,0.0,0.0
+2030-01-20 00:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,49.497,49.497,0.0,0.0,0.0
+2030-01-20 01:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,49.5,49.5,0.0,0.0,0.0
+2030-01-20 02:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,49.499,49.499,0.0,0.0,0.0
+2030-01-20 03:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,49.287,49.287,0.0,0.0,0.0
+2030-01-20 04:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,46.447,46.447,0.0,0.0,0.0
+2030-01-20 05:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,32.263,32.263,0.0,0.0,0.0
+2030-01-20 06:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,29.87,29.87,0.0,0.0,0.0
+2030-01-20 07:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,22.506,22.506,0.0,0.0,0.0
+2030-01-20 08:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,40.093,40.093,0.0,0.0,0.0
+2030-01-20 09:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,36.953,36.953,0.0,0.0,0.0
+2030-01-20 10:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,37.478,37.478,0.0,0.0,0.0
+2030-01-20 11:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,33.702,33.702,0.0,0.0,0.0
+2030-01-20 12:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,39.679,39.679,0.0,0.0,0.0
+2030-01-20 13:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,43.251,43.251,0.0,0.0,0.0
+2030-01-20 14:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,26.339,26.339,0.0,0.0,0.0
+2030-01-20 15:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,31.521,31.521,0.0,0.0,0.0
+2030-01-20 16:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,25.752,25.752,0.0,0.0,0.0
+2030-01-20 17:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,32.05,32.05,0.0,0.0,0.0
+2030-01-20 18:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,32.138,32.138,0.0,0.0,0.0
+2030-01-20 19:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,31.658,31.658,0.0,0.0,0.0
+2030-01-20 20:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,33.668,33.668,0.0,0.0,0.0
+2030-01-20 21:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,21.011,21.011,0.0,0.0,0.0
+2030-01-20 22:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,12.784,12.784,0.0,0.0,0.0
+2030-01-20 23:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,3.175,3.175,0.0,0.0,0.0
+2030-01-21 00:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,3.335,3.335,0.0,0.0,0.0
+2030-01-21 01:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,2.952,2.952,0.0,0.0,0.0
+2030-01-21 02:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,4.835,4.835,0.0,0.0,0.0
+2030-01-21 03:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,4.492,4.492,0.0,0.0,0.0
+2030-01-21 04:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,6.129,6.129,0.0,0.0,0.0
+2030-01-21 05:00:00,Cathaleen's Fall wind,Cathaleen's Fall,wind,8.769,8.769,0.0,0.0,0.0
+2030-01-14 06:00:00,Binbane wind,Binbane,wind,27.333,27.333,0.0,0.0,0.0
+2030-01-14 07:00:00,Binbane wind,Binbane,wind,40.47,40.47,0.0,0.0,0.0
+2030-01-14 08:00:00,Binbane wind,Binbane,wind,36.707,36.707,0.0,0.0,0.0
+2030-01-14 09:00:00,Binbane wind,Binbane,wind,51.187,51.187,0.0,0.0,0.0
+2030-01-14 10:00:00,Binbane wind,Binbane,wind,42.917,42.917,0.0,0.0,0.0
+2030-01-14 11:00:00,Binbane wind,Binbane,wind,63.987,63.987,0.0,0.0,0.0
+2030-01-14 12:00:00,Binbane wind,Binbane,wind,23.012,23.012,0.0,0.0,0.0
+2030-01-14 13:00:00,Binbane wind,Binbane,wind,21.689,21.689,0.0,0.0,0.0
+2030-01-14 14:00:00,Binbane wind,Binbane,wind,16.285,16.285,0.0,0.0,0.0
+2030-01-14 15:00:00,Binbane wind,Binbane,wind,39.949,39.949,0.0,0.0,0.0
+2030-01-14 16:00:00,Binbane wind,Binbane,wind,28.084,28.084,0.0,0.0,0.0
+2030-01-14 17:00:00,Binbane wind,Binbane,wind,41.394,41.394,0.0,0.0,0.0
+2030-01-14 18:00:00,Binbane wind,Binbane,wind,29.074,29.074,0.0,0.0,0.0
+2030-01-14 19:00:00,Binbane wind,Binbane,wind,29.042,29.042,0.0,0.0,0.0
+2030-01-14 20:00:00,Binbane wind,Binbane,wind,19.414,19.414,0.0,0.0,0.0
+2030-01-14 21:00:00,Binbane wind,Binbane,wind,26.696,26.696,0.0,0.0,0.0
+2030-01-14 22:00:00,Binbane wind,Binbane,wind,17.749,17.749,0.0,0.0,0.0
+2030-01-14 23:00:00,Binbane wind,Binbane,wind,32.727,32.727,0.0,0.0,0.0
+2030-01-15 00:00:00,Binbane wind,Binbane,wind,50.908,50.908,0.0,0.0,0.0
+2030-01-15 01:00:00,Binbane wind,Binbane,wind,57.862,57.862,0.0,0.0,0.0
+2030-01-15 02:00:00,Binbane wind,Binbane,wind,60.961,56.756,4.205,1.411,2.794
+2030-01-15 03:00:00,Binbane wind,Binbane,wind,73.486,73.486,0.0,0.0,0.0
+2030-01-15 04:00:00,Binbane wind,Binbane,wind,73.962,73.962,0.0,0.0,0.0
+2030-01-15 05:00:00,Binbane wind,Binbane,wind,67.177,67.177,0.0,0.0,0.0
+2030-01-15 06:00:00,Binbane wind,Binbane,wind,49.016,49.016,0.0,0.0,0.0
+2030-01-15 07:00:00,Binbane wind,Binbane,wind,34.414,34.414,0.0,0.0,0.0
+2030-01-15 08:00:00,Binbane wind,Binbane,wind,41.968,41.968,0.0,0.0,0.0
+2030-01-15 09:00:00,Binbane wind,Binbane,wind,51.858,51.858,0.0,0.0,0.0
+2030-01-15 10:00:00,Binbane wind,Binbane,wind,37.597,37.597,0.0,0.0,0.0
+2030-01-15 11:00:00,Binbane wind,Binbane,wind,43.793,43.793,0.0,0.0,0.0
+2030-01-15 12:00:00,Binbane wind,Binbane,wind,36.962,36.962,0.0,0.0,0.0
+2030-01-15 13:00:00,Binbane wind,Binbane,wind,24.096,24.096,0.0,0.0,0.0
+2030-01-15 14:00:00,Binbane wind,Binbane,wind,11.998,11.998,0.0,0.0,0.0
+2030-01-15 15:00:00,Binbane wind,Binbane,wind,12.749,12.749,0.0,0.0,0.0
+2030-01-15 16:00:00,Binbane wind,Binbane,wind,9.3,9.3,0.0,0.0,0.0
+2030-01-15 17:00:00,Binbane wind,Binbane,wind,10.249,10.249,0.0,0.0,0.0
+2030-01-15 18:00:00,Binbane wind,Binbane,wind,13.545,13.545,0.0,0.0,0.0
+2030-01-15 19:00:00,Binbane wind,Binbane,wind,11.019,11.019,0.0,0.0,0.0
+2030-01-15 20:00:00,Binbane wind,Binbane,wind,13.69,13.69,0.0,0.0,0.0
+2030-01-15 21:00:00,Binbane wind,Binbane,wind,7.632,7.632,0.0,0.0,0.0
+2030-01-15 22:00:00,Binbane wind,Binbane,wind,5.643,5.643,0.0,0.0,0.0
+2030-01-15 23:00:00,Binbane wind,Binbane,wind,5.099,5.099,0.0,0.0,0.0
+2030-01-16 00:00:00,Binbane wind,Binbane,wind,12.076,12.076,0.0,0.0,0.0
+2030-01-16 01:00:00,Binbane wind,Binbane,wind,8.987,8.987,0.0,0.0,0.0
+2030-01-16 02:00:00,Binbane wind,Binbane,wind,2.829,2.829,0.0,0.0,0.0
+2030-01-16 03:00:00,Binbane wind,Binbane,wind,8.654,8.654,0.0,0.0,0.0
+2030-01-16 04:00:00,Binbane wind,Binbane,wind,20.661,20.661,0.0,0.0,0.0
+2030-01-16 05:00:00,Binbane wind,Binbane,wind,11.089,11.089,0.0,0.0,0.0
+2030-01-16 06:00:00,Binbane wind,Binbane,wind,13.583,13.583,0.0,0.0,0.0
+2030-01-16 07:00:00,Binbane wind,Binbane,wind,13.306,13.306,0.0,0.0,0.0
+2030-01-16 08:00:00,Binbane wind,Binbane,wind,19.895,19.895,0.0,0.0,0.0
+2030-01-16 09:00:00,Binbane wind,Binbane,wind,14.399,14.399,0.0,0.0,0.0
+2030-01-16 10:00:00,Binbane wind,Binbane,wind,16.849,16.849,0.0,0.0,0.0
+2030-01-16 11:00:00,Binbane wind,Binbane,wind,14.997,14.997,0.0,0.0,0.0
+2030-01-16 12:00:00,Binbane wind,Binbane,wind,18.567,18.567,0.0,0.0,0.0
+2030-01-16 13:00:00,Binbane wind,Binbane,wind,24.895,24.895,0.0,0.0,0.0
+2030-01-16 14:00:00,Binbane wind,Binbane,wind,28.332,28.332,0.0,0.0,0.0
+2030-01-16 15:00:00,Binbane wind,Binbane,wind,29.984,29.984,0.0,0.0,0.0
+2030-01-16 16:00:00,Binbane wind,Binbane,wind,39.455,39.455,0.0,0.0,0.0
+2030-01-16 17:00:00,Binbane wind,Binbane,wind,58.044,58.044,0.0,0.0,0.0
+2030-01-16 18:00:00,Binbane wind,Binbane,wind,40.147,40.147,0.0,0.0,0.0
+2030-01-16 19:00:00,Binbane wind,Binbane,wind,39.044,39.044,0.0,0.0,0.0
+2030-01-16 20:00:00,Binbane wind,Binbane,wind,28.181,28.181,0.0,0.0,0.0
+2030-01-16 21:00:00,Binbane wind,Binbane,wind,21.588,21.588,0.0,0.0,0.0
+2030-01-16 22:00:00,Binbane wind,Binbane,wind,22.209,22.209,0.0,0.0,0.0
+2030-01-16 23:00:00,Binbane wind,Binbane,wind,20.775,20.775,0.0,0.0,0.0
+2030-01-17 00:00:00,Binbane wind,Binbane,wind,34.443,34.443,0.0,0.0,0.0
+2030-01-17 01:00:00,Binbane wind,Binbane,wind,33.601,33.601,0.0,0.0,0.0
+2030-01-17 02:00:00,Binbane wind,Binbane,wind,36.795,36.795,0.0,0.0,0.0
+2030-01-17 03:00:00,Binbane wind,Binbane,wind,35.523,35.523,0.0,0.0,0.0
+2030-01-17 04:00:00,Binbane wind,Binbane,wind,33.262,33.262,0.0,0.0,0.0
+2030-01-17 05:00:00,Binbane wind,Binbane,wind,28.282,28.282,0.0,0.0,0.0
+2030-01-17 06:00:00,Binbane wind,Binbane,wind,25.844,25.844,0.0,0.0,0.0
+2030-01-17 07:00:00,Binbane wind,Binbane,wind,16.21,16.21,0.0,0.0,0.0
+2030-01-17 08:00:00,Binbane wind,Binbane,wind,19.468,19.468,0.0,0.0,0.0
+2030-01-17 09:00:00,Binbane wind,Binbane,wind,14.401,14.401,0.0,0.0,0.0
+2030-01-17 10:00:00,Binbane wind,Binbane,wind,14.001,14.001,0.0,0.0,0.0
+2030-01-17 11:00:00,Binbane wind,Binbane,wind,13.625,13.625,0.0,0.0,0.0
+2030-01-17 12:00:00,Binbane wind,Binbane,wind,22.976,22.976,0.0,0.0,0.0
+2030-01-17 13:00:00,Binbane wind,Binbane,wind,20.599,20.599,0.0,0.0,0.0
+2030-01-17 14:00:00,Binbane wind,Binbane,wind,16.556,16.556,0.0,0.0,0.0
+2030-01-17 15:00:00,Binbane wind,Binbane,wind,13.499,13.499,0.0,0.0,0.0
+2030-01-17 16:00:00,Binbane wind,Binbane,wind,11.13,11.13,0.0,0.0,0.0
+2030-01-17 17:00:00,Binbane wind,Binbane,wind,9.51,9.51,0.0,0.0,0.0
+2030-01-17 18:00:00,Binbane wind,Binbane,wind,9.024,9.024,0.0,0.0,0.0
+2030-01-17 19:00:00,Binbane wind,Binbane,wind,9.273,9.273,0.0,0.0,0.0
+2030-01-17 20:00:00,Binbane wind,Binbane,wind,9.81,9.81,0.0,0.0,0.0
+2030-01-17 21:00:00,Binbane wind,Binbane,wind,9.857,9.857,0.0,0.0,0.0
+2030-01-17 22:00:00,Binbane wind,Binbane,wind,13.199,13.199,0.0,0.0,0.0
+2030-01-17 23:00:00,Binbane wind,Binbane,wind,14.314,14.314,0.0,0.0,0.0
+2030-01-18 00:00:00,Binbane wind,Binbane,wind,16.286,16.286,0.0,0.0,0.0
+2030-01-18 01:00:00,Binbane wind,Binbane,wind,11.557,11.557,0.0,0.0,0.0
+2030-01-18 02:00:00,Binbane wind,Binbane,wind,9.059,9.059,0.0,0.0,0.0
+2030-01-18 03:00:00,Binbane wind,Binbane,wind,8.554,8.554,0.0,0.0,0.0
+2030-01-18 04:00:00,Binbane wind,Binbane,wind,8.779,8.779,0.0,0.0,0.0
+2030-01-18 05:00:00,Binbane wind,Binbane,wind,4.219,4.219,0.0,0.0,0.0
+2030-01-18 06:00:00,Binbane wind,Binbane,wind,8.471,8.471,0.0,0.0,0.0
+2030-01-18 07:00:00,Binbane wind,Binbane,wind,6.709,6.709,0.0,0.0,0.0
+2030-01-18 08:00:00,Binbane wind,Binbane,wind,4.248,4.248,0.0,0.0,0.0
+2030-01-18 09:00:00,Binbane wind,Binbane,wind,9.795,9.795,0.0,0.0,0.0
+2030-01-18 10:00:00,Binbane wind,Binbane,wind,9.135,9.135,0.0,0.0,0.0
+2030-01-18 11:00:00,Binbane wind,Binbane,wind,10.915,10.915,0.0,0.0,0.0
+2030-01-18 12:00:00,Binbane wind,Binbane,wind,21.609,21.609,0.0,0.0,0.0
+2030-01-18 13:00:00,Binbane wind,Binbane,wind,16.037,16.037,0.0,0.0,0.0
+2030-01-18 14:00:00,Binbane wind,Binbane,wind,21.904,21.904,0.0,0.0,0.0
+2030-01-18 15:00:00,Binbane wind,Binbane,wind,31.442,31.442,0.0,0.0,0.0
+2030-01-18 16:00:00,Binbane wind,Binbane,wind,52.617,52.617,0.0,0.0,0.0
+2030-01-18 17:00:00,Binbane wind,Binbane,wind,52.258,52.258,0.0,0.0,0.0
+2030-01-18 18:00:00,Binbane wind,Binbane,wind,34.871,34.871,0.0,0.0,0.0
+2030-01-18 19:00:00,Binbane wind,Binbane,wind,28.701,28.701,0.0,0.0,0.0
+2030-01-18 20:00:00,Binbane wind,Binbane,wind,37.396,37.396,0.0,0.0,0.0
+2030-01-18 21:00:00,Binbane wind,Binbane,wind,37.502,37.502,0.0,0.0,0.0
+2030-01-18 22:00:00,Binbane wind,Binbane,wind,37.948,37.948,0.0,0.0,0.0
+2030-01-18 23:00:00,Binbane wind,Binbane,wind,61.311,61.311,0.0,0.0,0.0
+2030-01-19 00:00:00,Binbane wind,Binbane,wind,71.021,71.021,0.0,0.0,0.0
+2030-01-19 01:00:00,Binbane wind,Binbane,wind,79.621,79.621,0.0,0.0,0.0
+2030-01-19 02:00:00,Binbane wind,Binbane,wind,77.995,-0.0,77.995,0.0,77.995
+2030-01-19 03:00:00,Binbane wind,Binbane,wind,78.726,78.726,0.0,0.0,0.0
+2030-01-19 04:00:00,Binbane wind,Binbane,wind,79.384,-0.0,79.384,0.0,79.384
+2030-01-19 05:00:00,Binbane wind,Binbane,wind,78.765,-0.0,78.765,0.0,78.765
+2030-01-19 06:00:00,Binbane wind,Binbane,wind,75.608,18.276,57.332,1.788,55.543
+2030-01-19 07:00:00,Binbane wind,Binbane,wind,75.73,75.73,0.0,0.0,0.0
+2030-01-19 08:00:00,Binbane wind,Binbane,wind,70.556,70.556,0.0,0.0,0.0
+2030-01-19 09:00:00,Binbane wind,Binbane,wind,63.83,63.83,0.0,0.0,0.0
+2030-01-19 10:00:00,Binbane wind,Binbane,wind,46.75,46.75,0.0,0.0,0.0
+2030-01-19 11:00:00,Binbane wind,Binbane,wind,46.597,46.597,0.0,0.0,0.0
+2030-01-19 12:00:00,Binbane wind,Binbane,wind,47.365,47.365,0.0,0.0,0.0
+2030-01-19 13:00:00,Binbane wind,Binbane,wind,33.014,33.014,0.0,0.0,0.0
+2030-01-19 14:00:00,Binbane wind,Binbane,wind,25.473,25.473,0.0,0.0,0.0
+2030-01-19 15:00:00,Binbane wind,Binbane,wind,24.558,24.558,0.0,0.0,0.0
+2030-01-19 16:00:00,Binbane wind,Binbane,wind,60.048,11.666,48.382,48.382,0.0
+2030-01-19 17:00:00,Binbane wind,Binbane,wind,73.579,73.579,0.0,0.0,0.0
+2030-01-19 18:00:00,Binbane wind,Binbane,wind,59.144,13.687,45.457,45.457,0.0
+2030-01-19 19:00:00,Binbane wind,Binbane,wind,59.62,36.411,23.209,23.209,0.0
+2030-01-19 20:00:00,Binbane wind,Binbane,wind,67.336,25.041,42.296,42.296,0.0
+2030-01-19 21:00:00,Binbane wind,Binbane,wind,71.62,36.235,35.385,35.385,0.0
+2030-01-19 22:00:00,Binbane wind,Binbane,wind,80.247,80.247,0.0,0.0,0.0
+2030-01-19 23:00:00,Binbane wind,Binbane,wind,80.37,80.37,0.0,0.0,0.0
+2030-01-20 00:00:00,Binbane wind,Binbane,wind,80.368,-0.0,80.368,0.0,80.368
+2030-01-20 01:00:00,Binbane wind,Binbane,wind,80.37,80.37,0.0,0.0,0.0
+2030-01-20 02:00:00,Binbane wind,Binbane,wind,80.349,80.349,0.0,0.0,0.0
+2030-01-20 03:00:00,Binbane wind,Binbane,wind,79.659,79.659,0.0,0.0,0.0
+2030-01-20 04:00:00,Binbane wind,Binbane,wind,77.118,77.118,0.0,0.0,0.0
+2030-01-20 05:00:00,Binbane wind,Binbane,wind,65.817,65.817,0.0,0.0,0.0
+2030-01-20 06:00:00,Binbane wind,Binbane,wind,68.891,68.891,0.0,0.0,0.0
+2030-01-20 07:00:00,Binbane wind,Binbane,wind,63.49,63.49,0.0,0.0,0.0
+2030-01-20 08:00:00,Binbane wind,Binbane,wind,77.737,77.737,0.0,0.0,0.0
+2030-01-20 09:00:00,Binbane wind,Binbane,wind,73.414,73.414,0.0,0.0,0.0
+2030-01-20 10:00:00,Binbane wind,Binbane,wind,77.504,77.504,0.0,0.0,0.0
+2030-01-20 11:00:00,Binbane wind,Binbane,wind,71.104,71.104,0.0,0.0,0.0
+2030-01-20 12:00:00,Binbane wind,Binbane,wind,73.634,73.634,0.0,0.0,0.0
+2030-01-20 13:00:00,Binbane wind,Binbane,wind,78.078,78.078,0.0,0.0,0.0
+2030-01-20 14:00:00,Binbane wind,Binbane,wind,65.852,65.852,0.0,0.0,0.0
+2030-01-20 15:00:00,Binbane wind,Binbane,wind,72.604,72.604,0.0,0.0,0.0
+2030-01-20 16:00:00,Binbane wind,Binbane,wind,59.93,59.93,0.0,0.0,0.0
+2030-01-20 17:00:00,Binbane wind,Binbane,wind,69.846,69.846,0.0,0.0,0.0
+2030-01-20 18:00:00,Binbane wind,Binbane,wind,56.881,56.881,0.0,0.0,0.0
+2030-01-20 19:00:00,Binbane wind,Binbane,wind,57.926,57.926,0.0,0.0,0.0
+2030-01-20 20:00:00,Binbane wind,Binbane,wind,51.425,51.425,0.0,0.0,0.0
+2030-01-20 21:00:00,Binbane wind,Binbane,wind,40.213,40.213,0.0,0.0,0.0
+2030-01-20 22:00:00,Binbane wind,Binbane,wind,20.977,20.977,0.0,0.0,0.0
+2030-01-20 23:00:00,Binbane wind,Binbane,wind,7.582,7.582,0.0,0.0,0.0
+2030-01-21 00:00:00,Binbane wind,Binbane,wind,6.651,6.651,0.0,0.0,0.0
+2030-01-21 01:00:00,Binbane wind,Binbane,wind,5.272,5.272,0.0,0.0,0.0
+2030-01-21 02:00:00,Binbane wind,Binbane,wind,7.456,7.456,0.0,0.0,0.0
+2030-01-21 03:00:00,Binbane wind,Binbane,wind,5.396,5.396,0.0,0.0,0.0
+2030-01-21 04:00:00,Binbane wind,Binbane,wind,8.579,8.579,0.0,0.0,0.0
+2030-01-21 05:00:00,Binbane wind,Binbane,wind,13.318,13.318,0.0,0.0,0.0
+2030-01-14 06:00:00,Letterkenny wind,Letterkenny,wind,41.831,41.831,0.0,0.0,0.0
+2030-01-14 07:00:00,Letterkenny wind,Letterkenny,wind,63.577,63.577,0.0,0.0,0.0
+2030-01-14 08:00:00,Letterkenny wind,Letterkenny,wind,64.666,64.666,0.0,0.0,0.0
+2030-01-14 09:00:00,Letterkenny wind,Letterkenny,wind,70.407,70.407,0.0,0.0,0.0
+2030-01-14 10:00:00,Letterkenny wind,Letterkenny,wind,66.909,66.909,0.0,0.0,0.0
+2030-01-14 11:00:00,Letterkenny wind,Letterkenny,wind,72.918,61.605,11.312,3.473,7.839
+2030-01-14 12:00:00,Letterkenny wind,Letterkenny,wind,45.802,45.802,0.0,0.0,0.0
+2030-01-14 13:00:00,Letterkenny wind,Letterkenny,wind,38.752,38.752,0.0,0.0,0.0
+2030-01-14 14:00:00,Letterkenny wind,Letterkenny,wind,27.804,27.804,0.0,0.0,0.0
+2030-01-14 15:00:00,Letterkenny wind,Letterkenny,wind,53.219,53.219,0.0,0.0,0.0
+2030-01-14 16:00:00,Letterkenny wind,Letterkenny,wind,44.315,44.315,0.0,0.0,0.0
+2030-01-14 17:00:00,Letterkenny wind,Letterkenny,wind,50.453,50.453,0.0,0.0,0.0
+2030-01-14 18:00:00,Letterkenny wind,Letterkenny,wind,42.007,42.007,0.0,0.0,0.0
+2030-01-14 19:00:00,Letterkenny wind,Letterkenny,wind,48.328,48.328,0.0,0.0,0.0
+2030-01-14 20:00:00,Letterkenny wind,Letterkenny,wind,33.139,33.139,0.0,0.0,0.0
+2030-01-14 21:00:00,Letterkenny wind,Letterkenny,wind,34.825,34.825,0.0,0.0,0.0
+2030-01-14 22:00:00,Letterkenny wind,Letterkenny,wind,29.774,29.774,0.0,0.0,0.0
+2030-01-14 23:00:00,Letterkenny wind,Letterkenny,wind,51.554,51.554,0.0,0.0,0.0
+2030-01-15 00:00:00,Letterkenny wind,Letterkenny,wind,70.859,70.859,0.0,0.0,0.0
+2030-01-15 01:00:00,Letterkenny wind,Letterkenny,wind,75.138,61.814,13.324,6.392,6.932
+2030-01-15 02:00:00,Letterkenny wind,Letterkenny,wind,75.138,75.138,0.0,0.0,0.0
+2030-01-15 03:00:00,Letterkenny wind,Letterkenny,wind,80.174,26.502,53.672,1.599,52.072
+2030-01-15 04:00:00,Letterkenny wind,Letterkenny,wind,79.53,9.778,69.752,0.0,69.752
+2030-01-15 05:00:00,Letterkenny wind,Letterkenny,wind,77.218,77.218,0.0,0.0,0.0
+2030-01-15 06:00:00,Letterkenny wind,Letterkenny,wind,72.342,72.342,0.0,0.0,0.0
+2030-01-15 07:00:00,Letterkenny wind,Letterkenny,wind,56.816,56.816,0.0,0.0,0.0
+2030-01-15 08:00:00,Letterkenny wind,Letterkenny,wind,58.967,58.967,0.0,0.0,0.0
+2030-01-15 09:00:00,Letterkenny wind,Letterkenny,wind,59.84,59.84,0.0,0.0,0.0
+2030-01-15 10:00:00,Letterkenny wind,Letterkenny,wind,54.572,54.572,0.0,0.0,0.0
+2030-01-15 11:00:00,Letterkenny wind,Letterkenny,wind,53.631,53.631,0.0,0.0,0.0
+2030-01-15 12:00:00,Letterkenny wind,Letterkenny,wind,49.416,49.416,0.0,0.0,0.0
+2030-01-15 13:00:00,Letterkenny wind,Letterkenny,wind,44.026,44.026,0.0,0.0,0.0
+2030-01-15 14:00:00,Letterkenny wind,Letterkenny,wind,25.553,25.553,0.0,0.0,0.0
+2030-01-15 15:00:00,Letterkenny wind,Letterkenny,wind,23.65,23.65,0.0,0.0,0.0
+2030-01-15 16:00:00,Letterkenny wind,Letterkenny,wind,18.176,18.176,0.0,0.0,0.0
+2030-01-15 17:00:00,Letterkenny wind,Letterkenny,wind,22.371,22.371,0.0,0.0,0.0
+2030-01-15 18:00:00,Letterkenny wind,Letterkenny,wind,34.71,34.71,0.0,0.0,0.0
+2030-01-15 19:00:00,Letterkenny wind,Letterkenny,wind,28.111,28.111,0.0,0.0,0.0
+2030-01-15 20:00:00,Letterkenny wind,Letterkenny,wind,25.894,25.894,0.0,0.0,0.0
+2030-01-15 21:00:00,Letterkenny wind,Letterkenny,wind,12.102,12.102,0.0,0.0,0.0
+2030-01-15 22:00:00,Letterkenny wind,Letterkenny,wind,8.029,8.029,0.0,0.0,0.0
+2030-01-15 23:00:00,Letterkenny wind,Letterkenny,wind,7.21,7.21,0.0,0.0,0.0
+2030-01-16 00:00:00,Letterkenny wind,Letterkenny,wind,14.742,14.742,0.0,0.0,0.0
+2030-01-16 01:00:00,Letterkenny wind,Letterkenny,wind,11.34,11.34,0.0,0.0,0.0
+2030-01-16 02:00:00,Letterkenny wind,Letterkenny,wind,3.757,3.757,0.0,0.0,0.0
+2030-01-16 03:00:00,Letterkenny wind,Letterkenny,wind,11.142,11.142,0.0,0.0,0.0
+2030-01-16 04:00:00,Letterkenny wind,Letterkenny,wind,21.173,21.173,0.0,0.0,0.0
+2030-01-16 05:00:00,Letterkenny wind,Letterkenny,wind,12.913,12.913,0.0,0.0,0.0
+2030-01-16 06:00:00,Letterkenny wind,Letterkenny,wind,10.352,10.352,0.0,0.0,0.0
+2030-01-16 07:00:00,Letterkenny wind,Letterkenny,wind,10.455,10.455,0.0,0.0,0.0
+2030-01-16 08:00:00,Letterkenny wind,Letterkenny,wind,15.055,15.055,0.0,0.0,0.0
+2030-01-16 09:00:00,Letterkenny wind,Letterkenny,wind,10.12,10.12,0.0,0.0,0.0
+2030-01-16 10:00:00,Letterkenny wind,Letterkenny,wind,15.321,15.321,0.0,0.0,0.0
+2030-01-16 11:00:00,Letterkenny wind,Letterkenny,wind,12.94,12.94,0.0,0.0,0.0
+2030-01-16 12:00:00,Letterkenny wind,Letterkenny,wind,16.174,16.174,0.0,0.0,0.0
+2030-01-16 13:00:00,Letterkenny wind,Letterkenny,wind,20.703,20.703,0.0,0.0,0.0
+2030-01-16 14:00:00,Letterkenny wind,Letterkenny,wind,26.516,26.516,0.0,0.0,0.0
+2030-01-16 15:00:00,Letterkenny wind,Letterkenny,wind,31.016,31.016,0.0,0.0,0.0
+2030-01-16 16:00:00,Letterkenny wind,Letterkenny,wind,41.659,41.659,0.0,0.0,0.0
+2030-01-16 17:00:00,Letterkenny wind,Letterkenny,wind,69.498,69.498,0.0,0.0,0.0
+2030-01-16 18:00:00,Letterkenny wind,Letterkenny,wind,51.21,51.21,0.0,0.0,0.0
+2030-01-16 19:00:00,Letterkenny wind,Letterkenny,wind,46.326,46.326,0.0,0.0,0.0
+2030-01-16 20:00:00,Letterkenny wind,Letterkenny,wind,35.99,35.99,0.0,0.0,0.0
+2030-01-16 21:00:00,Letterkenny wind,Letterkenny,wind,22.364,22.364,0.0,0.0,0.0
+2030-01-16 22:00:00,Letterkenny wind,Letterkenny,wind,26.096,26.096,0.0,0.0,0.0
+2030-01-16 23:00:00,Letterkenny wind,Letterkenny,wind,27.202,27.202,0.0,0.0,0.0
+2030-01-17 00:00:00,Letterkenny wind,Letterkenny,wind,48.64,48.64,0.0,0.0,0.0
+2030-01-17 01:00:00,Letterkenny wind,Letterkenny,wind,50.908,50.908,0.0,0.0,0.0
+2030-01-17 02:00:00,Letterkenny wind,Letterkenny,wind,64.266,64.266,0.0,0.0,0.0
+2030-01-17 03:00:00,Letterkenny wind,Letterkenny,wind,60.911,60.911,0.0,0.0,0.0
+2030-01-17 04:00:00,Letterkenny wind,Letterkenny,wind,54.424,54.424,0.0,0.0,0.0
+2030-01-17 05:00:00,Letterkenny wind,Letterkenny,wind,52.862,52.862,0.0,0.0,0.0
+2030-01-17 06:00:00,Letterkenny wind,Letterkenny,wind,40.0,40.0,0.0,0.0,0.0
+2030-01-17 07:00:00,Letterkenny wind,Letterkenny,wind,28.477,28.477,0.0,0.0,0.0
+2030-01-17 08:00:00,Letterkenny wind,Letterkenny,wind,36.838,36.838,0.0,0.0,0.0
+2030-01-17 09:00:00,Letterkenny wind,Letterkenny,wind,29.466,29.466,0.0,0.0,0.0
+2030-01-17 10:00:00,Letterkenny wind,Letterkenny,wind,28.91,28.91,0.0,0.0,0.0
+2030-01-17 11:00:00,Letterkenny wind,Letterkenny,wind,30.803,30.803,0.0,0.0,0.0
+2030-01-17 12:00:00,Letterkenny wind,Letterkenny,wind,28.143,28.143,0.0,0.0,0.0
+2030-01-17 13:00:00,Letterkenny wind,Letterkenny,wind,22.541,22.541,0.0,0.0,0.0
+2030-01-17 14:00:00,Letterkenny wind,Letterkenny,wind,18.029,18.029,0.0,0.0,0.0
+2030-01-17 15:00:00,Letterkenny wind,Letterkenny,wind,14.199,14.199,0.0,0.0,0.0
+2030-01-17 16:00:00,Letterkenny wind,Letterkenny,wind,11.355,11.355,0.0,0.0,0.0
+2030-01-17 17:00:00,Letterkenny wind,Letterkenny,wind,9.727,9.727,0.0,0.0,0.0
+2030-01-17 18:00:00,Letterkenny wind,Letterkenny,wind,9.305,9.305,0.0,0.0,0.0
+2030-01-17 19:00:00,Letterkenny wind,Letterkenny,wind,9.916,9.916,0.0,0.0,0.0
+2030-01-17 20:00:00,Letterkenny wind,Letterkenny,wind,11.685,11.685,0.0,0.0,0.0
+2030-01-17 21:00:00,Letterkenny wind,Letterkenny,wind,14.054,14.054,0.0,0.0,0.0
+2030-01-17 22:00:00,Letterkenny wind,Letterkenny,wind,18.007,18.007,0.0,0.0,0.0
+2030-01-17 23:00:00,Letterkenny wind,Letterkenny,wind,22.327,22.327,0.0,0.0,0.0
+2030-01-18 00:00:00,Letterkenny wind,Letterkenny,wind,27.349,27.349,0.0,0.0,0.0
+2030-01-18 01:00:00,Letterkenny wind,Letterkenny,wind,32.14,32.14,0.0,0.0,0.0
+2030-01-18 02:00:00,Letterkenny wind,Letterkenny,wind,36.969,36.969,0.0,0.0,0.0
+2030-01-18 03:00:00,Letterkenny wind,Letterkenny,wind,40.917,40.917,0.0,0.0,0.0
+2030-01-18 04:00:00,Letterkenny wind,Letterkenny,wind,45.099,45.099,0.0,0.0,0.0
+2030-01-18 05:00:00,Letterkenny wind,Letterkenny,wind,38.397,38.397,0.0,0.0,0.0
+2030-01-18 06:00:00,Letterkenny wind,Letterkenny,wind,45.188,45.188,0.0,0.0,0.0
+2030-01-18 07:00:00,Letterkenny wind,Letterkenny,wind,42.372,42.372,0.0,0.0,0.0
+2030-01-18 08:00:00,Letterkenny wind,Letterkenny,wind,30.273,30.273,0.0,0.0,0.0
+2030-01-18 09:00:00,Letterkenny wind,Letterkenny,wind,42.528,42.528,0.0,0.0,0.0
+2030-01-18 10:00:00,Letterkenny wind,Letterkenny,wind,46.786,46.786,0.0,0.0,0.0
+2030-01-18 11:00:00,Letterkenny wind,Letterkenny,wind,46.875,46.875,0.0,0.0,0.0
+2030-01-18 12:00:00,Letterkenny wind,Letterkenny,wind,71.084,71.084,0.0,0.0,0.0
+2030-01-18 13:00:00,Letterkenny wind,Letterkenny,wind,64.533,64.533,0.0,0.0,0.0
+2030-01-18 14:00:00,Letterkenny wind,Letterkenny,wind,68.668,68.668,0.0,0.0,0.0
+2030-01-18 15:00:00,Letterkenny wind,Letterkenny,wind,73.36,73.36,0.0,0.0,0.0
+2030-01-18 16:00:00,Letterkenny wind,Letterkenny,wind,79.607,79.607,0.0,0.0,0.0
+2030-01-18 17:00:00,Letterkenny wind,Letterkenny,wind,78.812,78.812,0.0,0.0,0.0
+2030-01-18 18:00:00,Letterkenny wind,Letterkenny,wind,67.753,67.753,0.0,0.0,0.0
+2030-01-18 19:00:00,Letterkenny wind,Letterkenny,wind,61.115,61.115,0.0,0.0,0.0
+2030-01-18 20:00:00,Letterkenny wind,Letterkenny,wind,69.347,69.347,0.0,0.0,0.0
+2030-01-18 21:00:00,Letterkenny wind,Letterkenny,wind,72.039,72.039,0.0,0.0,0.0
+2030-01-18 22:00:00,Letterkenny wind,Letterkenny,wind,71.485,71.485,0.0,0.0,0.0
+2030-01-18 23:00:00,Letterkenny wind,Letterkenny,wind,79.993,79.993,0.0,0.0,0.0
+2030-01-19 00:00:00,Letterkenny wind,Letterkenny,wind,81.115,30.654,50.461,0.0,50.461
+2030-01-19 01:00:00,Letterkenny wind,Letterkenny,wind,81.691,-0.0,81.691,0.0,81.691
+2030-01-19 02:00:00,Letterkenny wind,Letterkenny,wind,81.631,17.858,63.773,0.0,63.773
+2030-01-19 03:00:00,Letterkenny wind,Letterkenny,wind,81.616,-0.0,81.616,0.0,81.616
+2030-01-19 04:00:00,Letterkenny wind,Letterkenny,wind,81.662,17.717,63.945,0.0,63.945
+2030-01-19 05:00:00,Letterkenny wind,Letterkenny,wind,81.544,81.544,0.0,0.0,0.0
+2030-01-19 06:00:00,Letterkenny wind,Letterkenny,wind,81.359,81.359,0.0,0.0,0.0
+2030-01-19 07:00:00,Letterkenny wind,Letterkenny,wind,80.454,59.017,21.437,11.278,10.159
+2030-01-19 08:00:00,Letterkenny wind,Letterkenny,wind,80.057,80.057,0.0,0.0,0.0
+2030-01-19 09:00:00,Letterkenny wind,Letterkenny,wind,81.052,81.052,0.0,0.0,0.0
+2030-01-19 10:00:00,Letterkenny wind,Letterkenny,wind,79.351,79.351,0.0,0.0,0.0
+2030-01-19 11:00:00,Letterkenny wind,Letterkenny,wind,79.185,79.185,0.0,0.0,0.0
+2030-01-19 12:00:00,Letterkenny wind,Letterkenny,wind,80.195,80.195,0.0,0.0,0.0
+2030-01-19 13:00:00,Letterkenny wind,Letterkenny,wind,75.133,75.133,0.0,0.0,0.0
+2030-01-19 14:00:00,Letterkenny wind,Letterkenny,wind,63.579,63.579,0.0,0.0,0.0
+2030-01-19 15:00:00,Letterkenny wind,Letterkenny,wind,64.361,64.361,0.0,0.0,0.0
+2030-01-19 16:00:00,Letterkenny wind,Letterkenny,wind,80.748,80.748,0.0,0.0,0.0
+2030-01-19 17:00:00,Letterkenny wind,Letterkenny,wind,81.519,45.276,36.242,18.338,17.904
+2030-01-19 18:00:00,Letterkenny wind,Letterkenny,wind,80.363,80.363,0.0,0.0,0.0
+2030-01-19 19:00:00,Letterkenny wind,Letterkenny,wind,78.58,78.58,0.0,0.0,0.0
+2030-01-19 20:00:00,Letterkenny wind,Letterkenny,wind,76.5,76.5,0.0,0.0,0.0
+2030-01-19 21:00:00,Letterkenny wind,Letterkenny,wind,72.629,72.629,0.0,0.0,0.0
+2030-01-19 22:00:00,Letterkenny wind,Letterkenny,wind,80.662,-0.0,80.662,0.0,80.662
+2030-01-19 23:00:00,Letterkenny wind,Letterkenny,wind,81.616,-0.0,81.616,0.0,81.616
+2030-01-20 00:00:00,Letterkenny wind,Letterkenny,wind,81.589,0.959,80.631,0.0,80.631
+2030-01-20 01:00:00,Letterkenny wind,Letterkenny,wind,81.163,-0.0,81.163,0.0,81.163
+2030-01-20 02:00:00,Letterkenny wind,Letterkenny,wind,73.548,73.548,0.0,0.0,0.0
+2030-01-20 03:00:00,Letterkenny wind,Letterkenny,wind,62.225,62.225,0.0,0.0,0.0
+2030-01-20 04:00:00,Letterkenny wind,Letterkenny,wind,45.486,45.486,0.0,0.0,0.0
+2030-01-20 05:00:00,Letterkenny wind,Letterkenny,wind,30.326,30.326,0.0,0.0,0.0
+2030-01-20 06:00:00,Letterkenny wind,Letterkenny,wind,27.255,27.255,0.0,0.0,0.0
+2030-01-20 07:00:00,Letterkenny wind,Letterkenny,wind,23.998,23.998,0.0,0.0,0.0
+2030-01-20 08:00:00,Letterkenny wind,Letterkenny,wind,40.105,40.105,0.0,0.0,0.0
+2030-01-20 09:00:00,Letterkenny wind,Letterkenny,wind,34.851,34.851,0.0,0.0,0.0
+2030-01-20 10:00:00,Letterkenny wind,Letterkenny,wind,39.863,39.863,0.0,0.0,0.0
+2030-01-20 11:00:00,Letterkenny wind,Letterkenny,wind,38.624,38.624,0.0,0.0,0.0
+2030-01-20 12:00:00,Letterkenny wind,Letterkenny,wind,47.939,47.939,0.0,0.0,0.0
+2030-01-20 13:00:00,Letterkenny wind,Letterkenny,wind,60.047,60.047,0.0,0.0,0.0
+2030-01-20 14:00:00,Letterkenny wind,Letterkenny,wind,41.926,41.926,0.0,0.0,0.0
+2030-01-20 15:00:00,Letterkenny wind,Letterkenny,wind,52.454,52.454,0.0,0.0,0.0
+2030-01-20 16:00:00,Letterkenny wind,Letterkenny,wind,51.74,51.74,0.0,0.0,0.0
+2030-01-20 17:00:00,Letterkenny wind,Letterkenny,wind,54.733,54.733,0.0,0.0,0.0
+2030-01-20 18:00:00,Letterkenny wind,Letterkenny,wind,52.045,52.045,0.0,0.0,0.0
+2030-01-20 19:00:00,Letterkenny wind,Letterkenny,wind,57.051,57.051,0.0,0.0,0.0
+2030-01-20 20:00:00,Letterkenny wind,Letterkenny,wind,61.332,61.332,0.0,0.0,0.0
+2030-01-20 21:00:00,Letterkenny wind,Letterkenny,wind,41.908,41.908,0.0,0.0,0.0
+2030-01-20 22:00:00,Letterkenny wind,Letterkenny,wind,32.377,32.377,0.0,0.0,0.0
+2030-01-20 23:00:00,Letterkenny wind,Letterkenny,wind,14.399,14.399,0.0,0.0,0.0
+2030-01-21 00:00:00,Letterkenny wind,Letterkenny,wind,9.788,9.788,0.0,0.0,0.0
+2030-01-21 01:00:00,Letterkenny wind,Letterkenny,wind,10.465,10.465,0.0,0.0,0.0
+2030-01-21 02:00:00,Letterkenny wind,Letterkenny,wind,20.313,20.313,0.0,0.0,0.0
+2030-01-21 03:00:00,Letterkenny wind,Letterkenny,wind,17.802,17.802,0.0,0.0,0.0
+2030-01-21 04:00:00,Letterkenny wind,Letterkenny,wind,18.382,18.382,0.0,0.0,0.0
+2030-01-21 05:00:00,Letterkenny wind,Letterkenny,wind,28.811,28.811,0.0,0.0,0.0
+2030-01-14 06:00:00,Drumkeen wind,Drumkeen,wind,34.555,34.555,0.0,0.0,0.0
+2030-01-14 07:00:00,Drumkeen wind,Drumkeen,wind,50.975,50.975,0.0,0.0,0.0
+2030-01-14 08:00:00,Drumkeen wind,Drumkeen,wind,51.112,51.112,0.0,0.0,0.0
+2030-01-14 09:00:00,Drumkeen wind,Drumkeen,wind,60.533,18.86,41.672,28.571,13.102
+2030-01-14 10:00:00,Drumkeen wind,Drumkeen,wind,56.045,56.045,0.0,0.0,0.0
+2030-01-14 11:00:00,Drumkeen wind,Drumkeen,wind,64.69,-0.0,64.69,19.86,44.829
+2030-01-14 12:00:00,Drumkeen wind,Drumkeen,wind,33.796,33.796,0.0,0.0,0.0
+2030-01-14 13:00:00,Drumkeen wind,Drumkeen,wind,30.684,30.684,0.0,0.0,0.0
+2030-01-14 14:00:00,Drumkeen wind,Drumkeen,wind,26.817,26.817,0.0,0.0,0.0
+2030-01-14 15:00:00,Drumkeen wind,Drumkeen,wind,57.385,57.385,0.0,0.0,0.0
+2030-01-14 16:00:00,Drumkeen wind,Drumkeen,wind,47.527,47.527,0.0,0.0,0.0
+2030-01-14 17:00:00,Drumkeen wind,Drumkeen,wind,54.655,54.655,0.0,0.0,0.0
+2030-01-14 18:00:00,Drumkeen wind,Drumkeen,wind,44.28,44.28,0.0,0.0,0.0
+2030-01-14 19:00:00,Drumkeen wind,Drumkeen,wind,46.03,46.03,0.0,0.0,0.0
+2030-01-14 20:00:00,Drumkeen wind,Drumkeen,wind,29.723,29.723,0.0,0.0,0.0
+2030-01-14 21:00:00,Drumkeen wind,Drumkeen,wind,34.568,34.568,0.0,0.0,0.0
+2030-01-14 22:00:00,Drumkeen wind,Drumkeen,wind,29.901,29.901,0.0,0.0,0.0
+2030-01-14 23:00:00,Drumkeen wind,Drumkeen,wind,49.626,49.626,0.0,0.0,0.0
+2030-01-15 00:00:00,Drumkeen wind,Drumkeen,wind,67.326,23.249,44.077,42.853,1.224
+2030-01-15 01:00:00,Drumkeen wind,Drumkeen,wind,68.021,-0.0,68.021,32.632,35.389
+2030-01-15 02:00:00,Drumkeen wind,Drumkeen,wind,68.708,-0.0,68.708,23.056,45.652
+2030-01-15 03:00:00,Drumkeen wind,Drumkeen,wind,75.213,-0.0,75.213,2.241,72.972
+2030-01-15 04:00:00,Drumkeen wind,Drumkeen,wind,74.799,-0.0,74.799,0.0,74.799
+2030-01-15 05:00:00,Drumkeen wind,Drumkeen,wind,73.22,-0.0,73.22,4.523,68.697
+2030-01-15 06:00:00,Drumkeen wind,Drumkeen,wind,68.829,50.726,18.103,18.103,0.0
+2030-01-15 07:00:00,Drumkeen wind,Drumkeen,wind,56.924,56.924,0.0,0.0,0.0
+2030-01-15 08:00:00,Drumkeen wind,Drumkeen,wind,57.225,57.225,0.0,0.0,0.0
+2030-01-15 09:00:00,Drumkeen wind,Drumkeen,wind,53.956,53.956,0.0,0.0,0.0
+2030-01-15 10:00:00,Drumkeen wind,Drumkeen,wind,51.648,51.648,0.0,0.0,0.0
+2030-01-15 11:00:00,Drumkeen wind,Drumkeen,wind,50.764,50.764,0.0,0.0,0.0
+2030-01-15 12:00:00,Drumkeen wind,Drumkeen,wind,45.52,45.52,0.0,0.0,0.0
+2030-01-15 13:00:00,Drumkeen wind,Drumkeen,wind,41.934,41.934,0.0,0.0,0.0
+2030-01-15 14:00:00,Drumkeen wind,Drumkeen,wind,24.559,24.559,0.0,0.0,0.0
+2030-01-15 15:00:00,Drumkeen wind,Drumkeen,wind,22.97,22.97,0.0,0.0,0.0
+2030-01-15 16:00:00,Drumkeen wind,Drumkeen,wind,18.939,18.939,0.0,0.0,0.0
+2030-01-15 17:00:00,Drumkeen wind,Drumkeen,wind,19.469,19.469,0.0,0.0,0.0
+2030-01-15 18:00:00,Drumkeen wind,Drumkeen,wind,26.913,26.913,0.0,0.0,0.0
+2030-01-15 19:00:00,Drumkeen wind,Drumkeen,wind,20.185,20.185,0.0,0.0,0.0
+2030-01-15 20:00:00,Drumkeen wind,Drumkeen,wind,22.518,22.518,0.0,0.0,0.0
+2030-01-15 21:00:00,Drumkeen wind,Drumkeen,wind,11.954,11.954,0.0,0.0,0.0
+2030-01-15 22:00:00,Drumkeen wind,Drumkeen,wind,7.935,7.935,0.0,0.0,0.0
+2030-01-15 23:00:00,Drumkeen wind,Drumkeen,wind,5.982,5.982,0.0,0.0,0.0
+2030-01-16 00:00:00,Drumkeen wind,Drumkeen,wind,11.248,11.248,0.0,0.0,0.0
+2030-01-16 01:00:00,Drumkeen wind,Drumkeen,wind,9.656,9.656,0.0,0.0,0.0
+2030-01-16 02:00:00,Drumkeen wind,Drumkeen,wind,3.054,3.054,0.0,0.0,0.0
+2030-01-16 03:00:00,Drumkeen wind,Drumkeen,wind,9.178,9.178,0.0,0.0,0.0
+2030-01-16 04:00:00,Drumkeen wind,Drumkeen,wind,17.312,17.312,0.0,0.0,0.0
+2030-01-16 05:00:00,Drumkeen wind,Drumkeen,wind,9.69,9.69,0.0,0.0,0.0
+2030-01-16 06:00:00,Drumkeen wind,Drumkeen,wind,7.081,7.081,0.0,0.0,0.0
+2030-01-16 07:00:00,Drumkeen wind,Drumkeen,wind,7.379,7.379,0.0,0.0,0.0
+2030-01-16 08:00:00,Drumkeen wind,Drumkeen,wind,11.97,11.97,0.0,0.0,0.0
+2030-01-16 09:00:00,Drumkeen wind,Drumkeen,wind,6.89,6.89,0.0,0.0,0.0
+2030-01-16 10:00:00,Drumkeen wind,Drumkeen,wind,11.838,11.838,0.0,0.0,0.0
+2030-01-16 11:00:00,Drumkeen wind,Drumkeen,wind,8.95,8.95,0.0,0.0,0.0
+2030-01-16 12:00:00,Drumkeen wind,Drumkeen,wind,12.138,12.138,0.0,0.0,0.0
+2030-01-16 13:00:00,Drumkeen wind,Drumkeen,wind,14.969,14.969,0.0,0.0,0.0
+2030-01-16 14:00:00,Drumkeen wind,Drumkeen,wind,18.828,18.828,0.0,0.0,0.0
+2030-01-16 15:00:00,Drumkeen wind,Drumkeen,wind,22.275,22.275,0.0,0.0,0.0
+2030-01-16 16:00:00,Drumkeen wind,Drumkeen,wind,26.525,26.525,0.0,0.0,0.0
+2030-01-16 17:00:00,Drumkeen wind,Drumkeen,wind,48.547,48.547,0.0,0.0,0.0
+2030-01-16 18:00:00,Drumkeen wind,Drumkeen,wind,32.508,32.508,0.0,0.0,0.0
+2030-01-16 19:00:00,Drumkeen wind,Drumkeen,wind,26.584,26.584,0.0,0.0,0.0
+2030-01-16 20:00:00,Drumkeen wind,Drumkeen,wind,21.89,21.89,0.0,0.0,0.0
+2030-01-16 21:00:00,Drumkeen wind,Drumkeen,wind,12.636,12.636,0.0,0.0,0.0
+2030-01-16 22:00:00,Drumkeen wind,Drumkeen,wind,16.042,16.042,0.0,0.0,0.0
+2030-01-16 23:00:00,Drumkeen wind,Drumkeen,wind,15.111,15.111,0.0,0.0,0.0
+2030-01-17 00:00:00,Drumkeen wind,Drumkeen,wind,26.172,26.172,0.0,0.0,0.0
+2030-01-17 01:00:00,Drumkeen wind,Drumkeen,wind,30.578,30.578,0.0,0.0,0.0
+2030-01-17 02:00:00,Drumkeen wind,Drumkeen,wind,42.295,42.295,0.0,0.0,0.0
+2030-01-17 03:00:00,Drumkeen wind,Drumkeen,wind,41.138,41.138,0.0,0.0,0.0
+2030-01-17 04:00:00,Drumkeen wind,Drumkeen,wind,35.21,35.21,0.0,0.0,0.0
+2030-01-17 05:00:00,Drumkeen wind,Drumkeen,wind,35.385,35.385,0.0,0.0,0.0
+2030-01-17 06:00:00,Drumkeen wind,Drumkeen,wind,30.348,30.348,0.0,0.0,0.0
+2030-01-17 07:00:00,Drumkeen wind,Drumkeen,wind,21.251,21.251,0.0,0.0,0.0
+2030-01-17 08:00:00,Drumkeen wind,Drumkeen,wind,25.689,25.689,0.0,0.0,0.0
+2030-01-17 09:00:00,Drumkeen wind,Drumkeen,wind,20.691,20.691,0.0,0.0,0.0
+2030-01-17 10:00:00,Drumkeen wind,Drumkeen,wind,22.778,22.778,0.0,0.0,0.0
+2030-01-17 11:00:00,Drumkeen wind,Drumkeen,wind,26.687,26.687,0.0,0.0,0.0
+2030-01-17 12:00:00,Drumkeen wind,Drumkeen,wind,26.319,26.319,0.0,0.0,0.0
+2030-01-17 13:00:00,Drumkeen wind,Drumkeen,wind,21.093,21.093,0.0,0.0,0.0
+2030-01-17 14:00:00,Drumkeen wind,Drumkeen,wind,16.868,16.868,0.0,0.0,0.0
+2030-01-17 15:00:00,Drumkeen wind,Drumkeen,wind,13.296,13.296,0.0,0.0,0.0
+2030-01-17 16:00:00,Drumkeen wind,Drumkeen,wind,10.632,10.632,0.0,0.0,0.0
+2030-01-17 17:00:00,Drumkeen wind,Drumkeen,wind,9.106,9.106,0.0,0.0,0.0
+2030-01-17 18:00:00,Drumkeen wind,Drumkeen,wind,8.715,8.715,0.0,0.0,0.0
+2030-01-17 19:00:00,Drumkeen wind,Drumkeen,wind,9.284,9.284,0.0,0.0,0.0
+2030-01-17 20:00:00,Drumkeen wind,Drumkeen,wind,10.943,10.943,0.0,0.0,0.0
+2030-01-17 21:00:00,Drumkeen wind,Drumkeen,wind,13.255,13.255,0.0,0.0,0.0
+2030-01-17 22:00:00,Drumkeen wind,Drumkeen,wind,16.892,16.892,0.0,0.0,0.0
+2030-01-17 23:00:00,Drumkeen wind,Drumkeen,wind,20.829,20.829,0.0,0.0,0.0
+2030-01-18 00:00:00,Drumkeen wind,Drumkeen,wind,25.502,25.502,0.0,0.0,0.0
+2030-01-18 01:00:00,Drumkeen wind,Drumkeen,wind,29.155,29.155,0.0,0.0,0.0
+2030-01-18 02:00:00,Drumkeen wind,Drumkeen,wind,31.838,31.838,0.0,0.0,0.0
+2030-01-18 03:00:00,Drumkeen wind,Drumkeen,wind,31.753,31.753,0.0,0.0,0.0
+2030-01-18 04:00:00,Drumkeen wind,Drumkeen,wind,34.236,34.236,0.0,0.0,0.0
+2030-01-18 05:00:00,Drumkeen wind,Drumkeen,wind,22.07,22.07,0.0,0.0,0.0
+2030-01-18 06:00:00,Drumkeen wind,Drumkeen,wind,27.841,27.841,0.0,0.0,0.0
+2030-01-18 07:00:00,Drumkeen wind,Drumkeen,wind,27.326,27.326,0.0,0.0,0.0
+2030-01-18 08:00:00,Drumkeen wind,Drumkeen,wind,13.427,13.427,0.0,0.0,0.0
+2030-01-18 09:00:00,Drumkeen wind,Drumkeen,wind,23.57,23.57,0.0,0.0,0.0
+2030-01-18 10:00:00,Drumkeen wind,Drumkeen,wind,22.853,22.853,0.0,0.0,0.0
+2030-01-18 11:00:00,Drumkeen wind,Drumkeen,wind,24.244,24.244,0.0,0.0,0.0
+2030-01-18 12:00:00,Drumkeen wind,Drumkeen,wind,45.532,45.532,0.0,0.0,0.0
+2030-01-18 13:00:00,Drumkeen wind,Drumkeen,wind,38.189,38.189,0.0,0.0,0.0
+2030-01-18 14:00:00,Drumkeen wind,Drumkeen,wind,46.799,46.799,0.0,0.0,0.0
+2030-01-18 15:00:00,Drumkeen wind,Drumkeen,wind,49.421,49.421,0.0,0.0,0.0
+2030-01-18 16:00:00,Drumkeen wind,Drumkeen,wind,63.683,63.683,0.0,0.0,0.0
+2030-01-18 17:00:00,Drumkeen wind,Drumkeen,wind,56.374,56.374,0.0,0.0,0.0
+2030-01-18 18:00:00,Drumkeen wind,Drumkeen,wind,34.95,34.95,0.0,0.0,0.0
+2030-01-18 19:00:00,Drumkeen wind,Drumkeen,wind,30.013,30.013,0.0,0.0,0.0
+2030-01-18 20:00:00,Drumkeen wind,Drumkeen,wind,38.138,38.138,0.0,0.0,0.0
+2030-01-18 21:00:00,Drumkeen wind,Drumkeen,wind,37.776,37.776,0.0,0.0,0.0
+2030-01-18 22:00:00,Drumkeen wind,Drumkeen,wind,34.323,34.323,0.0,0.0,0.0
+2030-01-18 23:00:00,Drumkeen wind,Drumkeen,wind,55.539,33.347,22.192,22.192,0.0
+2030-01-19 00:00:00,Drumkeen wind,Drumkeen,wind,63.667,-0.0,63.667,0.0,63.667
+2030-01-19 01:00:00,Drumkeen wind,Drumkeen,wind,75.997,-0.0,75.997,0.0,75.997
+2030-01-19 02:00:00,Drumkeen wind,Drumkeen,wind,71.425,-0.0,71.425,0.0,71.425
+2030-01-19 03:00:00,Drumkeen wind,Drumkeen,wind,73.476,-0.0,73.476,0.0,73.476
+2030-01-19 04:00:00,Drumkeen wind,Drumkeen,wind,74.641,-0.0,74.641,0.0,74.641
+2030-01-19 05:00:00,Drumkeen wind,Drumkeen,wind,71.577,-0.0,71.577,0.0,71.577
+2030-01-19 06:00:00,Drumkeen wind,Drumkeen,wind,69.716,-0.0,69.716,2.175,67.542
+2030-01-19 07:00:00,Drumkeen wind,Drumkeen,wind,60.01,-0.0,60.01,31.571,28.439
+2030-01-19 08:00:00,Drumkeen wind,Drumkeen,wind,50.403,29.977,20.427,20.427,0.0
+2030-01-19 09:00:00,Drumkeen wind,Drumkeen,wind,56.12,45.825,10.296,10.296,0.0
+2030-01-19 10:00:00,Drumkeen wind,Drumkeen,wind,49.071,49.071,0.0,0.0,0.0
+2030-01-19 11:00:00,Drumkeen wind,Drumkeen,wind,54.55,54.55,0.0,0.0,0.0
+2030-01-19 12:00:00,Drumkeen wind,Drumkeen,wind,59.919,59.919,0.0,0.0,0.0
+2030-01-19 13:00:00,Drumkeen wind,Drumkeen,wind,42.942,42.942,0.0,0.0,0.0
+2030-01-19 14:00:00,Drumkeen wind,Drumkeen,wind,30.756,30.756,0.0,0.0,0.0
+2030-01-19 15:00:00,Drumkeen wind,Drumkeen,wind,32.958,32.958,0.0,0.0,0.0
+2030-01-19 16:00:00,Drumkeen wind,Drumkeen,wind,69.098,69.098,0.0,0.0,0.0
+2030-01-19 17:00:00,Drumkeen wind,Drumkeen,wind,74.905,-0.0,74.905,37.9,37.005
+2030-01-19 18:00:00,Drumkeen wind,Drumkeen,wind,71.828,71.828,0.0,0.0,0.0
+2030-01-19 19:00:00,Drumkeen wind,Drumkeen,wind,66.077,66.077,0.0,0.0,0.0
+2030-01-19 20:00:00,Drumkeen wind,Drumkeen,wind,66.324,66.324,0.0,0.0,0.0
+2030-01-19 21:00:00,Drumkeen wind,Drumkeen,wind,64.393,64.393,0.0,0.0,0.0
+2030-01-19 22:00:00,Drumkeen wind,Drumkeen,wind,74.219,-0.0,74.219,0.0,74.219
+2030-01-19 23:00:00,Drumkeen wind,Drumkeen,wind,76.346,-0.0,76.346,0.0,76.346
+2030-01-20 00:00:00,Drumkeen wind,Drumkeen,wind,76.409,-0.0,76.409,0.0,76.409
+2030-01-20 01:00:00,Drumkeen wind,Drumkeen,wind,76.349,-0.0,76.349,0.0,76.349
+2030-01-20 02:00:00,Drumkeen wind,Drumkeen,wind,72.89,-0.0,72.89,0.0,72.89
+2030-01-20 03:00:00,Drumkeen wind,Drumkeen,wind,64.551,-0.0,64.551,4.745,59.807
+2030-01-20 04:00:00,Drumkeen wind,Drumkeen,wind,51.414,51.414,0.0,0.0,0.0
+2030-01-20 05:00:00,Drumkeen wind,Drumkeen,wind,29.876,29.876,0.0,0.0,0.0
+2030-01-20 06:00:00,Drumkeen wind,Drumkeen,wind,29.001,29.001,0.0,0.0,0.0
+2030-01-20 07:00:00,Drumkeen wind,Drumkeen,wind,27.969,27.969,0.0,0.0,0.0
+2030-01-20 08:00:00,Drumkeen wind,Drumkeen,wind,42.847,42.847,0.0,0.0,0.0
+2030-01-20 09:00:00,Drumkeen wind,Drumkeen,wind,34.562,34.562,0.0,0.0,0.0
+2030-01-20 10:00:00,Drumkeen wind,Drumkeen,wind,38.159,38.159,0.0,0.0,0.0
+2030-01-20 11:00:00,Drumkeen wind,Drumkeen,wind,30.561,30.561,0.0,0.0,0.0
+2030-01-20 12:00:00,Drumkeen wind,Drumkeen,wind,37.444,37.444,0.0,0.0,0.0
+2030-01-20 13:00:00,Drumkeen wind,Drumkeen,wind,54.134,17.412,36.722,36.722,0.0
+2030-01-20 14:00:00,Drumkeen wind,Drumkeen,wind,39.451,39.451,0.0,0.0,0.0
+2030-01-20 15:00:00,Drumkeen wind,Drumkeen,wind,46.165,37.566,8.598,8.598,0.0
+2030-01-20 16:00:00,Drumkeen wind,Drumkeen,wind,39.493,39.493,0.0,0.0,0.0
+2030-01-20 17:00:00,Drumkeen wind,Drumkeen,wind,50.34,50.34,0.0,0.0,0.0
+2030-01-20 18:00:00,Drumkeen wind,Drumkeen,wind,46.797,46.797,0.0,0.0,0.0
+2030-01-20 19:00:00,Drumkeen wind,Drumkeen,wind,45.842,45.842,0.0,0.0,0.0
+2030-01-20 20:00:00,Drumkeen wind,Drumkeen,wind,51.691,51.691,0.0,0.0,0.0
+2030-01-20 21:00:00,Drumkeen wind,Drumkeen,wind,27.837,27.837,0.0,0.0,0.0
+2030-01-20 22:00:00,Drumkeen wind,Drumkeen,wind,21.363,21.363,0.0,0.0,0.0
+2030-01-20 23:00:00,Drumkeen wind,Drumkeen,wind,8.221,8.221,0.0,0.0,0.0
+2030-01-21 00:00:00,Drumkeen wind,Drumkeen,wind,6.116,6.116,0.0,0.0,0.0
+2030-01-21 01:00:00,Drumkeen wind,Drumkeen,wind,4.84,4.84,0.0,0.0,0.0
+2030-01-21 02:00:00,Drumkeen wind,Drumkeen,wind,10.601,10.601,0.0,0.0,0.0
+2030-01-21 03:00:00,Drumkeen wind,Drumkeen,wind,7.544,7.544,0.0,0.0,0.0
+2030-01-21 04:00:00,Drumkeen wind,Drumkeen,wind,8.564,8.564,0.0,0.0,0.0
+2030-01-21 05:00:00,Drumkeen wind,Drumkeen,wind,13.754,13.754,0.0,0.0,0.0
+2030-01-14 06:00:00,Glenree wind,Glenree,wind,13.034,13.034,0.0,0.0,0.0
+2030-01-14 07:00:00,Glenree wind,Glenree,wind,17.533,17.533,0.0,0.0,0.0
+2030-01-14 08:00:00,Glenree wind,Glenree,wind,16.188,16.188,0.0,0.0,0.0
+2030-01-14 09:00:00,Glenree wind,Glenree,wind,36.097,36.097,0.0,0.0,0.0
+2030-01-14 10:00:00,Glenree wind,Glenree,wind,35.575,35.575,0.0,0.0,0.0
+2030-01-14 11:00:00,Glenree wind,Glenree,wind,38.008,38.008,0.0,0.0,0.0
+2030-01-14 12:00:00,Glenree wind,Glenree,wind,11.558,11.558,0.0,0.0,0.0
+2030-01-14 13:00:00,Glenree wind,Glenree,wind,8.556,8.556,0.0,0.0,0.0
+2030-01-14 14:00:00,Glenree wind,Glenree,wind,7.203,7.203,0.0,0.0,0.0
+2030-01-14 15:00:00,Glenree wind,Glenree,wind,18.874,18.874,0.0,0.0,0.0
+2030-01-14 16:00:00,Glenree wind,Glenree,wind,18.252,18.252,0.0,0.0,0.0
+2030-01-14 17:00:00,Glenree wind,Glenree,wind,28.266,28.266,0.0,0.0,0.0
+2030-01-14 18:00:00,Glenree wind,Glenree,wind,23.141,23.141,0.0,0.0,0.0
+2030-01-14 19:00:00,Glenree wind,Glenree,wind,22.083,22.083,0.0,0.0,0.0
+2030-01-14 20:00:00,Glenree wind,Glenree,wind,15.239,15.239,0.0,0.0,0.0
+2030-01-14 21:00:00,Glenree wind,Glenree,wind,11.634,11.634,0.0,0.0,0.0
+2030-01-14 22:00:00,Glenree wind,Glenree,wind,9.142,9.142,0.0,0.0,0.0
+2030-01-14 23:00:00,Glenree wind,Glenree,wind,15.468,15.468,0.0,0.0,0.0
+2030-01-15 00:00:00,Glenree wind,Glenree,wind,21.638,21.638,0.0,0.0,0.0
+2030-01-15 01:00:00,Glenree wind,Glenree,wind,23.282,23.282,0.0,0.0,0.0
+2030-01-15 02:00:00,Glenree wind,Glenree,wind,29.98,29.98,0.0,0.0,0.0
+2030-01-15 03:00:00,Glenree wind,Glenree,wind,38.594,38.594,0.0,0.0,0.0
+2030-01-15 04:00:00,Glenree wind,Glenree,wind,44.249,44.249,0.0,0.0,0.0
+2030-01-15 05:00:00,Glenree wind,Glenree,wind,35.348,35.348,0.0,0.0,0.0
+2030-01-15 06:00:00,Glenree wind,Glenree,wind,29.728,29.728,0.0,0.0,0.0
+2030-01-15 07:00:00,Glenree wind,Glenree,wind,20.24,20.24,0.0,0.0,0.0
+2030-01-15 08:00:00,Glenree wind,Glenree,wind,22.068,22.068,0.0,0.0,0.0
+2030-01-15 09:00:00,Glenree wind,Glenree,wind,32.183,32.183,0.0,0.0,0.0
+2030-01-15 10:00:00,Glenree wind,Glenree,wind,40.721,40.721,0.0,0.0,0.0
+2030-01-15 11:00:00,Glenree wind,Glenree,wind,55.977,55.977,0.0,0.0,0.0
+2030-01-15 12:00:00,Glenree wind,Glenree,wind,35.43,35.43,0.0,0.0,0.0
+2030-01-15 13:00:00,Glenree wind,Glenree,wind,19.622,19.622,0.0,0.0,0.0
+2030-01-15 14:00:00,Glenree wind,Glenree,wind,18.369,18.369,0.0,0.0,0.0
+2030-01-15 15:00:00,Glenree wind,Glenree,wind,18.501,18.501,0.0,0.0,0.0
+2030-01-15 16:00:00,Glenree wind,Glenree,wind,21.371,21.371,0.0,0.0,0.0
+2030-01-15 17:00:00,Glenree wind,Glenree,wind,15.649,15.649,0.0,0.0,0.0
+2030-01-15 18:00:00,Glenree wind,Glenree,wind,16.305,16.305,0.0,0.0,0.0
+2030-01-15 19:00:00,Glenree wind,Glenree,wind,11.258,11.258,0.0,0.0,0.0
+2030-01-15 20:00:00,Glenree wind,Glenree,wind,14.777,14.777,0.0,0.0,0.0
+2030-01-15 21:00:00,Glenree wind,Glenree,wind,11.428,11.428,0.0,0.0,0.0
+2030-01-15 22:00:00,Glenree wind,Glenree,wind,15.724,15.724,0.0,0.0,0.0
+2030-01-15 23:00:00,Glenree wind,Glenree,wind,8.065,8.065,0.0,0.0,0.0
+2030-01-16 00:00:00,Glenree wind,Glenree,wind,11.68,11.68,0.0,0.0,0.0
+2030-01-16 01:00:00,Glenree wind,Glenree,wind,8.868,8.868,0.0,0.0,0.0
+2030-01-16 02:00:00,Glenree wind,Glenree,wind,2.315,2.315,0.0,0.0,0.0
+2030-01-16 03:00:00,Glenree wind,Glenree,wind,7.583,7.583,0.0,0.0,0.0
+2030-01-16 04:00:00,Glenree wind,Glenree,wind,22.064,22.064,0.0,0.0,0.0
+2030-01-16 05:00:00,Glenree wind,Glenree,wind,20.108,20.108,0.0,0.0,0.0
+2030-01-16 06:00:00,Glenree wind,Glenree,wind,25.86,25.86,0.0,0.0,0.0
+2030-01-16 07:00:00,Glenree wind,Glenree,wind,25.333,25.333,0.0,0.0,0.0
+2030-01-16 08:00:00,Glenree wind,Glenree,wind,44.748,44.748,0.0,0.0,0.0
+2030-01-16 09:00:00,Glenree wind,Glenree,wind,48.289,48.289,0.0,0.0,0.0
+2030-01-16 10:00:00,Glenree wind,Glenree,wind,37.888,37.888,0.0,0.0,0.0
+2030-01-16 11:00:00,Glenree wind,Glenree,wind,32.967,32.967,0.0,0.0,0.0
+2030-01-16 12:00:00,Glenree wind,Glenree,wind,49.413,49.413,0.0,0.0,0.0
+2030-01-16 13:00:00,Glenree wind,Glenree,wind,54.416,54.416,0.0,0.0,0.0
+2030-01-16 14:00:00,Glenree wind,Glenree,wind,62.039,62.039,0.0,0.0,0.0
+2030-01-16 15:00:00,Glenree wind,Glenree,wind,62.108,62.108,0.0,0.0,0.0
+2030-01-16 16:00:00,Glenree wind,Glenree,wind,67.318,67.318,0.0,0.0,0.0
+2030-01-16 17:00:00,Glenree wind,Glenree,wind,69.394,69.394,0.0,0.0,0.0
+2030-01-16 18:00:00,Glenree wind,Glenree,wind,67.22,67.22,0.0,0.0,0.0
+2030-01-16 19:00:00,Glenree wind,Glenree,wind,68.872,68.872,0.0,0.0,0.0
+2030-01-16 20:00:00,Glenree wind,Glenree,wind,68.834,68.834,0.0,0.0,0.0
+2030-01-16 21:00:00,Glenree wind,Glenree,wind,67.677,67.677,0.0,0.0,0.0
+2030-01-16 22:00:00,Glenree wind,Glenree,wind,65.552,65.552,0.0,0.0,0.0
+2030-01-16 23:00:00,Glenree wind,Glenree,wind,66.353,66.353,0.0,0.0,0.0
+2030-01-17 00:00:00,Glenree wind,Glenree,wind,67.346,67.346,0.0,0.0,0.0
+2030-01-17 01:00:00,Glenree wind,Glenree,wind,65.55,65.55,0.0,0.0,0.0
+2030-01-17 02:00:00,Glenree wind,Glenree,wind,63.156,63.156,0.0,0.0,0.0
+2030-01-17 03:00:00,Glenree wind,Glenree,wind,61.715,61.715,0.0,0.0,0.0
+2030-01-17 04:00:00,Glenree wind,Glenree,wind,56.42,56.42,0.0,0.0,0.0
+2030-01-17 05:00:00,Glenree wind,Glenree,wind,56.329,56.329,0.0,0.0,0.0
+2030-01-17 06:00:00,Glenree wind,Glenree,wind,51.105,51.105,0.0,0.0,0.0
+2030-01-17 07:00:00,Glenree wind,Glenree,wind,29.211,29.211,0.0,0.0,0.0
+2030-01-17 08:00:00,Glenree wind,Glenree,wind,37.898,37.898,0.0,0.0,0.0
+2030-01-17 09:00:00,Glenree wind,Glenree,wind,24.664,24.664,0.0,0.0,0.0
+2030-01-17 10:00:00,Glenree wind,Glenree,wind,22.815,22.815,0.0,0.0,0.0
+2030-01-17 11:00:00,Glenree wind,Glenree,wind,20.367,20.367,0.0,0.0,0.0
+2030-01-17 12:00:00,Glenree wind,Glenree,wind,23.291,23.291,0.0,0.0,0.0
+2030-01-17 13:00:00,Glenree wind,Glenree,wind,19.193,19.193,0.0,0.0,0.0
+2030-01-17 14:00:00,Glenree wind,Glenree,wind,15.376,15.376,0.0,0.0,0.0
+2030-01-17 15:00:00,Glenree wind,Glenree,wind,12.103,12.103,0.0,0.0,0.0
+2030-01-17 16:00:00,Glenree wind,Glenree,wind,9.673,9.673,0.0,0.0,0.0
+2030-01-17 17:00:00,Glenree wind,Glenree,wind,8.285,8.285,0.0,0.0,0.0
+2030-01-17 18:00:00,Glenree wind,Glenree,wind,7.941,7.941,0.0,0.0,0.0
+2030-01-17 19:00:00,Glenree wind,Glenree,wind,8.397,8.397,0.0,0.0,0.0
+2030-01-17 20:00:00,Glenree wind,Glenree,wind,9.652,9.652,0.0,0.0,0.0
+2030-01-17 21:00:00,Glenree wind,Glenree,wind,11.78,11.78,0.0,0.0,0.0
+2030-01-17 22:00:00,Glenree wind,Glenree,wind,14.27,14.27,0.0,0.0,0.0
+2030-01-17 23:00:00,Glenree wind,Glenree,wind,17.932,17.932,0.0,0.0,0.0
+2030-01-18 00:00:00,Glenree wind,Glenree,wind,19.601,19.601,0.0,0.0,0.0
+2030-01-18 01:00:00,Glenree wind,Glenree,wind,15.721,15.721,0.0,0.0,0.0
+2030-01-18 02:00:00,Glenree wind,Glenree,wind,10.229,10.229,0.0,0.0,0.0
+2030-01-18 03:00:00,Glenree wind,Glenree,wind,9.64,9.64,0.0,0.0,0.0
+2030-01-18 04:00:00,Glenree wind,Glenree,wind,9.437,9.437,0.0,0.0,0.0
+2030-01-18 05:00:00,Glenree wind,Glenree,wind,3.278,3.278,0.0,0.0,0.0
+2030-01-18 06:00:00,Glenree wind,Glenree,wind,7.799,7.799,0.0,0.0,0.0
+2030-01-18 07:00:00,Glenree wind,Glenree,wind,9.46,9.46,0.0,0.0,0.0
+2030-01-18 08:00:00,Glenree wind,Glenree,wind,8.058,8.058,0.0,0.0,0.0
+2030-01-18 09:00:00,Glenree wind,Glenree,wind,10.691,10.691,0.0,0.0,0.0
+2030-01-18 10:00:00,Glenree wind,Glenree,wind,10.718,10.718,0.0,0.0,0.0
+2030-01-18 11:00:00,Glenree wind,Glenree,wind,17.432,17.432,0.0,0.0,0.0
+2030-01-18 12:00:00,Glenree wind,Glenree,wind,39.312,39.312,0.0,0.0,0.0
+2030-01-18 13:00:00,Glenree wind,Glenree,wind,19.659,19.659,0.0,0.0,0.0
+2030-01-18 14:00:00,Glenree wind,Glenree,wind,31.854,31.854,0.0,0.0,0.0
+2030-01-18 15:00:00,Glenree wind,Glenree,wind,39.555,39.555,0.0,0.0,0.0
+2030-01-18 16:00:00,Glenree wind,Glenree,wind,37.731,37.731,0.0,0.0,0.0
+2030-01-18 17:00:00,Glenree wind,Glenree,wind,41.158,41.158,0.0,0.0,0.0
+2030-01-18 18:00:00,Glenree wind,Glenree,wind,36.791,36.791,0.0,0.0,0.0
+2030-01-18 19:00:00,Glenree wind,Glenree,wind,35.356,35.356,0.0,0.0,0.0
+2030-01-18 20:00:00,Glenree wind,Glenree,wind,47.011,47.011,0.0,0.0,0.0
+2030-01-18 21:00:00,Glenree wind,Glenree,wind,41.539,41.539,0.0,0.0,0.0
+2030-01-18 22:00:00,Glenree wind,Glenree,wind,37.574,37.574,0.0,0.0,0.0
+2030-01-18 23:00:00,Glenree wind,Glenree,wind,57.981,57.981,0.0,0.0,0.0
+2030-01-19 00:00:00,Glenree wind,Glenree,wind,66.767,66.767,0.0,0.0,0.0
+2030-01-19 01:00:00,Glenree wind,Glenree,wind,69.431,69.431,0.0,0.0,0.0
+2030-01-19 02:00:00,Glenree wind,Glenree,wind,68.714,68.714,0.0,0.0,0.0
+2030-01-19 03:00:00,Glenree wind,Glenree,wind,68.839,68.839,0.0,0.0,0.0
+2030-01-19 04:00:00,Glenree wind,Glenree,wind,68.932,68.932,0.0,0.0,0.0
+2030-01-19 05:00:00,Glenree wind,Glenree,wind,68.915,68.915,0.0,0.0,0.0
+2030-01-19 06:00:00,Glenree wind,Glenree,wind,67.041,67.041,0.0,0.0,0.0
+2030-01-19 07:00:00,Glenree wind,Glenree,wind,63.794,63.794,0.0,0.0,0.0
+2030-01-19 08:00:00,Glenree wind,Glenree,wind,52.033,52.033,0.0,0.0,0.0
+2030-01-19 09:00:00,Glenree wind,Glenree,wind,36.204,36.204,0.0,0.0,0.0
+2030-01-19 10:00:00,Glenree wind,Glenree,wind,26.01,26.01,0.0,0.0,0.0
+2030-01-19 11:00:00,Glenree wind,Glenree,wind,16.698,16.698,0.0,0.0,0.0
+2030-01-19 12:00:00,Glenree wind,Glenree,wind,14.771,14.771,0.0,0.0,0.0
+2030-01-19 13:00:00,Glenree wind,Glenree,wind,9.093,9.093,0.0,0.0,0.0
+2030-01-19 14:00:00,Glenree wind,Glenree,wind,10.915,10.915,0.0,0.0,0.0
+2030-01-19 15:00:00,Glenree wind,Glenree,wind,11.873,11.873,0.0,0.0,0.0
+2030-01-19 16:00:00,Glenree wind,Glenree,wind,36.781,36.781,0.0,0.0,0.0
+2030-01-19 17:00:00,Glenree wind,Glenree,wind,43.637,43.637,0.0,0.0,0.0
+2030-01-19 18:00:00,Glenree wind,Glenree,wind,35.284,35.284,0.0,0.0,0.0
+2030-01-19 19:00:00,Glenree wind,Glenree,wind,32.332,32.332,0.0,0.0,0.0
+2030-01-19 20:00:00,Glenree wind,Glenree,wind,32.124,32.124,0.0,0.0,0.0
+2030-01-19 21:00:00,Glenree wind,Glenree,wind,30.595,30.595,0.0,0.0,0.0
+2030-01-19 22:00:00,Glenree wind,Glenree,wind,57.872,57.872,0.0,0.0,0.0
+2030-01-19 23:00:00,Glenree wind,Glenree,wind,64.349,64.349,0.0,0.0,0.0
+2030-01-20 00:00:00,Glenree wind,Glenree,wind,69.11,69.11,0.0,0.0,0.0
+2030-01-20 01:00:00,Glenree wind,Glenree,wind,68.7,68.7,0.0,0.0,0.0
+2030-01-20 02:00:00,Glenree wind,Glenree,wind,63.212,63.212,0.0,0.0,0.0
+2030-01-20 03:00:00,Glenree wind,Glenree,wind,48.529,48.529,0.0,0.0,0.0
+2030-01-20 04:00:00,Glenree wind,Glenree,wind,38.74,38.74,0.0,0.0,0.0
+2030-01-20 05:00:00,Glenree wind,Glenree,wind,18.915,18.915,0.0,0.0,0.0
+2030-01-20 06:00:00,Glenree wind,Glenree,wind,23.088,23.088,0.0,0.0,0.0
+2030-01-20 07:00:00,Glenree wind,Glenree,wind,13.747,13.747,0.0,0.0,0.0
+2030-01-20 08:00:00,Glenree wind,Glenree,wind,31.819,31.819,0.0,0.0,0.0
+2030-01-20 09:00:00,Glenree wind,Glenree,wind,23.595,23.595,0.0,0.0,0.0
+2030-01-20 10:00:00,Glenree wind,Glenree,wind,23.871,23.871,0.0,0.0,0.0
+2030-01-20 11:00:00,Glenree wind,Glenree,wind,21.076,21.076,0.0,0.0,0.0
+2030-01-20 12:00:00,Glenree wind,Glenree,wind,27.015,27.015,0.0,0.0,0.0
+2030-01-20 13:00:00,Glenree wind,Glenree,wind,24.9,24.9,0.0,0.0,0.0
+2030-01-20 14:00:00,Glenree wind,Glenree,wind,11.556,11.556,0.0,0.0,0.0
+2030-01-20 15:00:00,Glenree wind,Glenree,wind,17.756,17.756,0.0,0.0,0.0
+2030-01-20 16:00:00,Glenree wind,Glenree,wind,12.416,12.416,0.0,0.0,0.0
+2030-01-20 17:00:00,Glenree wind,Glenree,wind,23.769,23.769,0.0,0.0,0.0
+2030-01-20 18:00:00,Glenree wind,Glenree,wind,15.033,15.033,0.0,0.0,0.0
+2030-01-20 19:00:00,Glenree wind,Glenree,wind,21.311,21.311,0.0,0.0,0.0
+2030-01-20 20:00:00,Glenree wind,Glenree,wind,15.833,15.833,0.0,0.0,0.0
+2030-01-20 21:00:00,Glenree wind,Glenree,wind,5.943,5.943,0.0,0.0,0.0
+2030-01-20 22:00:00,Glenree wind,Glenree,wind,4.031,4.031,0.0,0.0,0.0
+2030-01-20 23:00:00,Glenree wind,Glenree,wind,0.575,0.575,0.0,0.0,0.0
+2030-01-21 00:00:00,Glenree wind,Glenree,wind,1.228,1.228,0.0,0.0,0.0
+2030-01-21 01:00:00,Glenree wind,Glenree,wind,0.988,0.988,0.0,0.0,0.0
+2030-01-21 02:00:00,Glenree wind,Glenree,wind,1.449,1.449,0.0,0.0,0.0
+2030-01-21 03:00:00,Glenree wind,Glenree,wind,2.101,2.101,0.0,0.0,0.0
+2030-01-21 04:00:00,Glenree wind,Glenree,wind,2.68,2.68,0.0,0.0,0.0
+2030-01-21 05:00:00,Glenree wind,Glenree,wind,3.543,3.543,0.0,0.0,0.0
+2030-01-14 06:00:00,Sorne Hill wind,Sorne Hill,wind,14.103,14.103,0.0,0.0,0.0
+2030-01-14 07:00:00,Sorne Hill wind,Sorne Hill,wind,27.659,27.659,0.0,0.0,0.0
+2030-01-14 08:00:00,Sorne Hill wind,Sorne Hill,wind,31.573,31.573,0.0,0.0,0.0
+2030-01-14 09:00:00,Sorne Hill wind,Sorne Hill,wind,30.857,30.857,0.0,0.0,0.0
+2030-01-14 10:00:00,Sorne Hill wind,Sorne Hill,wind,22.563,22.563,0.0,0.0,0.0
+2030-01-14 11:00:00,Sorne Hill wind,Sorne Hill,wind,29.468,29.468,0.0,0.0,0.0
+2030-01-14 12:00:00,Sorne Hill wind,Sorne Hill,wind,13.912,13.912,0.0,0.0,0.0
+2030-01-14 13:00:00,Sorne Hill wind,Sorne Hill,wind,12.225,12.225,0.0,0.0,0.0
+2030-01-14 14:00:00,Sorne Hill wind,Sorne Hill,wind,9.101,9.101,0.0,0.0,0.0
+2030-01-14 15:00:00,Sorne Hill wind,Sorne Hill,wind,17.353,17.353,0.0,0.0,0.0
+2030-01-14 16:00:00,Sorne Hill wind,Sorne Hill,wind,12.735,12.735,0.0,0.0,0.0
+2030-01-14 17:00:00,Sorne Hill wind,Sorne Hill,wind,12.83,12.83,0.0,0.0,0.0
+2030-01-14 18:00:00,Sorne Hill wind,Sorne Hill,wind,10.921,10.921,0.0,0.0,0.0
+2030-01-14 19:00:00,Sorne Hill wind,Sorne Hill,wind,13.985,13.985,0.0,0.0,0.0
+2030-01-14 20:00:00,Sorne Hill wind,Sorne Hill,wind,9.789,9.789,0.0,0.0,0.0
+2030-01-14 21:00:00,Sorne Hill wind,Sorne Hill,wind,13.246,13.246,0.0,0.0,0.0
+2030-01-14 22:00:00,Sorne Hill wind,Sorne Hill,wind,11.108,11.108,0.0,0.0,0.0
+2030-01-14 23:00:00,Sorne Hill wind,Sorne Hill,wind,20.198,20.198,0.0,0.0,0.0
+2030-01-15 00:00:00,Sorne Hill wind,Sorne Hill,wind,28.64,28.64,0.0,0.0,0.0
+2030-01-15 01:00:00,Sorne Hill wind,Sorne Hill,wind,28.278,28.278,0.0,0.0,0.0
+2030-01-15 02:00:00,Sorne Hill wind,Sorne Hill,wind,25.648,25.648,0.0,0.0,0.0
+2030-01-15 03:00:00,Sorne Hill wind,Sorne Hill,wind,26.372,26.372,0.0,0.0,0.0
+2030-01-15 04:00:00,Sorne Hill wind,Sorne Hill,wind,28.728,28.728,0.0,0.0,0.0
+2030-01-15 05:00:00,Sorne Hill wind,Sorne Hill,wind,22.818,22.818,0.0,0.0,0.0
+2030-01-15 06:00:00,Sorne Hill wind,Sorne Hill,wind,18.844,18.844,0.0,0.0,0.0
+2030-01-15 07:00:00,Sorne Hill wind,Sorne Hill,wind,11.09,11.09,0.0,0.0,0.0
+2030-01-15 08:00:00,Sorne Hill wind,Sorne Hill,wind,10.6,10.6,0.0,0.0,0.0
+2030-01-15 09:00:00,Sorne Hill wind,Sorne Hill,wind,12.853,12.853,0.0,0.0,0.0
+2030-01-15 10:00:00,Sorne Hill wind,Sorne Hill,wind,11.203,11.203,0.0,0.0,0.0
+2030-01-15 11:00:00,Sorne Hill wind,Sorne Hill,wind,13.627,13.627,0.0,0.0,0.0
+2030-01-15 12:00:00,Sorne Hill wind,Sorne Hill,wind,12.453,12.453,0.0,0.0,0.0
+2030-01-15 13:00:00,Sorne Hill wind,Sorne Hill,wind,10.661,10.661,0.0,0.0,0.0
+2030-01-15 14:00:00,Sorne Hill wind,Sorne Hill,wind,6.394,6.394,0.0,0.0,0.0
+2030-01-15 15:00:00,Sorne Hill wind,Sorne Hill,wind,4.932,4.932,0.0,0.0,0.0
+2030-01-15 16:00:00,Sorne Hill wind,Sorne Hill,wind,3.865,3.865,0.0,0.0,0.0
+2030-01-15 17:00:00,Sorne Hill wind,Sorne Hill,wind,4.839,4.839,0.0,0.0,0.0
+2030-01-15 18:00:00,Sorne Hill wind,Sorne Hill,wind,7.892,7.892,0.0,0.0,0.0
+2030-01-15 19:00:00,Sorne Hill wind,Sorne Hill,wind,6.82,6.82,0.0,0.0,0.0
+2030-01-15 20:00:00,Sorne Hill wind,Sorne Hill,wind,7.835,7.835,0.0,0.0,0.0
+2030-01-15 21:00:00,Sorne Hill wind,Sorne Hill,wind,2.384,2.384,0.0,0.0,0.0
+2030-01-15 22:00:00,Sorne Hill wind,Sorne Hill,wind,1.302,1.302,0.0,0.0,0.0
+2030-01-15 23:00:00,Sorne Hill wind,Sorne Hill,wind,0.951,0.951,0.0,0.0,0.0
+2030-01-16 00:00:00,Sorne Hill wind,Sorne Hill,wind,2.795,2.795,0.0,0.0,0.0
+2030-01-16 01:00:00,Sorne Hill wind,Sorne Hill,wind,2.014,2.014,0.0,0.0,0.0
+2030-01-16 02:00:00,Sorne Hill wind,Sorne Hill,wind,0.551,0.551,0.0,0.0,0.0
+2030-01-16 03:00:00,Sorne Hill wind,Sorne Hill,wind,1.593,1.593,0.0,0.0,0.0
+2030-01-16 04:00:00,Sorne Hill wind,Sorne Hill,wind,4.601,4.601,0.0,0.0,0.0
+2030-01-16 05:00:00,Sorne Hill wind,Sorne Hill,wind,2.61,2.61,0.0,0.0,0.0
+2030-01-16 06:00:00,Sorne Hill wind,Sorne Hill,wind,1.817,1.817,0.0,0.0,0.0
+2030-01-16 07:00:00,Sorne Hill wind,Sorne Hill,wind,1.586,1.586,0.0,0.0,0.0
+2030-01-16 08:00:00,Sorne Hill wind,Sorne Hill,wind,2.161,2.161,0.0,0.0,0.0
+2030-01-16 09:00:00,Sorne Hill wind,Sorne Hill,wind,1.518,1.518,0.0,0.0,0.0
+2030-01-16 10:00:00,Sorne Hill wind,Sorne Hill,wind,2.548,2.548,0.0,0.0,0.0
+2030-01-16 11:00:00,Sorne Hill wind,Sorne Hill,wind,1.096,1.096,0.0,0.0,0.0
+2030-01-16 12:00:00,Sorne Hill wind,Sorne Hill,wind,0.912,0.912,0.0,0.0,0.0
+2030-01-16 13:00:00,Sorne Hill wind,Sorne Hill,wind,1.444,1.444,0.0,0.0,0.0
+2030-01-16 14:00:00,Sorne Hill wind,Sorne Hill,wind,2.094,2.094,0.0,0.0,0.0
+2030-01-16 15:00:00,Sorne Hill wind,Sorne Hill,wind,2.593,2.593,0.0,0.0,0.0
+2030-01-16 16:00:00,Sorne Hill wind,Sorne Hill,wind,3.287,3.287,0.0,0.0,0.0
+2030-01-16 17:00:00,Sorne Hill wind,Sorne Hill,wind,10.126,10.126,0.0,0.0,0.0
+2030-01-16 18:00:00,Sorne Hill wind,Sorne Hill,wind,8.614,8.614,0.0,0.0,0.0
+2030-01-16 19:00:00,Sorne Hill wind,Sorne Hill,wind,8.827,8.827,0.0,0.0,0.0
+2030-01-16 20:00:00,Sorne Hill wind,Sorne Hill,wind,6.342,6.342,0.0,0.0,0.0
+2030-01-16 21:00:00,Sorne Hill wind,Sorne Hill,wind,4.699,4.699,0.0,0.0,0.0
+2030-01-16 22:00:00,Sorne Hill wind,Sorne Hill,wind,3.842,3.842,0.0,0.0,0.0
+2030-01-16 23:00:00,Sorne Hill wind,Sorne Hill,wind,4.383,4.383,0.0,0.0,0.0
+2030-01-17 00:00:00,Sorne Hill wind,Sorne Hill,wind,8.997,8.997,0.0,0.0,0.0
+2030-01-17 01:00:00,Sorne Hill wind,Sorne Hill,wind,8.457,8.457,0.0,0.0,0.0
+2030-01-17 02:00:00,Sorne Hill wind,Sorne Hill,wind,10.72,10.72,0.0,0.0,0.0
+2030-01-17 03:00:00,Sorne Hill wind,Sorne Hill,wind,9.034,9.034,0.0,0.0,0.0
+2030-01-17 04:00:00,Sorne Hill wind,Sorne Hill,wind,6.695,6.695,0.0,0.0,0.0
+2030-01-17 05:00:00,Sorne Hill wind,Sorne Hill,wind,10.297,10.297,0.0,0.0,0.0
+2030-01-17 06:00:00,Sorne Hill wind,Sorne Hill,wind,6.963,6.963,0.0,0.0,0.0
+2030-01-17 07:00:00,Sorne Hill wind,Sorne Hill,wind,4.457,4.457,0.0,0.0,0.0
+2030-01-17 08:00:00,Sorne Hill wind,Sorne Hill,wind,6.737,6.737,0.0,0.0,0.0
+2030-01-17 09:00:00,Sorne Hill wind,Sorne Hill,wind,6.353,6.353,0.0,0.0,0.0
+2030-01-17 10:00:00,Sorne Hill wind,Sorne Hill,wind,4.636,4.636,0.0,0.0,0.0
+2030-01-17 11:00:00,Sorne Hill wind,Sorne Hill,wind,5.177,5.177,0.0,0.0,0.0
+2030-01-17 12:00:00,Sorne Hill wind,Sorne Hill,wind,12.043,12.043,0.0,0.0,0.0
+2030-01-17 13:00:00,Sorne Hill wind,Sorne Hill,wind,9.971,9.971,0.0,0.0,0.0
+2030-01-17 14:00:00,Sorne Hill wind,Sorne Hill,wind,8.548,8.548,0.0,0.0,0.0
+2030-01-17 15:00:00,Sorne Hill wind,Sorne Hill,wind,8.294,8.294,0.0,0.0,0.0
+2030-01-17 16:00:00,Sorne Hill wind,Sorne Hill,wind,7.642,7.642,0.0,0.0,0.0
+2030-01-17 17:00:00,Sorne Hill wind,Sorne Hill,wind,6.496,6.496,0.0,0.0,0.0
+2030-01-17 18:00:00,Sorne Hill wind,Sorne Hill,wind,5.762,5.762,0.0,0.0,0.0
+2030-01-17 19:00:00,Sorne Hill wind,Sorne Hill,wind,6.323,6.323,0.0,0.0,0.0
+2030-01-17 20:00:00,Sorne Hill wind,Sorne Hill,wind,6.369,6.369,0.0,0.0,0.0
+2030-01-17 21:00:00,Sorne Hill wind,Sorne Hill,wind,5.483,5.483,0.0,0.0,0.0
+2030-01-17 22:00:00,Sorne Hill wind,Sorne Hill,wind,11.004,11.004,0.0,0.0,0.0
+2030-01-17 23:00:00,Sorne Hill wind,Sorne Hill,wind,10.867,10.867,0.0,0.0,0.0
+2030-01-18 00:00:00,Sorne Hill wind,Sorne Hill,wind,12.721,12.721,0.0,0.0,0.0
+2030-01-18 01:00:00,Sorne Hill wind,Sorne Hill,wind,10.437,10.437,0.0,0.0,0.0
+2030-01-18 02:00:00,Sorne Hill wind,Sorne Hill,wind,9.843,9.843,0.0,0.0,0.0
+2030-01-18 03:00:00,Sorne Hill wind,Sorne Hill,wind,9.951,9.951,0.0,0.0,0.0
+2030-01-18 04:00:00,Sorne Hill wind,Sorne Hill,wind,10.27,10.27,0.0,0.0,0.0
+2030-01-18 05:00:00,Sorne Hill wind,Sorne Hill,wind,4.528,4.528,0.0,0.0,0.0
+2030-01-18 06:00:00,Sorne Hill wind,Sorne Hill,wind,6.084,6.084,0.0,0.0,0.0
+2030-01-18 07:00:00,Sorne Hill wind,Sorne Hill,wind,5.587,5.587,0.0,0.0,0.0
+2030-01-18 08:00:00,Sorne Hill wind,Sorne Hill,wind,1.745,1.745,0.0,0.0,0.0
+2030-01-18 09:00:00,Sorne Hill wind,Sorne Hill,wind,3.269,3.269,0.0,0.0,0.0
+2030-01-18 10:00:00,Sorne Hill wind,Sorne Hill,wind,4.036,4.036,0.0,0.0,0.0
+2030-01-18 11:00:00,Sorne Hill wind,Sorne Hill,wind,6.302,6.302,0.0,0.0,0.0
+2030-01-18 12:00:00,Sorne Hill wind,Sorne Hill,wind,13.115,13.115,0.0,0.0,0.0
+2030-01-18 13:00:00,Sorne Hill wind,Sorne Hill,wind,10.644,10.644,0.0,0.0,0.0
+2030-01-18 14:00:00,Sorne Hill wind,Sorne Hill,wind,10.801,10.801,0.0,0.0,0.0
+2030-01-18 15:00:00,Sorne Hill wind,Sorne Hill,wind,15.904,15.904,0.0,0.0,0.0
+2030-01-18 16:00:00,Sorne Hill wind,Sorne Hill,wind,26.43,26.43,0.0,0.0,0.0
+2030-01-18 17:00:00,Sorne Hill wind,Sorne Hill,wind,26.111,26.111,0.0,0.0,0.0
+2030-01-18 18:00:00,Sorne Hill wind,Sorne Hill,wind,10.773,10.773,0.0,0.0,0.0
+2030-01-18 19:00:00,Sorne Hill wind,Sorne Hill,wind,10.45,10.45,0.0,0.0,0.0
+2030-01-18 20:00:00,Sorne Hill wind,Sorne Hill,wind,12.732,12.732,0.0,0.0,0.0
+2030-01-18 21:00:00,Sorne Hill wind,Sorne Hill,wind,15.405,15.405,0.0,0.0,0.0
+2030-01-18 22:00:00,Sorne Hill wind,Sorne Hill,wind,15.219,15.219,0.0,0.0,0.0
+2030-01-18 23:00:00,Sorne Hill wind,Sorne Hill,wind,31.892,31.892,0.0,0.0,0.0
+2030-01-19 00:00:00,Sorne Hill wind,Sorne Hill,wind,38.052,38.052,0.0,0.0,0.0
+2030-01-19 01:00:00,Sorne Hill wind,Sorne Hill,wind,54.859,9.208,45.651,0.0,45.651
+2030-01-19 02:00:00,Sorne Hill wind,Sorne Hill,wind,46.635,46.635,0.0,0.0,0.0
+2030-01-19 03:00:00,Sorne Hill wind,Sorne Hill,wind,49.022,18.813,30.209,0.0,30.209
+2030-01-19 04:00:00,Sorne Hill wind,Sorne Hill,wind,50.165,50.165,0.0,0.0,0.0
+2030-01-19 05:00:00,Sorne Hill wind,Sorne Hill,wind,43.934,43.934,0.0,0.0,0.0
+2030-01-19 06:00:00,Sorne Hill wind,Sorne Hill,wind,37.867,37.867,0.0,0.0,0.0
+2030-01-19 07:00:00,Sorne Hill wind,Sorne Hill,wind,28.117,28.117,0.0,0.0,0.0
+2030-01-19 08:00:00,Sorne Hill wind,Sorne Hill,wind,32.481,32.481,0.0,0.0,0.0
+2030-01-19 09:00:00,Sorne Hill wind,Sorne Hill,wind,34.627,34.627,0.0,0.0,0.0
+2030-01-19 10:00:00,Sorne Hill wind,Sorne Hill,wind,29.394,29.394,0.0,0.0,0.0
+2030-01-19 11:00:00,Sorne Hill wind,Sorne Hill,wind,27.439,27.439,0.0,0.0,0.0
+2030-01-19 12:00:00,Sorne Hill wind,Sorne Hill,wind,42.076,42.076,0.0,0.0,0.0
+2030-01-19 13:00:00,Sorne Hill wind,Sorne Hill,wind,38.059,38.059,0.0,0.0,0.0
+2030-01-19 14:00:00,Sorne Hill wind,Sorne Hill,wind,32.249,32.249,0.0,0.0,0.0
+2030-01-19 15:00:00,Sorne Hill wind,Sorne Hill,wind,39.131,39.131,0.0,0.0,0.0
+2030-01-19 16:00:00,Sorne Hill wind,Sorne Hill,wind,55.741,55.741,0.0,0.0,0.0
+2030-01-19 17:00:00,Sorne Hill wind,Sorne Hill,wind,56.743,56.743,0.0,0.0,0.0
+2030-01-19 18:00:00,Sorne Hill wind,Sorne Hill,wind,52.894,52.894,0.0,0.0,0.0
+2030-01-19 19:00:00,Sorne Hill wind,Sorne Hill,wind,48.439,48.439,0.0,0.0,0.0
+2030-01-19 20:00:00,Sorne Hill wind,Sorne Hill,wind,44.611,44.611,0.0,0.0,0.0
+2030-01-19 21:00:00,Sorne Hill wind,Sorne Hill,wind,40.392,40.392,0.0,0.0,0.0
+2030-01-19 22:00:00,Sorne Hill wind,Sorne Hill,wind,51.005,51.005,0.0,0.0,0.0
+2030-01-19 23:00:00,Sorne Hill wind,Sorne Hill,wind,54.916,22.121,32.795,0.0,32.795
+2030-01-20 00:00:00,Sorne Hill wind,Sorne Hill,wind,53.761,53.761,0.0,0.0,0.0
+2030-01-20 01:00:00,Sorne Hill wind,Sorne Hill,wind,48.655,10.082,38.574,0.0,38.574
+2030-01-20 02:00:00,Sorne Hill wind,Sorne Hill,wind,35.685,35.685,0.0,0.0,0.0
+2030-01-20 03:00:00,Sorne Hill wind,Sorne Hill,wind,35.372,35.372,0.0,0.0,0.0
+2030-01-20 04:00:00,Sorne Hill wind,Sorne Hill,wind,19.798,19.798,0.0,0.0,0.0
+2030-01-20 05:00:00,Sorne Hill wind,Sorne Hill,wind,15.361,15.361,0.0,0.0,0.0
+2030-01-20 06:00:00,Sorne Hill wind,Sorne Hill,wind,11.331,11.331,0.0,0.0,0.0
+2030-01-20 07:00:00,Sorne Hill wind,Sorne Hill,wind,9.096,9.096,0.0,0.0,0.0
+2030-01-20 08:00:00,Sorne Hill wind,Sorne Hill,wind,17.422,17.422,0.0,0.0,0.0
+2030-01-20 09:00:00,Sorne Hill wind,Sorne Hill,wind,17.549,17.549,0.0,0.0,0.0
+2030-01-20 10:00:00,Sorne Hill wind,Sorne Hill,wind,22.1,22.1,0.0,0.0,0.0
+2030-01-20 11:00:00,Sorne Hill wind,Sorne Hill,wind,28.479,28.479,0.0,0.0,0.0
+2030-01-20 12:00:00,Sorne Hill wind,Sorne Hill,wind,38.926,38.926,0.0,0.0,0.0
+2030-01-20 13:00:00,Sorne Hill wind,Sorne Hill,wind,47.987,47.987,0.0,0.0,0.0
+2030-01-20 14:00:00,Sorne Hill wind,Sorne Hill,wind,36.797,36.797,0.0,0.0,0.0
+2030-01-20 15:00:00,Sorne Hill wind,Sorne Hill,wind,44.63,44.63,0.0,0.0,0.0
+2030-01-20 16:00:00,Sorne Hill wind,Sorne Hill,wind,43.052,43.052,0.0,0.0,0.0
+2030-01-20 17:00:00,Sorne Hill wind,Sorne Hill,wind,41.253,41.253,0.0,0.0,0.0
+2030-01-20 18:00:00,Sorne Hill wind,Sorne Hill,wind,38.649,38.649,0.0,0.0,0.0
+2030-01-20 19:00:00,Sorne Hill wind,Sorne Hill,wind,43.478,43.478,0.0,0.0,0.0
+2030-01-20 20:00:00,Sorne Hill wind,Sorne Hill,wind,52.197,52.197,0.0,0.0,0.0
+2030-01-20 21:00:00,Sorne Hill wind,Sorne Hill,wind,40.321,40.321,0.0,0.0,0.0
+2030-01-20 22:00:00,Sorne Hill wind,Sorne Hill,wind,33.128,33.128,0.0,0.0,0.0
+2030-01-20 23:00:00,Sorne Hill wind,Sorne Hill,wind,10.741,10.741,0.0,0.0,0.0
+2030-01-21 00:00:00,Sorne Hill wind,Sorne Hill,wind,6.207,6.207,0.0,0.0,0.0
+2030-01-21 01:00:00,Sorne Hill wind,Sorne Hill,wind,7.382,7.382,0.0,0.0,0.0
+2030-01-21 02:00:00,Sorne Hill wind,Sorne Hill,wind,14.354,14.354,0.0,0.0,0.0
+2030-01-21 03:00:00,Sorne Hill wind,Sorne Hill,wind,15.694,15.694,0.0,0.0,0.0
+2030-01-21 04:00:00,Sorne Hill wind,Sorne Hill,wind,12.303,12.303,0.0,0.0,0.0
+2030-01-21 05:00:00,Sorne Hill wind,Sorne Hill,wind,16.926,16.926,0.0,0.0,0.0
+2030-01-14 06:00:00,Sligo wind,Sligo,wind,15.386,15.386,0.0,0.0,0.0
+2030-01-14 07:00:00,Sligo wind,Sligo,wind,18.963,18.963,0.0,0.0,0.0
+2030-01-14 08:00:00,Sligo wind,Sligo,wind,17.339,17.339,0.0,0.0,0.0
+2030-01-14 09:00:00,Sligo wind,Sligo,wind,28.095,28.095,0.0,0.0,0.0
+2030-01-14 10:00:00,Sligo wind,Sligo,wind,27.457,27.457,0.0,0.0,0.0
+2030-01-14 11:00:00,Sligo wind,Sligo,wind,28.828,28.828,0.0,0.0,0.0
+2030-01-14 12:00:00,Sligo wind,Sligo,wind,8.929,8.929,0.0,0.0,0.0
+2030-01-14 13:00:00,Sligo wind,Sligo,wind,7.569,7.569,0.0,0.0,0.0
+2030-01-14 14:00:00,Sligo wind,Sligo,wind,5.662,5.662,0.0,0.0,0.0
+2030-01-14 15:00:00,Sligo wind,Sligo,wind,14.723,14.723,0.0,0.0,0.0
+2030-01-14 16:00:00,Sligo wind,Sligo,wind,15.851,15.851,0.0,0.0,0.0
+2030-01-14 17:00:00,Sligo wind,Sligo,wind,22.991,22.991,0.0,0.0,0.0
+2030-01-14 18:00:00,Sligo wind,Sligo,wind,18.141,18.141,0.0,0.0,0.0
+2030-01-14 19:00:00,Sligo wind,Sligo,wind,17.226,17.226,0.0,0.0,0.0
+2030-01-14 20:00:00,Sligo wind,Sligo,wind,9.592,9.592,0.0,0.0,0.0
+2030-01-14 21:00:00,Sligo wind,Sligo,wind,7.062,7.062,0.0,0.0,0.0
+2030-01-14 22:00:00,Sligo wind,Sligo,wind,7.9,7.9,0.0,0.0,0.0
+2030-01-14 23:00:00,Sligo wind,Sligo,wind,14.982,14.982,0.0,0.0,0.0
+2030-01-15 00:00:00,Sligo wind,Sligo,wind,17.366,17.366,0.0,0.0,0.0
+2030-01-15 01:00:00,Sligo wind,Sligo,wind,18.817,18.817,0.0,0.0,0.0
+2030-01-15 02:00:00,Sligo wind,Sligo,wind,25.227,25.227,0.0,0.0,0.0
+2030-01-15 03:00:00,Sligo wind,Sligo,wind,33.567,33.567,0.0,0.0,0.0
+2030-01-15 04:00:00,Sligo wind,Sligo,wind,36.331,36.331,0.0,0.0,0.0
+2030-01-15 05:00:00,Sligo wind,Sligo,wind,34.491,34.491,0.0,0.0,0.0
+2030-01-15 06:00:00,Sligo wind,Sligo,wind,32.411,32.411,0.0,0.0,0.0
+2030-01-15 07:00:00,Sligo wind,Sligo,wind,24.634,24.634,0.0,0.0,0.0
+2030-01-15 08:00:00,Sligo wind,Sligo,wind,27.439,27.439,0.0,0.0,0.0
+2030-01-15 09:00:00,Sligo wind,Sligo,wind,33.709,33.709,0.0,0.0,0.0
+2030-01-15 10:00:00,Sligo wind,Sligo,wind,34.384,34.384,0.0,0.0,0.0
+2030-01-15 11:00:00,Sligo wind,Sligo,wind,35.905,35.905,0.0,0.0,0.0
+2030-01-15 12:00:00,Sligo wind,Sligo,wind,26.67,26.67,0.0,0.0,0.0
+2030-01-15 13:00:00,Sligo wind,Sligo,wind,18.902,18.902,0.0,0.0,0.0
+2030-01-15 14:00:00,Sligo wind,Sligo,wind,19.981,19.981,0.0,0.0,0.0
+2030-01-15 15:00:00,Sligo wind,Sligo,wind,17.279,17.279,0.0,0.0,0.0
+2030-01-15 16:00:00,Sligo wind,Sligo,wind,15.882,15.882,0.0,0.0,0.0
+2030-01-15 17:00:00,Sligo wind,Sligo,wind,10.697,10.697,0.0,0.0,0.0
+2030-01-15 18:00:00,Sligo wind,Sligo,wind,11.03,11.03,0.0,0.0,0.0
+2030-01-15 19:00:00,Sligo wind,Sligo,wind,7.709,7.709,0.0,0.0,0.0
+2030-01-15 20:00:00,Sligo wind,Sligo,wind,9.09,9.09,0.0,0.0,0.0
+2030-01-15 21:00:00,Sligo wind,Sligo,wind,5.932,5.932,0.0,0.0,0.0
+2030-01-15 22:00:00,Sligo wind,Sligo,wind,5.238,5.238,0.0,0.0,0.0
+2030-01-15 23:00:00,Sligo wind,Sligo,wind,3.8,3.8,0.0,0.0,0.0
+2030-01-16 00:00:00,Sligo wind,Sligo,wind,6.119,6.119,0.0,0.0,0.0
+2030-01-16 01:00:00,Sligo wind,Sligo,wind,4.607,4.607,0.0,0.0,0.0
+2030-01-16 02:00:00,Sligo wind,Sligo,wind,1.188,1.188,0.0,0.0,0.0
+2030-01-16 03:00:00,Sligo wind,Sligo,wind,3.789,3.789,0.0,0.0,0.0
+2030-01-16 04:00:00,Sligo wind,Sligo,wind,10.317,10.317,0.0,0.0,0.0
+2030-01-16 05:00:00,Sligo wind,Sligo,wind,8.653,8.653,0.0,0.0,0.0
+2030-01-16 06:00:00,Sligo wind,Sligo,wind,10.0,10.0,0.0,0.0,0.0
+2030-01-16 07:00:00,Sligo wind,Sligo,wind,8.9,8.9,0.0,0.0,0.0
+2030-01-16 08:00:00,Sligo wind,Sligo,wind,14.189,14.189,0.0,0.0,0.0
+2030-01-16 09:00:00,Sligo wind,Sligo,wind,15.332,15.332,0.0,0.0,0.0
+2030-01-16 10:00:00,Sligo wind,Sligo,wind,12.781,12.781,0.0,0.0,0.0
+2030-01-16 11:00:00,Sligo wind,Sligo,wind,11.947,11.947,0.0,0.0,0.0
+2030-01-16 12:00:00,Sligo wind,Sligo,wind,21.914,21.914,0.0,0.0,0.0
+2030-01-16 13:00:00,Sligo wind,Sligo,wind,27.47,27.47,0.0,0.0,0.0
+2030-01-16 14:00:00,Sligo wind,Sligo,wind,35.189,35.189,0.0,0.0,0.0
+2030-01-16 15:00:00,Sligo wind,Sligo,wind,32.24,32.24,0.0,0.0,0.0
+2030-01-16 16:00:00,Sligo wind,Sligo,wind,36.381,36.381,0.0,0.0,0.0
+2030-01-16 17:00:00,Sligo wind,Sligo,wind,43.62,43.62,0.0,0.0,0.0
+2030-01-16 18:00:00,Sligo wind,Sligo,wind,36.179,36.179,0.0,0.0,0.0
+2030-01-16 19:00:00,Sligo wind,Sligo,wind,41.258,41.258,0.0,0.0,0.0
+2030-01-16 20:00:00,Sligo wind,Sligo,wind,39.442,39.442,0.0,0.0,0.0
+2030-01-16 21:00:00,Sligo wind,Sligo,wind,38.882,38.882,0.0,0.0,0.0
+2030-01-16 22:00:00,Sligo wind,Sligo,wind,38.37,38.37,0.0,0.0,0.0
+2030-01-16 23:00:00,Sligo wind,Sligo,wind,40.66,40.66,0.0,0.0,0.0
+2030-01-17 00:00:00,Sligo wind,Sligo,wind,42.36,42.36,0.0,0.0,0.0
+2030-01-17 01:00:00,Sligo wind,Sligo,wind,38.535,38.535,0.0,0.0,0.0
+2030-01-17 02:00:00,Sligo wind,Sligo,wind,39.088,39.088,0.0,0.0,0.0
+2030-01-17 03:00:00,Sligo wind,Sligo,wind,40.752,40.752,0.0,0.0,0.0
+2030-01-17 04:00:00,Sligo wind,Sligo,wind,36.8,36.8,0.0,0.0,0.0
+2030-01-17 05:00:00,Sligo wind,Sligo,wind,37.808,37.808,0.0,0.0,0.0
+2030-01-17 06:00:00,Sligo wind,Sligo,wind,35.272,35.272,0.0,0.0,0.0
+2030-01-17 07:00:00,Sligo wind,Sligo,wind,25.615,25.615,0.0,0.0,0.0
+2030-01-17 08:00:00,Sligo wind,Sligo,wind,25.964,25.964,0.0,0.0,0.0
+2030-01-17 09:00:00,Sligo wind,Sligo,wind,16.066,16.066,0.0,0.0,0.0
+2030-01-17 10:00:00,Sligo wind,Sligo,wind,14.49,14.49,0.0,0.0,0.0
+2030-01-17 11:00:00,Sligo wind,Sligo,wind,13.674,13.674,0.0,0.0,0.0
+2030-01-17 12:00:00,Sligo wind,Sligo,wind,15.394,15.394,0.0,0.0,0.0
+2030-01-17 13:00:00,Sligo wind,Sligo,wind,12.954,12.954,0.0,0.0,0.0
+2030-01-17 14:00:00,Sligo wind,Sligo,wind,10.42,10.42,0.0,0.0,0.0
+2030-01-17 15:00:00,Sligo wind,Sligo,wind,8.208,8.208,0.0,0.0,0.0
+2030-01-17 16:00:00,Sligo wind,Sligo,wind,6.571,6.571,0.0,0.0,0.0
+2030-01-17 17:00:00,Sligo wind,Sligo,wind,5.622,5.622,0.0,0.0,0.0
+2030-01-17 18:00:00,Sligo wind,Sligo,wind,5.377,5.377,0.0,0.0,0.0
+2030-01-17 19:00:00,Sligo wind,Sligo,wind,5.642,5.642,0.0,0.0,0.0
+2030-01-17 20:00:00,Sligo wind,Sligo,wind,6.381,6.381,0.0,0.0,0.0
+2030-01-17 21:00:00,Sligo wind,Sligo,wind,7.873,7.873,0.0,0.0,0.0
+2030-01-17 22:00:00,Sligo wind,Sligo,wind,9.778,9.778,0.0,0.0,0.0
+2030-01-17 23:00:00,Sligo wind,Sligo,wind,11.708,11.708,0.0,0.0,0.0
+2030-01-18 00:00:00,Sligo wind,Sligo,wind,13.442,13.442,0.0,0.0,0.0
+2030-01-18 01:00:00,Sligo wind,Sligo,wind,11.038,11.038,0.0,0.0,0.0
+2030-01-18 02:00:00,Sligo wind,Sligo,wind,8.492,8.492,0.0,0.0,0.0
+2030-01-18 03:00:00,Sligo wind,Sligo,wind,6.477,6.477,0.0,0.0,0.0
+2030-01-18 04:00:00,Sligo wind,Sligo,wind,7.25,7.25,0.0,0.0,0.0
+2030-01-18 05:00:00,Sligo wind,Sligo,wind,2.24,2.24,0.0,0.0,0.0
+2030-01-18 06:00:00,Sligo wind,Sligo,wind,4.785,4.785,0.0,0.0,0.0
+2030-01-18 07:00:00,Sligo wind,Sligo,wind,4.476,4.476,0.0,0.0,0.0
+2030-01-18 08:00:00,Sligo wind,Sligo,wind,3.126,3.126,0.0,0.0,0.0
+2030-01-18 09:00:00,Sligo wind,Sligo,wind,4.063,4.063,0.0,0.0,0.0
+2030-01-18 10:00:00,Sligo wind,Sligo,wind,3.342,3.342,0.0,0.0,0.0
+2030-01-18 11:00:00,Sligo wind,Sligo,wind,6.194,6.194,0.0,0.0,0.0
+2030-01-18 12:00:00,Sligo wind,Sligo,wind,16.443,16.443,0.0,0.0,0.0
+2030-01-18 13:00:00,Sligo wind,Sligo,wind,10.234,10.234,0.0,0.0,0.0
+2030-01-18 14:00:00,Sligo wind,Sligo,wind,16.004,16.004,0.0,0.0,0.0
+2030-01-18 15:00:00,Sligo wind,Sligo,wind,22.141,22.141,0.0,0.0,0.0
+2030-01-18 16:00:00,Sligo wind,Sligo,wind,21.072,21.072,0.0,0.0,0.0
+2030-01-18 17:00:00,Sligo wind,Sligo,wind,16.496,16.496,0.0,0.0,0.0
+2030-01-18 18:00:00,Sligo wind,Sligo,wind,11.434,11.434,0.0,0.0,0.0
+2030-01-18 19:00:00,Sligo wind,Sligo,wind,10.631,10.631,0.0,0.0,0.0
+2030-01-18 20:00:00,Sligo wind,Sligo,wind,15.341,15.341,0.0,0.0,0.0
+2030-01-18 21:00:00,Sligo wind,Sligo,wind,16.476,16.476,0.0,0.0,0.0
+2030-01-18 22:00:00,Sligo wind,Sligo,wind,11.701,11.701,0.0,0.0,0.0
+2030-01-18 23:00:00,Sligo wind,Sligo,wind,24.52,24.52,0.0,0.0,0.0
+2030-01-19 00:00:00,Sligo wind,Sligo,wind,35.412,35.412,0.0,0.0,0.0
+2030-01-19 01:00:00,Sligo wind,Sligo,wind,46.335,46.335,0.0,0.0,0.0
+2030-01-19 02:00:00,Sligo wind,Sligo,wind,45.118,45.118,0.0,0.0,0.0
+2030-01-19 03:00:00,Sligo wind,Sligo,wind,42.373,42.373,0.0,0.0,0.0
+2030-01-19 04:00:00,Sligo wind,Sligo,wind,42.96,42.96,0.0,0.0,0.0
+2030-01-19 05:00:00,Sligo wind,Sligo,wind,42.911,42.911,0.0,0.0,0.0
+2030-01-19 06:00:00,Sligo wind,Sligo,wind,36.41,36.41,0.0,0.0,0.0
+2030-01-19 07:00:00,Sligo wind,Sligo,wind,30.658,30.658,0.0,0.0,0.0
+2030-01-19 08:00:00,Sligo wind,Sligo,wind,25.581,25.581,0.0,0.0,0.0
+2030-01-19 09:00:00,Sligo wind,Sligo,wind,20.82,20.82,0.0,0.0,0.0
+2030-01-19 10:00:00,Sligo wind,Sligo,wind,14.177,14.177,0.0,0.0,0.0
+2030-01-19 11:00:00,Sligo wind,Sligo,wind,9.425,9.425,0.0,0.0,0.0
+2030-01-19 12:00:00,Sligo wind,Sligo,wind,9.509,9.509,0.0,0.0,0.0
+2030-01-19 13:00:00,Sligo wind,Sligo,wind,7.929,7.929,0.0,0.0,0.0
+2030-01-19 14:00:00,Sligo wind,Sligo,wind,7.663,7.663,0.0,0.0,0.0
+2030-01-19 15:00:00,Sligo wind,Sligo,wind,7.887,7.887,0.0,0.0,0.0
+2030-01-19 16:00:00,Sligo wind,Sligo,wind,19.505,19.505,0.0,0.0,0.0
+2030-01-19 17:00:00,Sligo wind,Sligo,wind,28.657,28.657,0.0,0.0,0.0
+2030-01-19 18:00:00,Sligo wind,Sligo,wind,20.073,20.073,0.0,0.0,0.0
+2030-01-19 19:00:00,Sligo wind,Sligo,wind,19.169,19.169,0.0,0.0,0.0
+2030-01-19 20:00:00,Sligo wind,Sligo,wind,23.053,23.053,0.0,0.0,0.0
+2030-01-19 21:00:00,Sligo wind,Sligo,wind,26.698,26.698,0.0,0.0,0.0
+2030-01-19 22:00:00,Sligo wind,Sligo,wind,45.501,45.501,0.0,0.0,0.0
+2030-01-19 23:00:00,Sligo wind,Sligo,wind,47.117,47.117,0.0,0.0,0.0
+2030-01-20 00:00:00,Sligo wind,Sligo,wind,47.275,47.275,0.0,0.0,0.0
+2030-01-20 01:00:00,Sligo wind,Sligo,wind,47.264,47.264,0.0,0.0,0.0
+2030-01-20 02:00:00,Sligo wind,Sligo,wind,47.008,47.008,0.0,0.0,0.0
+2030-01-20 03:00:00,Sligo wind,Sligo,wind,39.107,39.107,0.0,0.0,0.0
+2030-01-20 04:00:00,Sligo wind,Sligo,wind,31.931,31.931,0.0,0.0,0.0
+2030-01-20 05:00:00,Sligo wind,Sligo,wind,17.74,17.74,0.0,0.0,0.0
+2030-01-20 06:00:00,Sligo wind,Sligo,wind,21.049,21.049,0.0,0.0,0.0
+2030-01-20 07:00:00,Sligo wind,Sligo,wind,12.625,12.625,0.0,0.0,0.0
+2030-01-20 08:00:00,Sligo wind,Sligo,wind,22.313,22.313,0.0,0.0,0.0
+2030-01-20 09:00:00,Sligo wind,Sligo,wind,20.112,20.112,0.0,0.0,0.0
+2030-01-20 10:00:00,Sligo wind,Sligo,wind,22.918,22.918,0.0,0.0,0.0
+2030-01-20 11:00:00,Sligo wind,Sligo,wind,26.049,26.049,0.0,0.0,0.0
+2030-01-20 12:00:00,Sligo wind,Sligo,wind,30.364,30.364,0.0,0.0,0.0
+2030-01-20 13:00:00,Sligo wind,Sligo,wind,28.823,28.823,0.0,0.0,0.0
+2030-01-20 14:00:00,Sligo wind,Sligo,wind,13.995,13.995,0.0,0.0,0.0
+2030-01-20 15:00:00,Sligo wind,Sligo,wind,19.169,19.169,0.0,0.0,0.0
+2030-01-20 16:00:00,Sligo wind,Sligo,wind,13.101,13.101,0.0,0.0,0.0
+2030-01-20 17:00:00,Sligo wind,Sligo,wind,20.73,20.73,0.0,0.0,0.0
+2030-01-20 18:00:00,Sligo wind,Sligo,wind,17.472,17.472,0.0,0.0,0.0
+2030-01-20 19:00:00,Sligo wind,Sligo,wind,22.788,22.788,0.0,0.0,0.0
+2030-01-20 20:00:00,Sligo wind,Sligo,wind,21.331,21.331,0.0,0.0,0.0
+2030-01-20 21:00:00,Sligo wind,Sligo,wind,12.101,12.101,0.0,0.0,0.0
+2030-01-20 22:00:00,Sligo wind,Sligo,wind,8.47,8.47,0.0,0.0,0.0
+2030-01-20 23:00:00,Sligo wind,Sligo,wind,1.553,1.553,0.0,0.0,0.0
+2030-01-21 00:00:00,Sligo wind,Sligo,wind,2.237,2.237,0.0,0.0,0.0
+2030-01-21 01:00:00,Sligo wind,Sligo,wind,1.846,1.846,0.0,0.0,0.0
+2030-01-21 02:00:00,Sligo wind,Sligo,wind,1.936,1.936,0.0,0.0,0.0
+2030-01-21 03:00:00,Sligo wind,Sligo,wind,2.237,2.237,0.0,0.0,0.0
+2030-01-21 04:00:00,Sligo wind,Sligo,wind,2.512,2.512,0.0,0.0,0.0
+2030-01-21 05:00:00,Sligo wind,Sligo,wind,4.43,4.43,0.0,0.0,0.0
+2030-01-14 06:00:00,Trillick wind,Trillick,wind,9.965,9.965,0.0,0.0,0.0
+2030-01-14 07:00:00,Trillick wind,Trillick,wind,19.543,19.543,0.0,0.0,0.0
+2030-01-14 08:00:00,Trillick wind,Trillick,wind,22.308,22.308,0.0,0.0,0.0
+2030-01-14 09:00:00,Trillick wind,Trillick,wind,21.802,21.802,0.0,0.0,0.0
+2030-01-14 10:00:00,Trillick wind,Trillick,wind,15.942,15.942,0.0,0.0,0.0
+2030-01-14 11:00:00,Trillick wind,Trillick,wind,20.821,20.821,0.0,0.0,0.0
+2030-01-14 12:00:00,Trillick wind,Trillick,wind,9.829,9.829,0.0,0.0,0.0
+2030-01-14 13:00:00,Trillick wind,Trillick,wind,8.638,8.638,0.0,0.0,0.0
+2030-01-14 14:00:00,Trillick wind,Trillick,wind,6.43,6.43,0.0,0.0,0.0
+2030-01-14 15:00:00,Trillick wind,Trillick,wind,12.261,12.261,0.0,0.0,0.0
+2030-01-14 16:00:00,Trillick wind,Trillick,wind,8.998,8.998,0.0,0.0,0.0
+2030-01-14 17:00:00,Trillick wind,Trillick,wind,9.065,9.065,0.0,0.0,0.0
+2030-01-14 18:00:00,Trillick wind,Trillick,wind,7.717,7.717,0.0,0.0,0.0
+2030-01-14 19:00:00,Trillick wind,Trillick,wind,9.882,9.882,0.0,0.0,0.0
+2030-01-14 20:00:00,Trillick wind,Trillick,wind,6.917,6.917,0.0,0.0,0.0
+2030-01-14 21:00:00,Trillick wind,Trillick,wind,9.359,9.359,0.0,0.0,0.0
+2030-01-14 22:00:00,Trillick wind,Trillick,wind,7.848,7.848,0.0,0.0,0.0
+2030-01-14 23:00:00,Trillick wind,Trillick,wind,14.271,14.271,0.0,0.0,0.0
+2030-01-15 00:00:00,Trillick wind,Trillick,wind,20.236,20.236,0.0,0.0,0.0
+2030-01-15 01:00:00,Trillick wind,Trillick,wind,19.98,19.98,0.0,0.0,0.0
+2030-01-15 02:00:00,Trillick wind,Trillick,wind,18.122,18.122,0.0,0.0,0.0
+2030-01-15 03:00:00,Trillick wind,Trillick,wind,18.634,18.634,0.0,0.0,0.0
+2030-01-15 04:00:00,Trillick wind,Trillick,wind,20.298,20.298,0.0,0.0,0.0
+2030-01-15 05:00:00,Trillick wind,Trillick,wind,16.122,16.122,0.0,0.0,0.0
+2030-01-15 06:00:00,Trillick wind,Trillick,wind,13.315,13.315,0.0,0.0,0.0
+2030-01-15 07:00:00,Trillick wind,Trillick,wind,7.836,7.836,0.0,0.0,0.0
+2030-01-15 08:00:00,Trillick wind,Trillick,wind,7.489,7.489,0.0,0.0,0.0
+2030-01-15 09:00:00,Trillick wind,Trillick,wind,9.081,9.081,0.0,0.0,0.0
+2030-01-15 10:00:00,Trillick wind,Trillick,wind,7.916,7.916,0.0,0.0,0.0
+2030-01-15 11:00:00,Trillick wind,Trillick,wind,9.628,9.628,0.0,0.0,0.0
+2030-01-15 12:00:00,Trillick wind,Trillick,wind,8.799,8.799,0.0,0.0,0.0
+2030-01-15 13:00:00,Trillick wind,Trillick,wind,7.533,7.533,0.0,0.0,0.0
+2030-01-15 14:00:00,Trillick wind,Trillick,wind,4.518,4.518,0.0,0.0,0.0
+2030-01-15 15:00:00,Trillick wind,Trillick,wind,3.485,3.485,0.0,0.0,0.0
+2030-01-15 16:00:00,Trillick wind,Trillick,wind,2.731,2.731,0.0,0.0,0.0
+2030-01-15 17:00:00,Trillick wind,Trillick,wind,3.419,3.419,0.0,0.0,0.0
+2030-01-15 18:00:00,Trillick wind,Trillick,wind,5.576,5.576,0.0,0.0,0.0
+2030-01-15 19:00:00,Trillick wind,Trillick,wind,4.819,4.819,0.0,0.0,0.0
+2030-01-15 20:00:00,Trillick wind,Trillick,wind,5.536,5.536,0.0,0.0,0.0
+2030-01-15 21:00:00,Trillick wind,Trillick,wind,1.684,1.684,0.0,0.0,0.0
+2030-01-15 22:00:00,Trillick wind,Trillick,wind,0.92,0.92,0.0,0.0,0.0
+2030-01-15 23:00:00,Trillick wind,Trillick,wind,0.672,0.672,0.0,0.0,0.0
+2030-01-16 00:00:00,Trillick wind,Trillick,wind,1.975,1.975,0.0,0.0,0.0
+2030-01-16 01:00:00,Trillick wind,Trillick,wind,1.423,1.423,0.0,0.0,0.0
+2030-01-16 02:00:00,Trillick wind,Trillick,wind,0.39,0.39,0.0,0.0,0.0
+2030-01-16 03:00:00,Trillick wind,Trillick,wind,1.125,1.125,0.0,0.0,0.0
+2030-01-16 04:00:00,Trillick wind,Trillick,wind,3.251,3.251,0.0,0.0,0.0
+2030-01-16 05:00:00,Trillick wind,Trillick,wind,1.844,1.844,0.0,0.0,0.0
+2030-01-16 06:00:00,Trillick wind,Trillick,wind,1.284,1.284,0.0,0.0,0.0
+2030-01-16 07:00:00,Trillick wind,Trillick,wind,1.121,1.121,0.0,0.0,0.0
+2030-01-16 08:00:00,Trillick wind,Trillick,wind,1.527,1.527,0.0,0.0,0.0
+2030-01-16 09:00:00,Trillick wind,Trillick,wind,1.073,1.073,0.0,0.0,0.0
+2030-01-16 10:00:00,Trillick wind,Trillick,wind,1.8,1.8,0.0,0.0,0.0
+2030-01-16 11:00:00,Trillick wind,Trillick,wind,0.774,0.774,0.0,0.0,0.0
+2030-01-16 12:00:00,Trillick wind,Trillick,wind,0.644,0.644,0.0,0.0,0.0
+2030-01-16 13:00:00,Trillick wind,Trillick,wind,1.02,1.02,0.0,0.0,0.0
+2030-01-16 14:00:00,Trillick wind,Trillick,wind,1.479,1.479,0.0,0.0,0.0
+2030-01-16 15:00:00,Trillick wind,Trillick,wind,1.832,1.832,0.0,0.0,0.0
+2030-01-16 16:00:00,Trillick wind,Trillick,wind,2.322,2.322,0.0,0.0,0.0
+2030-01-16 17:00:00,Trillick wind,Trillick,wind,7.155,7.155,0.0,0.0,0.0
+2030-01-16 18:00:00,Trillick wind,Trillick,wind,6.086,6.086,0.0,0.0,0.0
+2030-01-16 19:00:00,Trillick wind,Trillick,wind,6.237,6.237,0.0,0.0,0.0
+2030-01-16 20:00:00,Trillick wind,Trillick,wind,4.481,4.481,0.0,0.0,0.0
+2030-01-16 21:00:00,Trillick wind,Trillick,wind,3.32,3.32,0.0,0.0,0.0
+2030-01-16 22:00:00,Trillick wind,Trillick,wind,2.714,2.714,0.0,0.0,0.0
+2030-01-16 23:00:00,Trillick wind,Trillick,wind,3.097,3.097,0.0,0.0,0.0
+2030-01-17 00:00:00,Trillick wind,Trillick,wind,6.357,6.357,0.0,0.0,0.0
+2030-01-17 01:00:00,Trillick wind,Trillick,wind,5.975,5.975,0.0,0.0,0.0
+2030-01-17 02:00:00,Trillick wind,Trillick,wind,7.574,7.574,0.0,0.0,0.0
+2030-01-17 03:00:00,Trillick wind,Trillick,wind,6.383,6.383,0.0,0.0,0.0
+2030-01-17 04:00:00,Trillick wind,Trillick,wind,4.73,4.73,0.0,0.0,0.0
+2030-01-17 05:00:00,Trillick wind,Trillick,wind,7.275,7.275,0.0,0.0,0.0
+2030-01-17 06:00:00,Trillick wind,Trillick,wind,4.92,4.92,0.0,0.0,0.0
+2030-01-17 07:00:00,Trillick wind,Trillick,wind,3.149,3.149,0.0,0.0,0.0
+2030-01-17 08:00:00,Trillick wind,Trillick,wind,4.76,4.76,0.0,0.0,0.0
+2030-01-17 09:00:00,Trillick wind,Trillick,wind,4.489,4.489,0.0,0.0,0.0
+2030-01-17 10:00:00,Trillick wind,Trillick,wind,3.275,3.275,0.0,0.0,0.0
+2030-01-17 11:00:00,Trillick wind,Trillick,wind,3.658,3.658,0.0,0.0,0.0
+2030-01-17 12:00:00,Trillick wind,Trillick,wind,8.509,8.509,0.0,0.0,0.0
+2030-01-17 13:00:00,Trillick wind,Trillick,wind,7.045,7.045,0.0,0.0,0.0
+2030-01-17 14:00:00,Trillick wind,Trillick,wind,6.039,6.039,0.0,0.0,0.0
+2030-01-17 15:00:00,Trillick wind,Trillick,wind,5.86,5.86,0.0,0.0,0.0
+2030-01-17 16:00:00,Trillick wind,Trillick,wind,5.4,5.4,0.0,0.0,0.0
+2030-01-17 17:00:00,Trillick wind,Trillick,wind,4.59,4.59,0.0,0.0,0.0
+2030-01-17 18:00:00,Trillick wind,Trillick,wind,4.071,4.071,0.0,0.0,0.0
+2030-01-17 19:00:00,Trillick wind,Trillick,wind,4.468,4.468,0.0,0.0,0.0
+2030-01-17 20:00:00,Trillick wind,Trillick,wind,4.5,4.5,0.0,0.0,0.0
+2030-01-17 21:00:00,Trillick wind,Trillick,wind,3.874,3.874,0.0,0.0,0.0
+2030-01-17 22:00:00,Trillick wind,Trillick,wind,7.775,7.775,0.0,0.0,0.0
+2030-01-17 23:00:00,Trillick wind,Trillick,wind,7.678,7.678,0.0,0.0,0.0
+2030-01-18 00:00:00,Trillick wind,Trillick,wind,8.988,8.988,0.0,0.0,0.0
+2030-01-18 01:00:00,Trillick wind,Trillick,wind,7.375,7.375,0.0,0.0,0.0
+2030-01-18 02:00:00,Trillick wind,Trillick,wind,6.954,6.954,0.0,0.0,0.0
+2030-01-18 03:00:00,Trillick wind,Trillick,wind,7.031,7.031,0.0,0.0,0.0
+2030-01-18 04:00:00,Trillick wind,Trillick,wind,7.257,7.257,0.0,0.0,0.0
+2030-01-18 05:00:00,Trillick wind,Trillick,wind,3.199,3.199,0.0,0.0,0.0
+2030-01-18 06:00:00,Trillick wind,Trillick,wind,4.299,4.299,0.0,0.0,0.0
+2030-01-18 07:00:00,Trillick wind,Trillick,wind,3.948,3.948,0.0,0.0,0.0
+2030-01-18 08:00:00,Trillick wind,Trillick,wind,1.233,1.233,0.0,0.0,0.0
+2030-01-18 09:00:00,Trillick wind,Trillick,wind,2.31,2.31,0.0,0.0,0.0
+2030-01-18 10:00:00,Trillick wind,Trillick,wind,2.851,2.851,0.0,0.0,0.0
+2030-01-18 11:00:00,Trillick wind,Trillick,wind,4.452,4.452,0.0,0.0,0.0
+2030-01-18 12:00:00,Trillick wind,Trillick,wind,9.266,9.266,0.0,0.0,0.0
+2030-01-18 13:00:00,Trillick wind,Trillick,wind,7.52,7.52,0.0,0.0,0.0
+2030-01-18 14:00:00,Trillick wind,Trillick,wind,7.631,7.631,0.0,0.0,0.0
+2030-01-18 15:00:00,Trillick wind,Trillick,wind,11.237,11.237,0.0,0.0,0.0
+2030-01-18 16:00:00,Trillick wind,Trillick,wind,18.674,18.674,0.0,0.0,0.0
+2030-01-18 17:00:00,Trillick wind,Trillick,wind,18.449,18.449,0.0,0.0,0.0
+2030-01-18 18:00:00,Trillick wind,Trillick,wind,7.612,7.612,0.0,0.0,0.0
+2030-01-18 19:00:00,Trillick wind,Trillick,wind,7.383,7.383,0.0,0.0,0.0
+2030-01-18 20:00:00,Trillick wind,Trillick,wind,8.996,8.996,0.0,0.0,0.0
+2030-01-18 21:00:00,Trillick wind,Trillick,wind,10.885,10.885,0.0,0.0,0.0
+2030-01-18 22:00:00,Trillick wind,Trillick,wind,10.753,10.753,0.0,0.0,0.0
+2030-01-18 23:00:00,Trillick wind,Trillick,wind,22.534,22.534,0.0,0.0,0.0
+2030-01-19 00:00:00,Trillick wind,Trillick,wind,26.886,26.886,0.0,0.0,0.0
+2030-01-19 01:00:00,Trillick wind,Trillick,wind,38.761,-0.0,38.761,0.0,38.761
+2030-01-19 02:00:00,Trillick wind,Trillick,wind,32.951,32.951,0.0,0.0,0.0
+2030-01-19 03:00:00,Trillick wind,Trillick,wind,34.637,-0.0,34.637,0.0,34.637
+2030-01-19 04:00:00,Trillick wind,Trillick,wind,35.445,35.445,0.0,0.0,0.0
+2030-01-19 05:00:00,Trillick wind,Trillick,wind,31.042,31.042,0.0,0.0,0.0
+2030-01-19 06:00:00,Trillick wind,Trillick,wind,26.756,26.756,0.0,0.0,0.0
+2030-01-19 07:00:00,Trillick wind,Trillick,wind,19.866,19.866,0.0,0.0,0.0
+2030-01-19 08:00:00,Trillick wind,Trillick,wind,22.95,22.95,0.0,0.0,0.0
+2030-01-19 09:00:00,Trillick wind,Trillick,wind,24.466,24.466,0.0,0.0,0.0
+2030-01-19 10:00:00,Trillick wind,Trillick,wind,20.768,20.768,0.0,0.0,0.0
+2030-01-19 11:00:00,Trillick wind,Trillick,wind,19.388,19.388,0.0,0.0,0.0
+2030-01-19 12:00:00,Trillick wind,Trillick,wind,29.73,29.73,0.0,0.0,0.0
+2030-01-19 13:00:00,Trillick wind,Trillick,wind,26.891,26.891,0.0,0.0,0.0
+2030-01-19 14:00:00,Trillick wind,Trillick,wind,22.786,22.786,0.0,0.0,0.0
+2030-01-19 15:00:00,Trillick wind,Trillick,wind,27.648,27.648,0.0,0.0,0.0
+2030-01-19 16:00:00,Trillick wind,Trillick,wind,39.385,39.385,0.0,0.0,0.0
+2030-01-19 17:00:00,Trillick wind,Trillick,wind,40.093,40.093,0.0,0.0,0.0
+2030-01-19 18:00:00,Trillick wind,Trillick,wind,37.373,37.373,0.0,0.0,0.0
+2030-01-19 19:00:00,Trillick wind,Trillick,wind,34.225,34.225,0.0,0.0,0.0
+2030-01-19 20:00:00,Trillick wind,Trillick,wind,31.52,31.52,0.0,0.0,0.0
+2030-01-19 21:00:00,Trillick wind,Trillick,wind,28.54,28.54,0.0,0.0,0.0
+2030-01-19 22:00:00,Trillick wind,Trillick,wind,36.038,9.695,26.344,0.0,26.344
+2030-01-19 23:00:00,Trillick wind,Trillick,wind,38.802,-0.0,38.802,0.0,38.802
+2030-01-20 00:00:00,Trillick wind,Trillick,wind,37.986,37.986,0.0,0.0,0.0
+2030-01-20 01:00:00,Trillick wind,Trillick,wind,34.378,-0.0,34.378,0.0,34.378
+2030-01-20 02:00:00,Trillick wind,Trillick,wind,25.214,25.214,0.0,0.0,0.0
+2030-01-20 03:00:00,Trillick wind,Trillick,wind,24.993,24.993,0.0,0.0,0.0
+2030-01-20 04:00:00,Trillick wind,Trillick,wind,13.989,13.989,0.0,0.0,0.0
+2030-01-20 05:00:00,Trillick wind,Trillick,wind,10.854,10.854,0.0,0.0,0.0
+2030-01-20 06:00:00,Trillick wind,Trillick,wind,8.006,8.006,0.0,0.0,0.0
+2030-01-20 07:00:00,Trillick wind,Trillick,wind,6.427,6.427,0.0,0.0,0.0
+2030-01-20 08:00:00,Trillick wind,Trillick,wind,12.309,12.309,0.0,0.0,0.0
+2030-01-20 09:00:00,Trillick wind,Trillick,wind,12.4,12.4,0.0,0.0,0.0
+2030-01-20 10:00:00,Trillick wind,Trillick,wind,15.615,15.615,0.0,0.0,0.0
+2030-01-20 11:00:00,Trillick wind,Trillick,wind,20.122,20.122,0.0,0.0,0.0
+2030-01-20 12:00:00,Trillick wind,Trillick,wind,27.504,27.504,0.0,0.0,0.0
+2030-01-20 13:00:00,Trillick wind,Trillick,wind,33.906,33.906,0.0,0.0,0.0
+2030-01-20 14:00:00,Trillick wind,Trillick,wind,25.999,25.999,0.0,0.0,0.0
+2030-01-20 15:00:00,Trillick wind,Trillick,wind,31.534,31.534,0.0,0.0,0.0
+2030-01-20 16:00:00,Trillick wind,Trillick,wind,30.419,30.419,0.0,0.0,0.0
+2030-01-20 17:00:00,Trillick wind,Trillick,wind,29.148,29.148,0.0,0.0,0.0
+2030-01-20 18:00:00,Trillick wind,Trillick,wind,27.308,27.308,0.0,0.0,0.0
+2030-01-20 19:00:00,Trillick wind,Trillick,wind,30.72,30.72,0.0,0.0,0.0
+2030-01-20 20:00:00,Trillick wind,Trillick,wind,36.88,36.88,0.0,0.0,0.0
+2030-01-20 21:00:00,Trillick wind,Trillick,wind,28.489,28.489,0.0,0.0,0.0
+2030-01-20 22:00:00,Trillick wind,Trillick,wind,23.407,23.407,0.0,0.0,0.0
+2030-01-20 23:00:00,Trillick wind,Trillick,wind,7.589,7.589,0.0,0.0,0.0
+2030-01-21 00:00:00,Trillick wind,Trillick,wind,4.385,4.385,0.0,0.0,0.0
+2030-01-21 01:00:00,Trillick wind,Trillick,wind,5.216,5.216,0.0,0.0,0.0
+2030-01-21 02:00:00,Trillick wind,Trillick,wind,10.142,10.142,0.0,0.0,0.0
+2030-01-21 03:00:00,Trillick wind,Trillick,wind,11.089,11.089,0.0,0.0,0.0
+2030-01-21 04:00:00,Trillick wind,Trillick,wind,8.693,8.693,0.0,0.0,0.0
+2030-01-21 05:00:00,Trillick wind,Trillick,wind,11.959,11.959,0.0,0.0,0.0
+2030-01-14 06:00:00,Tievebrack wind,Tievebrack,wind,22.908,22.908,0.0,0.0,0.0
+2030-01-14 07:00:00,Tievebrack wind,Tievebrack,wind,24.632,24.632,0.0,0.0,0.0
+2030-01-14 08:00:00,Tievebrack wind,Tievebrack,wind,25.018,25.018,0.0,0.0,0.0
+2030-01-14 09:00:00,Tievebrack wind,Tievebrack,wind,26.782,26.782,0.0,0.0,0.0
+2030-01-14 10:00:00,Tievebrack wind,Tievebrack,wind,26.752,26.752,0.0,0.0,0.0
+2030-01-14 11:00:00,Tievebrack wind,Tievebrack,wind,26.903,26.903,0.0,0.0,0.0
+2030-01-14 12:00:00,Tievebrack wind,Tievebrack,wind,24.11,24.11,0.0,0.0,0.0
+2030-01-14 13:00:00,Tievebrack wind,Tievebrack,wind,24.03,24.03,0.0,0.0,0.0
+2030-01-14 14:00:00,Tievebrack wind,Tievebrack,wind,19.378,19.378,0.0,0.0,0.0
+2030-01-14 15:00:00,Tievebrack wind,Tievebrack,wind,26.184,26.184,0.0,0.0,0.0
+2030-01-14 16:00:00,Tievebrack wind,Tievebrack,wind,23.175,23.175,0.0,0.0,0.0
+2030-01-14 17:00:00,Tievebrack wind,Tievebrack,wind,26.01,26.01,0.0,0.0,0.0
+2030-01-14 18:00:00,Tievebrack wind,Tievebrack,wind,22.584,22.584,0.0,0.0,0.0
+2030-01-14 19:00:00,Tievebrack wind,Tievebrack,wind,22.96,22.96,0.0,0.0,0.0
+2030-01-14 20:00:00,Tievebrack wind,Tievebrack,wind,16.318,16.318,0.0,0.0,0.0
+2030-01-14 21:00:00,Tievebrack wind,Tievebrack,wind,17.894,17.894,0.0,0.0,0.0
+2030-01-14 22:00:00,Tievebrack wind,Tievebrack,wind,13.534,13.534,0.0,0.0,0.0
+2030-01-14 23:00:00,Tievebrack wind,Tievebrack,wind,20.332,20.332,0.0,0.0,0.0
+2030-01-15 00:00:00,Tievebrack wind,Tievebrack,wind,23.278,23.278,0.0,0.0,0.0
+2030-01-15 01:00:00,Tievebrack wind,Tievebrack,wind,26.033,26.033,0.0,0.0,0.0
+2030-01-15 02:00:00,Tievebrack wind,Tievebrack,wind,25.822,25.822,0.0,0.0,0.0
+2030-01-15 03:00:00,Tievebrack wind,Tievebrack,wind,26.851,26.851,0.0,0.0,0.0
+2030-01-15 04:00:00,Tievebrack wind,Tievebrack,wind,26.878,26.878,0.0,0.0,0.0
+2030-01-15 05:00:00,Tievebrack wind,Tievebrack,wind,26.733,26.733,0.0,0.0,0.0
+2030-01-15 06:00:00,Tievebrack wind,Tievebrack,wind,24.748,24.748,0.0,0.0,0.0
+2030-01-15 07:00:00,Tievebrack wind,Tievebrack,wind,20.069,20.069,0.0,0.0,0.0
+2030-01-15 08:00:00,Tievebrack wind,Tievebrack,wind,19.927,19.927,0.0,0.0,0.0
+2030-01-15 09:00:00,Tievebrack wind,Tievebrack,wind,23.133,23.133,0.0,0.0,0.0
+2030-01-15 10:00:00,Tievebrack wind,Tievebrack,wind,18.843,18.843,0.0,0.0,0.0
+2030-01-15 11:00:00,Tievebrack wind,Tievebrack,wind,20.703,20.703,0.0,0.0,0.0
+2030-01-15 12:00:00,Tievebrack wind,Tievebrack,wind,16.092,16.092,0.0,0.0,0.0
+2030-01-15 13:00:00,Tievebrack wind,Tievebrack,wind,14.089,14.089,0.0,0.0,0.0
+2030-01-15 14:00:00,Tievebrack wind,Tievebrack,wind,8.76,8.76,0.0,0.0,0.0
+2030-01-15 15:00:00,Tievebrack wind,Tievebrack,wind,9.555,9.555,0.0,0.0,0.0
+2030-01-15 16:00:00,Tievebrack wind,Tievebrack,wind,7.396,7.396,0.0,0.0,0.0
+2030-01-15 17:00:00,Tievebrack wind,Tievebrack,wind,6.718,6.718,0.0,0.0,0.0
+2030-01-15 18:00:00,Tievebrack wind,Tievebrack,wind,8.983,8.983,0.0,0.0,0.0
+2030-01-15 19:00:00,Tievebrack wind,Tievebrack,wind,7.232,7.232,0.0,0.0,0.0
+2030-01-15 20:00:00,Tievebrack wind,Tievebrack,wind,10.535,10.535,0.0,0.0,0.0
+2030-01-15 21:00:00,Tievebrack wind,Tievebrack,wind,5.658,5.658,0.0,0.0,0.0
+2030-01-15 22:00:00,Tievebrack wind,Tievebrack,wind,5.299,5.299,0.0,0.0,0.0
+2030-01-15 23:00:00,Tievebrack wind,Tievebrack,wind,3.472,3.472,0.0,0.0,0.0
+2030-01-16 00:00:00,Tievebrack wind,Tievebrack,wind,6.561,6.561,0.0,0.0,0.0
+2030-01-16 01:00:00,Tievebrack wind,Tievebrack,wind,5.913,5.913,0.0,0.0,0.0
+2030-01-16 02:00:00,Tievebrack wind,Tievebrack,wind,2.375,2.375,0.0,0.0,0.0
+2030-01-16 03:00:00,Tievebrack wind,Tievebrack,wind,6.13,6.13,0.0,0.0,0.0
+2030-01-16 04:00:00,Tievebrack wind,Tievebrack,wind,11.531,11.531,0.0,0.0,0.0
+2030-01-16 05:00:00,Tievebrack wind,Tievebrack,wind,5.881,5.881,0.0,0.0,0.0
+2030-01-16 06:00:00,Tievebrack wind,Tievebrack,wind,6.741,6.741,0.0,0.0,0.0
+2030-01-16 07:00:00,Tievebrack wind,Tievebrack,wind,6.474,6.474,0.0,0.0,0.0
+2030-01-16 08:00:00,Tievebrack wind,Tievebrack,wind,9.831,9.831,0.0,0.0,0.0
+2030-01-16 09:00:00,Tievebrack wind,Tievebrack,wind,7.659,7.659,0.0,0.0,0.0
+2030-01-16 10:00:00,Tievebrack wind,Tievebrack,wind,10.482,10.482,0.0,0.0,0.0
+2030-01-16 11:00:00,Tievebrack wind,Tievebrack,wind,9.494,9.494,0.0,0.0,0.0
+2030-01-16 12:00:00,Tievebrack wind,Tievebrack,wind,10.555,10.555,0.0,0.0,0.0
+2030-01-16 13:00:00,Tievebrack wind,Tievebrack,wind,13.564,13.564,0.0,0.0,0.0
+2030-01-16 14:00:00,Tievebrack wind,Tievebrack,wind,14.808,14.808,0.0,0.0,0.0
+2030-01-16 15:00:00,Tievebrack wind,Tievebrack,wind,14.377,14.377,0.0,0.0,0.0
+2030-01-16 16:00:00,Tievebrack wind,Tievebrack,wind,19.155,19.155,0.0,0.0,0.0
+2030-01-16 17:00:00,Tievebrack wind,Tievebrack,wind,24.195,24.195,0.0,0.0,0.0
+2030-01-16 18:00:00,Tievebrack wind,Tievebrack,wind,19.968,19.968,0.0,0.0,0.0
+2030-01-16 19:00:00,Tievebrack wind,Tievebrack,wind,21.447,21.447,0.0,0.0,0.0
+2030-01-16 20:00:00,Tievebrack wind,Tievebrack,wind,15.259,15.259,0.0,0.0,0.0
+2030-01-16 21:00:00,Tievebrack wind,Tievebrack,wind,12.313,12.313,0.0,0.0,0.0
+2030-01-16 22:00:00,Tievebrack wind,Tievebrack,wind,13.536,13.536,0.0,0.0,0.0
+2030-01-16 23:00:00,Tievebrack wind,Tievebrack,wind,12.032,12.032,0.0,0.0,0.0
+2030-01-17 00:00:00,Tievebrack wind,Tievebrack,wind,18.798,18.798,0.0,0.0,0.0
+2030-01-17 01:00:00,Tievebrack wind,Tievebrack,wind,19.424,19.424,0.0,0.0,0.0
+2030-01-17 02:00:00,Tievebrack wind,Tievebrack,wind,20.989,20.989,0.0,0.0,0.0
+2030-01-17 03:00:00,Tievebrack wind,Tievebrack,wind,21.322,21.322,0.0,0.0,0.0
+2030-01-17 04:00:00,Tievebrack wind,Tievebrack,wind,18.951,18.951,0.0,0.0,0.0
+2030-01-17 05:00:00,Tievebrack wind,Tievebrack,wind,18.835,18.835,0.0,0.0,0.0
+2030-01-17 06:00:00,Tievebrack wind,Tievebrack,wind,18.506,18.506,0.0,0.0,0.0
+2030-01-17 07:00:00,Tievebrack wind,Tievebrack,wind,15.97,15.97,0.0,0.0,0.0
+2030-01-17 08:00:00,Tievebrack wind,Tievebrack,wind,15.856,15.856,0.0,0.0,0.0
+2030-01-17 09:00:00,Tievebrack wind,Tievebrack,wind,13.005,13.005,0.0,0.0,0.0
+2030-01-17 10:00:00,Tievebrack wind,Tievebrack,wind,12.546,12.546,0.0,0.0,0.0
+2030-01-17 11:00:00,Tievebrack wind,Tievebrack,wind,11.214,11.214,0.0,0.0,0.0
+2030-01-17 12:00:00,Tievebrack wind,Tievebrack,wind,9.283,9.283,0.0,0.0,0.0
+2030-01-17 13:00:00,Tievebrack wind,Tievebrack,wind,7.436,7.436,0.0,0.0,0.0
+2030-01-17 14:00:00,Tievebrack wind,Tievebrack,wind,5.948,5.948,0.0,0.0,0.0
+2030-01-17 15:00:00,Tievebrack wind,Tievebrack,wind,4.682,4.682,0.0,0.0,0.0
+2030-01-17 16:00:00,Tievebrack wind,Tievebrack,wind,3.739,3.739,0.0,0.0,0.0
+2030-01-17 17:00:00,Tievebrack wind,Tievebrack,wind,3.203,3.203,0.0,0.0,0.0
+2030-01-17 18:00:00,Tievebrack wind,Tievebrack,wind,3.075,3.075,0.0,0.0,0.0
+2030-01-17 19:00:00,Tievebrack wind,Tievebrack,wind,3.271,3.271,0.0,0.0,0.0
+2030-01-17 20:00:00,Tievebrack wind,Tievebrack,wind,3.877,3.877,0.0,0.0,0.0
+2030-01-17 21:00:00,Tievebrack wind,Tievebrack,wind,4.805,4.805,0.0,0.0,0.0
+2030-01-17 22:00:00,Tievebrack wind,Tievebrack,wind,5.977,5.977,0.0,0.0,0.0
+2030-01-17 23:00:00,Tievebrack wind,Tievebrack,wind,7.484,7.484,0.0,0.0,0.0
+2030-01-18 00:00:00,Tievebrack wind,Tievebrack,wind,9.226,9.226,0.0,0.0,0.0
+2030-01-18 01:00:00,Tievebrack wind,Tievebrack,wind,10.761,10.761,0.0,0.0,0.0
+2030-01-18 02:00:00,Tievebrack wind,Tievebrack,wind,12.001,12.001,0.0,0.0,0.0
+2030-01-18 03:00:00,Tievebrack wind,Tievebrack,wind,12.545,12.545,0.0,0.0,0.0
+2030-01-18 04:00:00,Tievebrack wind,Tievebrack,wind,14.295,14.295,0.0,0.0,0.0
+2030-01-18 05:00:00,Tievebrack wind,Tievebrack,wind,10.63,10.63,0.0,0.0,0.0
+2030-01-18 06:00:00,Tievebrack wind,Tievebrack,wind,15.696,15.696,0.0,0.0,0.0
+2030-01-18 07:00:00,Tievebrack wind,Tievebrack,wind,12.388,12.388,0.0,0.0,0.0
+2030-01-18 08:00:00,Tievebrack wind,Tievebrack,wind,7.722,7.722,0.0,0.0,0.0
+2030-01-18 09:00:00,Tievebrack wind,Tievebrack,wind,10.742,10.742,0.0,0.0,0.0
+2030-01-18 10:00:00,Tievebrack wind,Tievebrack,wind,9.543,9.543,0.0,0.0,0.0
+2030-01-18 11:00:00,Tievebrack wind,Tievebrack,wind,11.541,11.541,0.0,0.0,0.0
+2030-01-18 12:00:00,Tievebrack wind,Tievebrack,wind,20.743,20.743,0.0,0.0,0.0
+2030-01-18 13:00:00,Tievebrack wind,Tievebrack,wind,14.844,14.844,0.0,0.0,0.0
+2030-01-18 14:00:00,Tievebrack wind,Tievebrack,wind,19.865,19.865,0.0,0.0,0.0
+2030-01-18 15:00:00,Tievebrack wind,Tievebrack,wind,24.534,24.534,0.0,0.0,0.0
+2030-01-18 16:00:00,Tievebrack wind,Tievebrack,wind,26.402,26.402,0.0,0.0,0.0
+2030-01-18 17:00:00,Tievebrack wind,Tievebrack,wind,26.401,26.401,0.0,0.0,0.0
+2030-01-18 18:00:00,Tievebrack wind,Tievebrack,wind,21.955,21.955,0.0,0.0,0.0
+2030-01-18 19:00:00,Tievebrack wind,Tievebrack,wind,20.221,20.221,0.0,0.0,0.0
+2030-01-18 20:00:00,Tievebrack wind,Tievebrack,wind,24.01,24.01,0.0,0.0,0.0
+2030-01-18 21:00:00,Tievebrack wind,Tievebrack,wind,22.551,22.551,0.0,0.0,0.0
+2030-01-18 22:00:00,Tievebrack wind,Tievebrack,wind,23.428,23.428,0.0,0.0,0.0
+2030-01-18 23:00:00,Tievebrack wind,Tievebrack,wind,26.476,26.476,0.0,0.0,0.0
+2030-01-19 00:00:00,Tievebrack wind,Tievebrack,wind,26.866,26.866,0.0,0.0,0.0
+2030-01-19 01:00:00,Tievebrack wind,Tievebrack,wind,26.91,26.91,0.0,0.0,0.0
+2030-01-19 02:00:00,Tievebrack wind,Tievebrack,wind,26.906,26.906,0.0,0.0,0.0
+2030-01-19 03:00:00,Tievebrack wind,Tievebrack,wind,26.909,26.909,0.0,0.0,0.0
+2030-01-19 04:00:00,Tievebrack wind,Tievebrack,wind,26.91,26.91,0.0,0.0,0.0
+2030-01-19 05:00:00,Tievebrack wind,Tievebrack,wind,26.91,26.91,0.0,0.0,0.0
+2030-01-19 06:00:00,Tievebrack wind,Tievebrack,wind,26.903,26.903,0.0,0.0,0.0
+2030-01-19 07:00:00,Tievebrack wind,Tievebrack,wind,26.899,26.899,0.0,0.0,0.0
+2030-01-19 08:00:00,Tievebrack wind,Tievebrack,wind,26.801,26.801,0.0,0.0,0.0
+2030-01-19 09:00:00,Tievebrack wind,Tievebrack,wind,26.672,26.672,0.0,0.0,0.0
+2030-01-19 10:00:00,Tievebrack wind,Tievebrack,wind,25.362,25.362,0.0,0.0,0.0
+2030-01-19 11:00:00,Tievebrack wind,Tievebrack,wind,24.827,24.827,0.0,0.0,0.0
+2030-01-19 12:00:00,Tievebrack wind,Tievebrack,wind,25.788,25.788,0.0,0.0,0.0
+2030-01-19 13:00:00,Tievebrack wind,Tievebrack,wind,24.896,24.896,0.0,0.0,0.0
+2030-01-19 14:00:00,Tievebrack wind,Tievebrack,wind,23.374,23.374,0.0,0.0,0.0
+2030-01-19 15:00:00,Tievebrack wind,Tievebrack,wind,23.459,23.459,0.0,0.0,0.0
+2030-01-19 16:00:00,Tievebrack wind,Tievebrack,wind,26.878,26.878,0.0,0.0,0.0
+2030-01-19 17:00:00,Tievebrack wind,Tievebrack,wind,26.909,26.909,0.0,0.0,0.0
+2030-01-19 18:00:00,Tievebrack wind,Tievebrack,wind,26.868,26.868,0.0,0.0,0.0
+2030-01-19 19:00:00,Tievebrack wind,Tievebrack,wind,26.779,26.779,0.0,0.0,0.0
+2030-01-19 20:00:00,Tievebrack wind,Tievebrack,wind,26.75,26.75,0.0,0.0,0.0
+2030-01-19 21:00:00,Tievebrack wind,Tievebrack,wind,26.663,26.663,0.0,0.0,0.0
+2030-01-19 22:00:00,Tievebrack wind,Tievebrack,wind,26.91,26.91,0.0,0.0,0.0
+2030-01-19 23:00:00,Tievebrack wind,Tievebrack,wind,26.887,26.887,0.0,0.0,0.0
+2030-01-20 00:00:00,Tievebrack wind,Tievebrack,wind,26.852,26.852,0.0,0.0,0.0
+2030-01-20 01:00:00,Tievebrack wind,Tievebrack,wind,26.903,26.903,0.0,0.0,0.0
+2030-01-20 02:00:00,Tievebrack wind,Tievebrack,wind,26.91,26.91,0.0,0.0,0.0
+2030-01-20 03:00:00,Tievebrack wind,Tievebrack,wind,26.899,26.899,0.0,0.0,0.0
+2030-01-20 04:00:00,Tievebrack wind,Tievebrack,wind,26.762,26.762,0.0,0.0,0.0
+2030-01-20 05:00:00,Tievebrack wind,Tievebrack,wind,24.296,24.296,0.0,0.0,0.0
+2030-01-20 06:00:00,Tievebrack wind,Tievebrack,wind,25.15,25.15,0.0,0.0,0.0
+2030-01-20 07:00:00,Tievebrack wind,Tievebrack,wind,24.878,24.878,0.0,0.0,0.0
+2030-01-20 08:00:00,Tievebrack wind,Tievebrack,wind,26.832,26.832,0.0,0.0,0.0
+2030-01-20 09:00:00,Tievebrack wind,Tievebrack,wind,26.378,26.378,0.0,0.0,0.0
+2030-01-20 10:00:00,Tievebrack wind,Tievebrack,wind,26.757,26.757,0.0,0.0,0.0
+2030-01-20 11:00:00,Tievebrack wind,Tievebrack,wind,26.312,26.312,0.0,0.0,0.0
+2030-01-20 12:00:00,Tievebrack wind,Tievebrack,wind,26.754,26.754,0.0,0.0,0.0
+2030-01-20 13:00:00,Tievebrack wind,Tievebrack,wind,26.897,26.897,0.0,0.0,0.0
+2030-01-20 14:00:00,Tievebrack wind,Tievebrack,wind,25.509,25.509,0.0,0.0,0.0
+2030-01-20 15:00:00,Tievebrack wind,Tievebrack,wind,26.353,26.353,0.0,0.0,0.0
+2030-01-20 16:00:00,Tievebrack wind,Tievebrack,wind,24.874,24.874,0.0,0.0,0.0
+2030-01-20 17:00:00,Tievebrack wind,Tievebrack,wind,26.002,26.002,0.0,0.0,0.0
+2030-01-20 18:00:00,Tievebrack wind,Tievebrack,wind,25.226,25.226,0.0,0.0,0.0
+2030-01-20 19:00:00,Tievebrack wind,Tievebrack,wind,25.088,25.088,0.0,0.0,0.0
+2030-01-20 20:00:00,Tievebrack wind,Tievebrack,wind,24.283,24.283,0.0,0.0,0.0
+2030-01-20 21:00:00,Tievebrack wind,Tievebrack,wind,19.221,19.221,0.0,0.0,0.0
+2030-01-20 22:00:00,Tievebrack wind,Tievebrack,wind,12.032,12.032,0.0,0.0,0.0
+2030-01-20 23:00:00,Tievebrack wind,Tievebrack,wind,4.543,4.543,0.0,0.0,0.0
+2030-01-21 00:00:00,Tievebrack wind,Tievebrack,wind,2.744,2.744,0.0,0.0,0.0
+2030-01-21 01:00:00,Tievebrack wind,Tievebrack,wind,2.289,2.289,0.0,0.0,0.0
+2030-01-21 02:00:00,Tievebrack wind,Tievebrack,wind,4.492,4.492,0.0,0.0,0.0
+2030-01-21 03:00:00,Tievebrack wind,Tievebrack,wind,3.045,3.045,0.0,0.0,0.0
+2030-01-21 04:00:00,Tievebrack wind,Tievebrack,wind,4.28,4.28,0.0,0.0,0.0
+2030-01-21 05:00:00,Tievebrack wind,Tievebrack,wind,6.156,6.156,0.0,0.0,0.0
+2030-01-14 06:00:00,Ardnagappary wind,Ardnagappary,wind,6.537,6.537,0.0,0.0,0.0
+2030-01-14 07:00:00,Ardnagappary wind,Ardnagappary,wind,8.724,8.724,0.0,0.0,0.0
+2030-01-14 08:00:00,Ardnagappary wind,Ardnagappary,wind,10.149,10.149,0.0,0.0,0.0
+2030-01-14 09:00:00,Ardnagappary wind,Ardnagappary,wind,15.264,15.264,0.0,0.0,0.0
+2030-01-14 10:00:00,Ardnagappary wind,Ardnagappary,wind,15.6,15.6,0.0,0.0,0.0
+2030-01-14 11:00:00,Ardnagappary wind,Ardnagappary,wind,18.95,18.95,0.0,0.0,0.0
+2030-01-14 12:00:00,Ardnagappary wind,Ardnagappary,wind,8.927,8.927,0.0,0.0,0.0
+2030-01-14 13:00:00,Ardnagappary wind,Ardnagappary,wind,8.172,8.172,0.0,0.0,0.0
+2030-01-14 14:00:00,Ardnagappary wind,Ardnagappary,wind,6.721,6.721,0.0,0.0,0.0
+2030-01-14 15:00:00,Ardnagappary wind,Ardnagappary,wind,10.975,10.975,0.0,0.0,0.0
+2030-01-14 16:00:00,Ardnagappary wind,Ardnagappary,wind,7.24,7.24,0.0,0.0,0.0
+2030-01-14 17:00:00,Ardnagappary wind,Ardnagappary,wind,9.923,9.923,0.0,0.0,0.0
+2030-01-14 18:00:00,Ardnagappary wind,Ardnagappary,wind,7.226,7.226,0.0,0.0,0.0
+2030-01-14 19:00:00,Ardnagappary wind,Ardnagappary,wind,9.083,9.083,0.0,0.0,0.0
+2030-01-14 20:00:00,Ardnagappary wind,Ardnagappary,wind,6.103,6.103,0.0,0.0,0.0
+2030-01-14 21:00:00,Ardnagappary wind,Ardnagappary,wind,10.648,10.648,0.0,0.0,0.0
+2030-01-14 22:00:00,Ardnagappary wind,Ardnagappary,wind,7.553,7.553,0.0,0.0,0.0
+2030-01-14 23:00:00,Ardnagappary wind,Ardnagappary,wind,10.549,10.549,0.0,0.0,0.0
+2030-01-15 00:00:00,Ardnagappary wind,Ardnagappary,wind,13.774,13.774,0.0,0.0,0.0
+2030-01-15 01:00:00,Ardnagappary wind,Ardnagappary,wind,16.504,16.504,0.0,0.0,0.0
+2030-01-15 02:00:00,Ardnagappary wind,Ardnagappary,wind,15.289,15.289,0.0,0.0,0.0
+2030-01-15 03:00:00,Ardnagappary wind,Ardnagappary,wind,18.701,18.701,0.0,0.0,0.0
+2030-01-15 04:00:00,Ardnagappary wind,Ardnagappary,wind,18.428,18.428,0.0,0.0,0.0
+2030-01-15 05:00:00,Ardnagappary wind,Ardnagappary,wind,16.59,16.59,0.0,0.0,0.0
+2030-01-15 06:00:00,Ardnagappary wind,Ardnagappary,wind,12.155,12.155,0.0,0.0,0.0
+2030-01-15 07:00:00,Ardnagappary wind,Ardnagappary,wind,10.243,10.243,0.0,0.0,0.0
+2030-01-15 08:00:00,Ardnagappary wind,Ardnagappary,wind,11.573,11.573,0.0,0.0,0.0
+2030-01-15 09:00:00,Ardnagappary wind,Ardnagappary,wind,13.983,13.983,0.0,0.0,0.0
+2030-01-15 10:00:00,Ardnagappary wind,Ardnagappary,wind,11.596,11.596,0.0,0.0,0.0
+2030-01-15 11:00:00,Ardnagappary wind,Ardnagappary,wind,13.724,13.724,0.0,0.0,0.0
+2030-01-15 12:00:00,Ardnagappary wind,Ardnagappary,wind,11.72,11.72,0.0,0.0,0.0
+2030-01-15 13:00:00,Ardnagappary wind,Ardnagappary,wind,10.305,10.305,0.0,0.0,0.0
+2030-01-15 14:00:00,Ardnagappary wind,Ardnagappary,wind,7.278,7.278,0.0,0.0,0.0
+2030-01-15 15:00:00,Ardnagappary wind,Ardnagappary,wind,8.826,8.826,0.0,0.0,0.0
+2030-01-15 16:00:00,Ardnagappary wind,Ardnagappary,wind,5.876,5.876,0.0,0.0,0.0
+2030-01-15 17:00:00,Ardnagappary wind,Ardnagappary,wind,3.948,3.948,0.0,0.0,0.0
+2030-01-15 18:00:00,Ardnagappary wind,Ardnagappary,wind,5.731,5.731,0.0,0.0,0.0
+2030-01-15 19:00:00,Ardnagappary wind,Ardnagappary,wind,5.212,5.212,0.0,0.0,0.0
+2030-01-15 20:00:00,Ardnagappary wind,Ardnagappary,wind,6.695,6.695,0.0,0.0,0.0
+2030-01-15 21:00:00,Ardnagappary wind,Ardnagappary,wind,2.893,2.893,0.0,0.0,0.0
+2030-01-15 22:00:00,Ardnagappary wind,Ardnagappary,wind,2.82,2.82,0.0,0.0,0.0
+2030-01-15 23:00:00,Ardnagappary wind,Ardnagappary,wind,2.26,2.26,0.0,0.0,0.0
+2030-01-16 00:00:00,Ardnagappary wind,Ardnagappary,wind,4.964,4.964,0.0,0.0,0.0
+2030-01-16 01:00:00,Ardnagappary wind,Ardnagappary,wind,3.175,3.175,0.0,0.0,0.0
+2030-01-16 02:00:00,Ardnagappary wind,Ardnagappary,wind,1.167,1.167,0.0,0.0,0.0
+2030-01-16 03:00:00,Ardnagappary wind,Ardnagappary,wind,4.143,4.143,0.0,0.0,0.0
+2030-01-16 04:00:00,Ardnagappary wind,Ardnagappary,wind,8.659,8.659,0.0,0.0,0.0
+2030-01-16 05:00:00,Ardnagappary wind,Ardnagappary,wind,4.966,4.966,0.0,0.0,0.0
+2030-01-16 06:00:00,Ardnagappary wind,Ardnagappary,wind,4.065,4.065,0.0,0.0,0.0
+2030-01-16 07:00:00,Ardnagappary wind,Ardnagappary,wind,3.768,3.768,0.0,0.0,0.0
+2030-01-16 08:00:00,Ardnagappary wind,Ardnagappary,wind,5.82,5.82,0.0,0.0,0.0
+2030-01-16 09:00:00,Ardnagappary wind,Ardnagappary,wind,5.329,5.329,0.0,0.0,0.0
+2030-01-16 10:00:00,Ardnagappary wind,Ardnagappary,wind,7.216,7.216,0.0,0.0,0.0
+2030-01-16 11:00:00,Ardnagappary wind,Ardnagappary,wind,6.454,6.454,0.0,0.0,0.0
+2030-01-16 12:00:00,Ardnagappary wind,Ardnagappary,wind,5.714,5.714,0.0,0.0,0.0
+2030-01-16 13:00:00,Ardnagappary wind,Ardnagappary,wind,6.252,6.252,0.0,0.0,0.0
+2030-01-16 14:00:00,Ardnagappary wind,Ardnagappary,wind,7.98,7.98,0.0,0.0,0.0
+2030-01-16 15:00:00,Ardnagappary wind,Ardnagappary,wind,7.596,7.596,0.0,0.0,0.0
+2030-01-16 16:00:00,Ardnagappary wind,Ardnagappary,wind,11.848,11.848,0.0,0.0,0.0
+2030-01-16 17:00:00,Ardnagappary wind,Ardnagappary,wind,16.834,16.834,0.0,0.0,0.0
+2030-01-16 18:00:00,Ardnagappary wind,Ardnagappary,wind,13.001,13.001,0.0,0.0,0.0
+2030-01-16 19:00:00,Ardnagappary wind,Ardnagappary,wind,14.349,14.349,0.0,0.0,0.0
+2030-01-16 20:00:00,Ardnagappary wind,Ardnagappary,wind,11.269,11.269,0.0,0.0,0.0
+2030-01-16 21:00:00,Ardnagappary wind,Ardnagappary,wind,7.858,7.858,0.0,0.0,0.0
+2030-01-16 22:00:00,Ardnagappary wind,Ardnagappary,wind,7.504,7.504,0.0,0.0,0.0
+2030-01-16 23:00:00,Ardnagappary wind,Ardnagappary,wind,6.784,6.784,0.0,0.0,0.0
+2030-01-17 00:00:00,Ardnagappary wind,Ardnagappary,wind,12.312,12.312,0.0,0.0,0.0
+2030-01-17 01:00:00,Ardnagappary wind,Ardnagappary,wind,12.579,12.579,0.0,0.0,0.0
+2030-01-17 02:00:00,Ardnagappary wind,Ardnagappary,wind,15.105,15.105,0.0,0.0,0.0
+2030-01-17 03:00:00,Ardnagappary wind,Ardnagappary,wind,13.574,13.574,0.0,0.0,0.0
+2030-01-17 04:00:00,Ardnagappary wind,Ardnagappary,wind,10.043,10.043,0.0,0.0,0.0
+2030-01-17 05:00:00,Ardnagappary wind,Ardnagappary,wind,10.938,10.938,0.0,0.0,0.0
+2030-01-17 06:00:00,Ardnagappary wind,Ardnagappary,wind,10.839,10.839,0.0,0.0,0.0
+2030-01-17 07:00:00,Ardnagappary wind,Ardnagappary,wind,8.961,8.961,0.0,0.0,0.0
+2030-01-17 08:00:00,Ardnagappary wind,Ardnagappary,wind,8.657,8.657,0.0,0.0,0.0
+2030-01-17 09:00:00,Ardnagappary wind,Ardnagappary,wind,7.227,7.227,0.0,0.0,0.0
+2030-01-17 10:00:00,Ardnagappary wind,Ardnagappary,wind,7.751,7.751,0.0,0.0,0.0
+2030-01-17 11:00:00,Ardnagappary wind,Ardnagappary,wind,7.622,7.622,0.0,0.0,0.0
+2030-01-17 12:00:00,Ardnagappary wind,Ardnagappary,wind,7.114,7.114,0.0,0.0,0.0
+2030-01-17 13:00:00,Ardnagappary wind,Ardnagappary,wind,5.702,5.702,0.0,0.0,0.0
+2030-01-17 14:00:00,Ardnagappary wind,Ardnagappary,wind,4.563,4.563,0.0,0.0,0.0
+2030-01-17 15:00:00,Ardnagappary wind,Ardnagappary,wind,3.592,3.592,0.0,0.0,0.0
+2030-01-17 16:00:00,Ardnagappary wind,Ardnagappary,wind,2.87,2.87,0.0,0.0,0.0
+2030-01-17 17:00:00,Ardnagappary wind,Ardnagappary,wind,2.459,2.459,0.0,0.0,0.0
+2030-01-17 18:00:00,Ardnagappary wind,Ardnagappary,wind,2.359,2.359,0.0,0.0,0.0
+2030-01-17 19:00:00,Ardnagappary wind,Ardnagappary,wind,2.509,2.509,0.0,0.0,0.0
+2030-01-17 20:00:00,Ardnagappary wind,Ardnagappary,wind,2.969,2.969,0.0,0.0,0.0
+2030-01-17 21:00:00,Ardnagappary wind,Ardnagappary,wind,3.499,3.499,0.0,0.0,0.0
+2030-01-17 22:00:00,Ardnagappary wind,Ardnagappary,wind,4.434,4.434,0.0,0.0,0.0
+2030-01-17 23:00:00,Ardnagappary wind,Ardnagappary,wind,5.548,5.548,0.0,0.0,0.0
+2030-01-18 00:00:00,Ardnagappary wind,Ardnagappary,wind,6.471,6.471,0.0,0.0,0.0
+2030-01-18 01:00:00,Ardnagappary wind,Ardnagappary,wind,5.922,5.922,0.0,0.0,0.0
+2030-01-18 02:00:00,Ardnagappary wind,Ardnagappary,wind,5.764,5.764,0.0,0.0,0.0
+2030-01-18 03:00:00,Ardnagappary wind,Ardnagappary,wind,6.074,6.074,0.0,0.0,0.0
+2030-01-18 04:00:00,Ardnagappary wind,Ardnagappary,wind,7.0,7.0,0.0,0.0,0.0
+2030-01-18 05:00:00,Ardnagappary wind,Ardnagappary,wind,4.97,4.97,0.0,0.0,0.0
+2030-01-18 06:00:00,Ardnagappary wind,Ardnagappary,wind,6.501,6.501,0.0,0.0,0.0
+2030-01-18 07:00:00,Ardnagappary wind,Ardnagappary,wind,5.992,5.992,0.0,0.0,0.0
+2030-01-18 08:00:00,Ardnagappary wind,Ardnagappary,wind,3.059,3.059,0.0,0.0,0.0
+2030-01-18 09:00:00,Ardnagappary wind,Ardnagappary,wind,6.371,6.371,0.0,0.0,0.0
+2030-01-18 10:00:00,Ardnagappary wind,Ardnagappary,wind,5.951,5.951,0.0,0.0,0.0
+2030-01-18 11:00:00,Ardnagappary wind,Ardnagappary,wind,7.164,7.164,0.0,0.0,0.0
+2030-01-18 12:00:00,Ardnagappary wind,Ardnagappary,wind,14.252,14.252,0.0,0.0,0.0
+2030-01-18 13:00:00,Ardnagappary wind,Ardnagappary,wind,10.812,10.812,0.0,0.0,0.0
+2030-01-18 14:00:00,Ardnagappary wind,Ardnagappary,wind,14.645,14.645,0.0,0.0,0.0
+2030-01-18 15:00:00,Ardnagappary wind,Ardnagappary,wind,18.33,18.33,0.0,0.0,0.0
+2030-01-18 16:00:00,Ardnagappary wind,Ardnagappary,wind,19.32,19.32,0.0,0.0,0.0
+2030-01-18 17:00:00,Ardnagappary wind,Ardnagappary,wind,19.037,19.037,0.0,0.0,0.0
+2030-01-18 18:00:00,Ardnagappary wind,Ardnagappary,wind,13.369,13.369,0.0,0.0,0.0
+2030-01-18 19:00:00,Ardnagappary wind,Ardnagappary,wind,12.226,12.226,0.0,0.0,0.0
+2030-01-18 20:00:00,Ardnagappary wind,Ardnagappary,wind,16.341,16.341,0.0,0.0,0.0
+2030-01-18 21:00:00,Ardnagappary wind,Ardnagappary,wind,15.053,15.053,0.0,0.0,0.0
+2030-01-18 22:00:00,Ardnagappary wind,Ardnagappary,wind,14.683,14.683,0.0,0.0,0.0
+2030-01-18 23:00:00,Ardnagappary wind,Ardnagappary,wind,19.116,19.116,0.0,0.0,0.0
+2030-01-19 00:00:00,Ardnagappary wind,Ardnagappary,wind,20.234,20.234,0.0,0.0,0.0
+2030-01-19 01:00:00,Ardnagappary wind,Ardnagappary,wind,20.644,20.644,0.0,0.0,0.0
+2030-01-19 02:00:00,Ardnagappary wind,Ardnagappary,wind,20.615,20.615,0.0,0.0,0.0
+2030-01-19 03:00:00,Ardnagappary wind,Ardnagappary,wind,20.614,20.614,0.0,0.0,0.0
+2030-01-19 04:00:00,Ardnagappary wind,Ardnagappary,wind,20.641,20.641,0.0,0.0,0.0
+2030-01-19 05:00:00,Ardnagappary wind,Ardnagappary,wind,20.614,20.614,0.0,0.0,0.0
+2030-01-19 06:00:00,Ardnagappary wind,Ardnagappary,wind,20.597,20.597,0.0,0.0,0.0
+2030-01-19 07:00:00,Ardnagappary wind,Ardnagappary,wind,20.612,20.612,0.0,0.0,0.0
+2030-01-19 08:00:00,Ardnagappary wind,Ardnagappary,wind,20.518,20.518,0.0,0.0,0.0
+2030-01-19 09:00:00,Ardnagappary wind,Ardnagappary,wind,20.396,20.396,0.0,0.0,0.0
+2030-01-19 10:00:00,Ardnagappary wind,Ardnagappary,wind,18.992,18.992,0.0,0.0,0.0
+2030-01-19 11:00:00,Ardnagappary wind,Ardnagappary,wind,19.453,19.453,0.0,0.0,0.0
+2030-01-19 12:00:00,Ardnagappary wind,Ardnagappary,wind,19.7,19.7,0.0,0.0,0.0
+2030-01-19 13:00:00,Ardnagappary wind,Ardnagappary,wind,19.071,19.071,0.0,0.0,0.0
+2030-01-19 14:00:00,Ardnagappary wind,Ardnagappary,wind,17.874,17.874,0.0,0.0,0.0
+2030-01-19 15:00:00,Ardnagappary wind,Ardnagappary,wind,18.048,18.048,0.0,0.0,0.0
+2030-01-19 16:00:00,Ardnagappary wind,Ardnagappary,wind,20.611,20.611,0.0,0.0,0.0
+2030-01-19 17:00:00,Ardnagappary wind,Ardnagappary,wind,20.646,20.646,0.0,0.0,0.0
+2030-01-19 18:00:00,Ardnagappary wind,Ardnagappary,wind,20.635,20.635,0.0,0.0,0.0
+2030-01-19 19:00:00,Ardnagappary wind,Ardnagappary,wind,20.601,20.601,0.0,0.0,0.0
+2030-01-19 20:00:00,Ardnagappary wind,Ardnagappary,wind,20.521,20.521,0.0,0.0,0.0
+2030-01-19 21:00:00,Ardnagappary wind,Ardnagappary,wind,20.502,20.502,0.0,0.0,0.0
+2030-01-19 22:00:00,Ardnagappary wind,Ardnagappary,wind,20.646,20.646,0.0,0.0,0.0
+2030-01-19 23:00:00,Ardnagappary wind,Ardnagappary,wind,20.646,20.646,0.0,0.0,0.0
+2030-01-20 00:00:00,Ardnagappary wind,Ardnagappary,wind,20.646,20.646,0.0,0.0,0.0
+2030-01-20 01:00:00,Ardnagappary wind,Ardnagappary,wind,20.646,20.646,0.0,0.0,0.0
+2030-01-20 02:00:00,Ardnagappary wind,Ardnagappary,wind,20.628,20.628,0.0,0.0,0.0
+2030-01-20 03:00:00,Ardnagappary wind,Ardnagappary,wind,20.598,20.598,0.0,0.0,0.0
+2030-01-20 04:00:00,Ardnagappary wind,Ardnagappary,wind,19.83,19.83,0.0,0.0,0.0
+2030-01-20 05:00:00,Ardnagappary wind,Ardnagappary,wind,17.095,17.095,0.0,0.0,0.0
+2030-01-20 06:00:00,Ardnagappary wind,Ardnagappary,wind,14.404,14.404,0.0,0.0,0.0
+2030-01-20 07:00:00,Ardnagappary wind,Ardnagappary,wind,11.761,11.761,0.0,0.0,0.0
+2030-01-20 08:00:00,Ardnagappary wind,Ardnagappary,wind,16.579,16.579,0.0,0.0,0.0
+2030-01-20 09:00:00,Ardnagappary wind,Ardnagappary,wind,14.143,14.143,0.0,0.0,0.0
+2030-01-20 10:00:00,Ardnagappary wind,Ardnagappary,wind,15.739,15.739,0.0,0.0,0.0
+2030-01-20 11:00:00,Ardnagappary wind,Ardnagappary,wind,14.929,14.929,0.0,0.0,0.0
+2030-01-20 12:00:00,Ardnagappary wind,Ardnagappary,wind,19.045,19.045,0.0,0.0,0.0
+2030-01-20 13:00:00,Ardnagappary wind,Ardnagappary,wind,19.683,19.683,0.0,0.0,0.0
+2030-01-20 14:00:00,Ardnagappary wind,Ardnagappary,wind,15.659,15.659,0.0,0.0,0.0
+2030-01-20 15:00:00,Ardnagappary wind,Ardnagappary,wind,17.169,17.169,0.0,0.0,0.0
+2030-01-20 16:00:00,Ardnagappary wind,Ardnagappary,wind,12.568,12.568,0.0,0.0,0.0
+2030-01-20 17:00:00,Ardnagappary wind,Ardnagappary,wind,12.984,12.984,0.0,0.0,0.0
+2030-01-20 18:00:00,Ardnagappary wind,Ardnagappary,wind,13.081,13.081,0.0,0.0,0.0
+2030-01-20 19:00:00,Ardnagappary wind,Ardnagappary,wind,13.887,13.887,0.0,0.0,0.0
+2030-01-20 20:00:00,Ardnagappary wind,Ardnagappary,wind,13.942,13.942,0.0,0.0,0.0
+2030-01-20 21:00:00,Ardnagappary wind,Ardnagappary,wind,9.124,9.124,0.0,0.0,0.0
+2030-01-20 22:00:00,Ardnagappary wind,Ardnagappary,wind,7.182,7.182,0.0,0.0,0.0
+2030-01-20 23:00:00,Ardnagappary wind,Ardnagappary,wind,2.784,2.784,0.0,0.0,0.0
+2030-01-21 00:00:00,Ardnagappary wind,Ardnagappary,wind,1.919,1.919,0.0,0.0,0.0
+2030-01-21 01:00:00,Ardnagappary wind,Ardnagappary,wind,2.139,2.139,0.0,0.0,0.0
+2030-01-21 02:00:00,Ardnagappary wind,Ardnagappary,wind,3.249,3.249,0.0,0.0,0.0
+2030-01-21 03:00:00,Ardnagappary wind,Ardnagappary,wind,2.203,2.203,0.0,0.0,0.0
+2030-01-21 04:00:00,Ardnagappary wind,Ardnagappary,wind,3.125,3.125,0.0,0.0,0.0
+2030-01-21 05:00:00,Ardnagappary wind,Ardnagappary,wind,4.068,4.068,0.0,0.0,0.0
+2030-01-14 06:00:00,Croaghonagh wind,Croaghonagh,wind,60.607,60.607,0.0,0.0,0.0
+2030-01-14 07:00:00,Croaghonagh wind,Croaghonagh,wind,86.088,86.088,0.0,0.0,0.0
+2030-01-14 08:00:00,Croaghonagh wind,Croaghonagh,wind,95.186,95.186,0.0,0.0,0.0
+2030-01-14 09:00:00,Croaghonagh wind,Croaghonagh,wind,115.24,115.24,0.0,0.0,0.0
+2030-01-14 10:00:00,Croaghonagh wind,Croaghonagh,wind,109.396,109.396,0.0,0.0,0.0
+2030-01-14 11:00:00,Croaghonagh wind,Croaghonagh,wind,120.735,120.735,0.0,0.0,0.0
+2030-01-14 12:00:00,Croaghonagh wind,Croaghonagh,wind,70.104,70.104,0.0,0.0,0.0
+2030-01-14 13:00:00,Croaghonagh wind,Croaghonagh,wind,73.16,73.16,0.0,0.0,0.0
+2030-01-14 14:00:00,Croaghonagh wind,Croaghonagh,wind,52.687,52.687,0.0,0.0,0.0
+2030-01-14 15:00:00,Croaghonagh wind,Croaghonagh,wind,98.135,98.135,0.0,0.0,0.0
+2030-01-14 16:00:00,Croaghonagh wind,Croaghonagh,wind,78.489,78.489,0.0,0.0,0.0
+2030-01-14 17:00:00,Croaghonagh wind,Croaghonagh,wind,88.117,88.117,0.0,0.0,0.0
+2030-01-14 18:00:00,Croaghonagh wind,Croaghonagh,wind,61.411,61.411,0.0,0.0,0.0
+2030-01-14 19:00:00,Croaghonagh wind,Croaghonagh,wind,68.567,68.567,0.0,0.0,0.0
+2030-01-14 20:00:00,Croaghonagh wind,Croaghonagh,wind,45.29,45.29,0.0,0.0,0.0
+2030-01-14 21:00:00,Croaghonagh wind,Croaghonagh,wind,55.099,55.099,0.0,0.0,0.0
+2030-01-14 22:00:00,Croaghonagh wind,Croaghonagh,wind,50.416,50.416,0.0,0.0,0.0
+2030-01-14 23:00:00,Croaghonagh wind,Croaghonagh,wind,83.408,83.408,0.0,0.0,0.0
+2030-01-15 00:00:00,Croaghonagh wind,Croaghonagh,wind,106.973,106.973,0.0,0.0,0.0
+2030-01-15 01:00:00,Croaghonagh wind,Croaghonagh,wind,113.45,113.45,0.0,0.0,0.0
+2030-01-15 02:00:00,Croaghonagh wind,Croaghonagh,wind,110.022,110.022,0.0,0.0,0.0
+2030-01-15 03:00:00,Croaghonagh wind,Croaghonagh,wind,121.434,121.434,0.0,0.0,0.0
+2030-01-15 04:00:00,Croaghonagh wind,Croaghonagh,wind,122.202,122.202,0.0,0.0,0.0
+2030-01-15 05:00:00,Croaghonagh wind,Croaghonagh,wind,120.317,120.317,0.0,0.0,0.0
+2030-01-15 06:00:00,Croaghonagh wind,Croaghonagh,wind,99.391,99.391,0.0,0.0,0.0
+2030-01-15 07:00:00,Croaghonagh wind,Croaghonagh,wind,83.295,83.295,0.0,0.0,0.0
+2030-01-15 08:00:00,Croaghonagh wind,Croaghonagh,wind,96.713,96.713,0.0,0.0,0.0
+2030-01-15 09:00:00,Croaghonagh wind,Croaghonagh,wind,104.129,104.129,0.0,0.0,0.0
+2030-01-15 10:00:00,Croaghonagh wind,Croaghonagh,wind,78.307,78.307,0.0,0.0,0.0
+2030-01-15 11:00:00,Croaghonagh wind,Croaghonagh,wind,83.41,83.41,0.0,0.0,0.0
+2030-01-15 12:00:00,Croaghonagh wind,Croaghonagh,wind,69.004,69.004,0.0,0.0,0.0
+2030-01-15 13:00:00,Croaghonagh wind,Croaghonagh,wind,55.325,55.325,0.0,0.0,0.0
+2030-01-15 14:00:00,Croaghonagh wind,Croaghonagh,wind,32.29,32.29,0.0,0.0,0.0
+2030-01-15 15:00:00,Croaghonagh wind,Croaghonagh,wind,28.554,28.554,0.0,0.0,0.0
+2030-01-15 16:00:00,Croaghonagh wind,Croaghonagh,wind,20.279,20.279,0.0,0.0,0.0
+2030-01-15 17:00:00,Croaghonagh wind,Croaghonagh,wind,14.541,14.541,0.0,0.0,0.0
+2030-01-15 18:00:00,Croaghonagh wind,Croaghonagh,wind,21.779,21.779,0.0,0.0,0.0
+2030-01-15 19:00:00,Croaghonagh wind,Croaghonagh,wind,19.519,19.519,0.0,0.0,0.0
+2030-01-15 20:00:00,Croaghonagh wind,Croaghonagh,wind,21.173,21.173,0.0,0.0,0.0
+2030-01-15 21:00:00,Croaghonagh wind,Croaghonagh,wind,13.199,13.199,0.0,0.0,0.0
+2030-01-15 22:00:00,Croaghonagh wind,Croaghonagh,wind,7.08,7.08,0.0,0.0,0.0
+2030-01-15 23:00:00,Croaghonagh wind,Croaghonagh,wind,5.227,5.227,0.0,0.0,0.0
+2030-01-16 00:00:00,Croaghonagh wind,Croaghonagh,wind,14.704,14.704,0.0,0.0,0.0
+2030-01-16 01:00:00,Croaghonagh wind,Croaghonagh,wind,13.776,13.776,0.0,0.0,0.0
+2030-01-16 02:00:00,Croaghonagh wind,Croaghonagh,wind,2.96,2.96,0.0,0.0,0.0
+2030-01-16 03:00:00,Croaghonagh wind,Croaghonagh,wind,9.859,9.859,0.0,0.0,0.0
+2030-01-16 04:00:00,Croaghonagh wind,Croaghonagh,wind,21.954,21.954,0.0,0.0,0.0
+2030-01-16 05:00:00,Croaghonagh wind,Croaghonagh,wind,14.109,14.109,0.0,0.0,0.0
+2030-01-16 06:00:00,Croaghonagh wind,Croaghonagh,wind,14.207,14.207,0.0,0.0,0.0
+2030-01-16 07:00:00,Croaghonagh wind,Croaghonagh,wind,17.008,17.008,0.0,0.0,0.0
+2030-01-16 08:00:00,Croaghonagh wind,Croaghonagh,wind,27.993,27.993,0.0,0.0,0.0
+2030-01-16 09:00:00,Croaghonagh wind,Croaghonagh,wind,21.379,21.379,0.0,0.0,0.0
+2030-01-16 10:00:00,Croaghonagh wind,Croaghonagh,wind,24.733,24.733,0.0,0.0,0.0
+2030-01-16 11:00:00,Croaghonagh wind,Croaghonagh,wind,17.587,17.587,0.0,0.0,0.0
+2030-01-16 12:00:00,Croaghonagh wind,Croaghonagh,wind,18.912,18.912,0.0,0.0,0.0
+2030-01-16 13:00:00,Croaghonagh wind,Croaghonagh,wind,22.706,22.706,0.0,0.0,0.0
+2030-01-16 14:00:00,Croaghonagh wind,Croaghonagh,wind,26.128,26.128,0.0,0.0,0.0
+2030-01-16 15:00:00,Croaghonagh wind,Croaghonagh,wind,28.359,28.359,0.0,0.0,0.0
+2030-01-16 16:00:00,Croaghonagh wind,Croaghonagh,wind,32.769,32.769,0.0,0.0,0.0
+2030-01-16 17:00:00,Croaghonagh wind,Croaghonagh,wind,67.086,67.086,0.0,0.0,0.0
+2030-01-16 18:00:00,Croaghonagh wind,Croaghonagh,wind,40.966,40.966,0.0,0.0,0.0
+2030-01-16 19:00:00,Croaghonagh wind,Croaghonagh,wind,41.7,41.7,0.0,0.0,0.0
+2030-01-16 20:00:00,Croaghonagh wind,Croaghonagh,wind,29.791,29.791,0.0,0.0,0.0
+2030-01-16 21:00:00,Croaghonagh wind,Croaghonagh,wind,26.309,26.309,0.0,0.0,0.0
+2030-01-16 22:00:00,Croaghonagh wind,Croaghonagh,wind,25.537,25.537,0.0,0.0,0.0
+2030-01-16 23:00:00,Croaghonagh wind,Croaghonagh,wind,22.336,22.336,0.0,0.0,0.0
+2030-01-17 00:00:00,Croaghonagh wind,Croaghonagh,wind,41.411,41.411,0.0,0.0,0.0
+2030-01-17 01:00:00,Croaghonagh wind,Croaghonagh,wind,47.889,47.889,0.0,0.0,0.0
+2030-01-17 02:00:00,Croaghonagh wind,Croaghonagh,wind,56.805,56.805,0.0,0.0,0.0
+2030-01-17 03:00:00,Croaghonagh wind,Croaghonagh,wind,55.335,55.335,0.0,0.0,0.0
+2030-01-17 04:00:00,Croaghonagh wind,Croaghonagh,wind,45.624,45.624,0.0,0.0,0.0
+2030-01-17 05:00:00,Croaghonagh wind,Croaghonagh,wind,40.531,40.531,0.0,0.0,0.0
+2030-01-17 06:00:00,Croaghonagh wind,Croaghonagh,wind,46.341,46.341,0.0,0.0,0.0
+2030-01-17 07:00:00,Croaghonagh wind,Croaghonagh,wind,32.662,32.662,0.0,0.0,0.0
+2030-01-17 08:00:00,Croaghonagh wind,Croaghonagh,wind,37.103,37.103,0.0,0.0,0.0
+2030-01-17 09:00:00,Croaghonagh wind,Croaghonagh,wind,23.079,23.079,0.0,0.0,0.0
+2030-01-17 10:00:00,Croaghonagh wind,Croaghonagh,wind,20.466,20.466,0.0,0.0,0.0
+2030-01-17 11:00:00,Croaghonagh wind,Croaghonagh,wind,16.494,16.494,0.0,0.0,0.0
+2030-01-17 12:00:00,Croaghonagh wind,Croaghonagh,wind,29.203,29.203,0.0,0.0,0.0
+2030-01-17 13:00:00,Croaghonagh wind,Croaghonagh,wind,26.125,26.125,0.0,0.0,0.0
+2030-01-17 14:00:00,Croaghonagh wind,Croaghonagh,wind,20.65,20.65,0.0,0.0,0.0
+2030-01-17 15:00:00,Croaghonagh wind,Croaghonagh,wind,19.642,19.642,0.0,0.0,0.0
+2030-01-17 16:00:00,Croaghonagh wind,Croaghonagh,wind,17.111,17.111,0.0,0.0,0.0
+2030-01-17 17:00:00,Croaghonagh wind,Croaghonagh,wind,14.4,14.4,0.0,0.0,0.0
+2030-01-17 18:00:00,Croaghonagh wind,Croaghonagh,wind,12.322,12.322,0.0,0.0,0.0
+2030-01-17 19:00:00,Croaghonagh wind,Croaghonagh,wind,13.255,13.255,0.0,0.0,0.0
+2030-01-17 20:00:00,Croaghonagh wind,Croaghonagh,wind,11.953,11.953,0.0,0.0,0.0
+2030-01-17 21:00:00,Croaghonagh wind,Croaghonagh,wind,11.194,11.194,0.0,0.0,0.0
+2030-01-17 22:00:00,Croaghonagh wind,Croaghonagh,wind,15.011,15.011,0.0,0.0,0.0
+2030-01-17 23:00:00,Croaghonagh wind,Croaghonagh,wind,16.132,16.132,0.0,0.0,0.0
+2030-01-18 00:00:00,Croaghonagh wind,Croaghonagh,wind,21.421,21.421,0.0,0.0,0.0
+2030-01-18 01:00:00,Croaghonagh wind,Croaghonagh,wind,19.023,19.023,0.0,0.0,0.0
+2030-01-18 02:00:00,Croaghonagh wind,Croaghonagh,wind,20.011,20.011,0.0,0.0,0.0
+2030-01-18 03:00:00,Croaghonagh wind,Croaghonagh,wind,17.09,17.09,0.0,0.0,0.0
+2030-01-18 04:00:00,Croaghonagh wind,Croaghonagh,wind,17.545,17.545,0.0,0.0,0.0
+2030-01-18 05:00:00,Croaghonagh wind,Croaghonagh,wind,8.542,8.542,0.0,0.0,0.0
+2030-01-18 06:00:00,Croaghonagh wind,Croaghonagh,wind,14.646,14.646,0.0,0.0,0.0
+2030-01-18 07:00:00,Croaghonagh wind,Croaghonagh,wind,12.435,12.435,0.0,0.0,0.0
+2030-01-18 08:00:00,Croaghonagh wind,Croaghonagh,wind,5.474,5.474,0.0,0.0,0.0
+2030-01-18 09:00:00,Croaghonagh wind,Croaghonagh,wind,9.766,9.766,0.0,0.0,0.0
+2030-01-18 10:00:00,Croaghonagh wind,Croaghonagh,wind,10.392,10.392,0.0,0.0,0.0
+2030-01-18 11:00:00,Croaghonagh wind,Croaghonagh,wind,11.892,11.892,0.0,0.0,0.0
+2030-01-18 12:00:00,Croaghonagh wind,Croaghonagh,wind,25.744,25.744,0.0,0.0,0.0
+2030-01-18 13:00:00,Croaghonagh wind,Croaghonagh,wind,18.582,18.582,0.0,0.0,0.0
+2030-01-18 14:00:00,Croaghonagh wind,Croaghonagh,wind,29.117,29.117,0.0,0.0,0.0
+2030-01-18 15:00:00,Croaghonagh wind,Croaghonagh,wind,41.736,41.736,0.0,0.0,0.0
+2030-01-18 16:00:00,Croaghonagh wind,Croaghonagh,wind,59.93,59.93,0.0,0.0,0.0
+2030-01-18 17:00:00,Croaghonagh wind,Croaghonagh,wind,45.374,45.374,0.0,0.0,0.0
+2030-01-18 18:00:00,Croaghonagh wind,Croaghonagh,wind,28.556,28.556,0.0,0.0,0.0
+2030-01-18 19:00:00,Croaghonagh wind,Croaghonagh,wind,27.202,27.202,0.0,0.0,0.0
+2030-01-18 20:00:00,Croaghonagh wind,Croaghonagh,wind,34.061,34.061,0.0,0.0,0.0
+2030-01-18 21:00:00,Croaghonagh wind,Croaghonagh,wind,36.427,36.427,0.0,0.0,0.0
+2030-01-18 22:00:00,Croaghonagh wind,Croaghonagh,wind,40.237,40.237,0.0,0.0,0.0
+2030-01-18 23:00:00,Croaghonagh wind,Croaghonagh,wind,83.129,83.129,0.0,0.0,0.0
+2030-01-19 00:00:00,Croaghonagh wind,Croaghonagh,wind,100.951,100.951,0.0,0.0,0.0
+2030-01-19 01:00:00,Croaghonagh wind,Croaghonagh,wind,123.518,123.518,0.0,0.0,0.0
+2030-01-19 02:00:00,Croaghonagh wind,Croaghonagh,wind,119.109,119.109,0.0,0.0,0.0
+2030-01-19 03:00:00,Croaghonagh wind,Croaghonagh,wind,121.689,121.689,0.0,0.0,0.0
+2030-01-19 04:00:00,Croaghonagh wind,Croaghonagh,wind,120.854,120.854,0.0,0.0,0.0
+2030-01-19 05:00:00,Croaghonagh wind,Croaghonagh,wind,117.233,117.233,0.0,0.0,0.0
+2030-01-19 06:00:00,Croaghonagh wind,Croaghonagh,wind,107.364,107.364,0.0,0.0,0.0
+2030-01-19 07:00:00,Croaghonagh wind,Croaghonagh,wind,102.306,102.306,0.0,0.0,0.0
+2030-01-19 08:00:00,Croaghonagh wind,Croaghonagh,wind,76.95,76.95,0.0,0.0,0.0
+2030-01-19 09:00:00,Croaghonagh wind,Croaghonagh,wind,72.815,72.815,0.0,0.0,0.0
+2030-01-19 10:00:00,Croaghonagh wind,Croaghonagh,wind,48.904,48.904,0.0,0.0,0.0
+2030-01-19 11:00:00,Croaghonagh wind,Croaghonagh,wind,44.237,44.237,0.0,0.0,0.0
+2030-01-19 12:00:00,Croaghonagh wind,Croaghonagh,wind,53.412,53.412,0.0,0.0,0.0
+2030-01-19 13:00:00,Croaghonagh wind,Croaghonagh,wind,37.852,37.852,0.0,0.0,0.0
+2030-01-19 14:00:00,Croaghonagh wind,Croaghonagh,wind,23.407,23.407,0.0,0.0,0.0
+2030-01-19 15:00:00,Croaghonagh wind,Croaghonagh,wind,26.545,26.545,0.0,0.0,0.0
+2030-01-19 16:00:00,Croaghonagh wind,Croaghonagh,wind,68.93,68.93,0.0,0.0,0.0
+2030-01-19 17:00:00,Croaghonagh wind,Croaghonagh,wind,92.389,92.389,0.0,0.0,0.0
+2030-01-19 18:00:00,Croaghonagh wind,Croaghonagh,wind,70.393,70.393,0.0,0.0,0.0
+2030-01-19 19:00:00,Croaghonagh wind,Croaghonagh,wind,65.781,65.781,0.0,0.0,0.0
+2030-01-19 20:00:00,Croaghonagh wind,Croaghonagh,wind,72.7,72.7,0.0,0.0,0.0
+2030-01-19 21:00:00,Croaghonagh wind,Croaghonagh,wind,70.313,70.313,0.0,0.0,0.0
+2030-01-19 22:00:00,Croaghonagh wind,Croaghonagh,wind,111.476,111.476,0.0,0.0,0.0
+2030-01-19 23:00:00,Croaghonagh wind,Croaghonagh,wind,123.579,123.579,0.0,0.0,0.0
+2030-01-20 00:00:00,Croaghonagh wind,Croaghonagh,wind,124.897,124.897,0.0,0.0,0.0
+2030-01-20 01:00:00,Croaghonagh wind,Croaghonagh,wind,123.933,123.933,0.0,0.0,0.0
+2030-01-20 02:00:00,Croaghonagh wind,Croaghonagh,wind,113.795,90.388,23.406,0.0,23.406
+2030-01-20 03:00:00,Croaghonagh wind,Croaghonagh,wind,89.102,89.102,0.0,0.0,0.0
+2030-01-20 04:00:00,Croaghonagh wind,Croaghonagh,wind,65.168,65.168,0.0,0.0,0.0
+2030-01-20 05:00:00,Croaghonagh wind,Croaghonagh,wind,36.828,36.828,0.0,0.0,0.0
+2030-01-20 06:00:00,Croaghonagh wind,Croaghonagh,wind,35.994,35.994,0.0,0.0,0.0
+2030-01-20 07:00:00,Croaghonagh wind,Croaghonagh,wind,31.952,31.952,0.0,0.0,0.0
+2030-01-20 08:00:00,Croaghonagh wind,Croaghonagh,wind,56.317,56.317,0.0,0.0,0.0
+2030-01-20 09:00:00,Croaghonagh wind,Croaghonagh,wind,46.673,46.673,0.0,0.0,0.0
+2030-01-20 10:00:00,Croaghonagh wind,Croaghonagh,wind,59.21,59.21,0.0,0.0,0.0
+2030-01-20 11:00:00,Croaghonagh wind,Croaghonagh,wind,51.887,51.887,0.0,0.0,0.0
+2030-01-20 12:00:00,Croaghonagh wind,Croaghonagh,wind,62.161,62.161,0.0,0.0,0.0
+2030-01-20 13:00:00,Croaghonagh wind,Croaghonagh,wind,77.896,77.896,0.0,0.0,0.0
+2030-01-20 14:00:00,Croaghonagh wind,Croaghonagh,wind,53.176,53.176,0.0,0.0,0.0
+2030-01-20 15:00:00,Croaghonagh wind,Croaghonagh,wind,85.768,85.768,0.0,0.0,0.0
+2030-01-20 16:00:00,Croaghonagh wind,Croaghonagh,wind,60.544,60.544,0.0,0.0,0.0
+2030-01-20 17:00:00,Croaghonagh wind,Croaghonagh,wind,86.057,86.057,0.0,0.0,0.0
+2030-01-20 18:00:00,Croaghonagh wind,Croaghonagh,wind,75.415,75.415,0.0,0.0,0.0
+2030-01-20 19:00:00,Croaghonagh wind,Croaghonagh,wind,75.924,75.924,0.0,0.0,0.0
+2030-01-20 20:00:00,Croaghonagh wind,Croaghonagh,wind,79.727,79.727,0.0,0.0,0.0
+2030-01-20 21:00:00,Croaghonagh wind,Croaghonagh,wind,49.249,49.249,0.0,0.0,0.0
+2030-01-20 22:00:00,Croaghonagh wind,Croaghonagh,wind,33.776,33.776,0.0,0.0,0.0
+2030-01-20 23:00:00,Croaghonagh wind,Croaghonagh,wind,11.514,11.514,0.0,0.0,0.0
+2030-01-21 00:00:00,Croaghonagh wind,Croaghonagh,wind,11.57,11.57,0.0,0.0,0.0
+2030-01-21 01:00:00,Croaghonagh wind,Croaghonagh,wind,11.703,11.703,0.0,0.0,0.0
+2030-01-21 02:00:00,Croaghonagh wind,Croaghonagh,wind,19.553,19.553,0.0,0.0,0.0
+2030-01-21 03:00:00,Croaghonagh wind,Croaghonagh,wind,13.932,13.932,0.0,0.0,0.0
+2030-01-21 04:00:00,Croaghonagh wind,Croaghonagh,wind,19.633,19.633,0.0,0.0,0.0
+2030-01-21 05:00:00,Croaghonagh wind,Croaghonagh,wind,26.677,26.677,0.0,0.0,0.0
