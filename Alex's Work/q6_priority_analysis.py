@@ -150,6 +150,57 @@ try:
     mismatch_table.to_csv("q6_mismatch_table.csv")
     print("\nSaved to q6_mismatch_table.csv")
 
+    # -----------------------------------------------------------------------
+    # STEP 7: The headline number
+    # -----------------------------------------------------------------------
+    # We want ONE figure to say out loud to judges, not just "look at the
+    # table." Logic: for every non-priority farm that got curtailed, check
+    # whether there's a priority farm with an EQUAL-OR-HIGHER shift factor
+    # (i.e. equally or more responsible for the congestion) that was
+    # curtailed LESS. If so, that non-priority farm's curtailment counts
+    # as "unfair" — it took a hit that could instead have come from a farm
+    # that was contributing at least as much to the same constraint, but
+    # was protected by its priority label instead.
+    #
+    # We use the ABSOLUTE VALUE of shift factor to compare "how much this
+    # farm contributes to the constraint", since the sign only indicates
+    # direction of flow, not magnitude of contribution.
+    mismatch_table["abs_shift_factor"] = mismatch_table[
+        "shift_factor_on_binding_line"
+    ].abs()
+
+    priority_rows = mismatch_table[mismatch_table["status"] == "priority"]
+    non_priority_rows = mismatch_table[mismatch_table["status"] == "non-priority"]
+
+    unfair_mwh_total = 0.0
+    unfair_farms = []
+
+    for name, row in non_priority_rows.iterrows():
+        curtailed = row["priority_scenario_curtailed_MWh"]
+        shift = row["abs_shift_factor"]
+
+        if curtailed <= 0:
+            continue  # nothing curtailed here, nothing to count as unfair
+
+        # any priority farm that is equally-or-more responsible for the
+        # congestion (equal-or-higher shift factor) but was curtailed less?
+        protected_despite_culpability = priority_rows[
+            (priority_rows["abs_shift_factor"] >= shift)
+            & (priority_rows["priority_scenario_curtailed_MWh"] < curtailed)
+        ]
+
+        if len(protected_despite_culpability) > 0:
+            unfair_mwh_total += curtailed
+            unfair_farms.append(name)
+
+    print("\n=== HEADLINE FINDING ===")
+    print(
+        f"{unfair_mwh_total:.1f} MWh of curtailment landed on non-priority "
+        f"farms that could instead have come from an equally-or-more "
+        f"culpable priority farm."
+    )
+    print(f"Farms affected: {unfair_farms}")
+
 except FileNotFoundError:
     print(
         "\nshift_factors_1.csv not found in this folder — make sure it's "
