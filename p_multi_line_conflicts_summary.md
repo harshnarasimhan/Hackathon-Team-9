@@ -95,18 +95,33 @@ worsening both together rather than just one.
 
 ## Files
 
-- **`p_multi_line_conflicts_interactive.html`** — the interactive version:
-  click any of the 6 monitored lines and see a live diverging bar chart of
-  which farms worsen it (red — curtailing them relieves the line) vs.
-  relieve it (blue — curtailing them would make it worse), with a
-  materiality toggle, a name filter, hover detail on every bar, and a
-  sortable trade-off table with an expandable per-farm, per-line profile.
-  Self-contained plain HTML/CSS/JS (embeds the full 218-node x 6-line
-  dataset inline) — opens in any browser, no server needed, works
-  straight from the repo or a GitHub Pages link. Also published for live
+- **`p_multi_line_conflicts_map.html`** — the map version: an island-of-
+  Ireland map (React, all-island outline built from Natural Earth
+  boundaries since the six monitored lines span both ROI and NI) where
+  clicking any of the 6 monitored lines colors every wind/solar node by
+  effect — red circle = worsens the line (curtailing it relieves the
+  line), blue diamond = relieves it (curtailing it would make the line
+  worse), small grey dot = below the materiality threshold for that line.
+  Shape doubles the color coding so it isn't color-only. Marker size
+  scales with effect strength; hovering or clicking a node opens a detail
+  panel with its effect on all six lines at once (the trade-off view).
+  166 of 218 candidate nodes have geocoded coordinates and are plotted;
+  the other 52 are listed in an on-page panel, flagged when they're
+  material to the selected line, rather than silently dropped. Two of the
+  six lines (`1122-11260-1` at GLENART, `3691-4041-1` at LAGHTANVACK) have
+  one ungeocoded endpoint — the map shows the known endpoint plus a "?"
+  stub marker rather than failing to draw the line. Self-contained
+  HTML, loads React/ReactDOM from cdnjs, no build step — opens in any
+  browser or a GitHub Pages link. Published for live
   browsing/sharing at
   https://claude.ai/code/artifact/ea8a1a9d-2446-41cb-8a37-24d83bc949fe
-  (same file, same data — republish that page if this file changes).
+  (republish that page if this file changes).
+- `p_multi_line_conflicts_interactive.html` — the earlier bar-chart
+  version of the same interaction (click a line, see a diverging bar
+  chart of who worsens/relieves it, plus the sortable trade-off table)
+  — kept in the repo since it's a faster way to compare exact shift-factor
+  magnitudes across many farms than the map is. Same underlying data as
+  the map version.
 - `multi_line_conflicts.csv` — all 218 nodes: `node_id, node_name,
   material_line_count, lines_worsened, lines_relieved, tradeoff_flag,
   weighted_influence_score, classification`.
