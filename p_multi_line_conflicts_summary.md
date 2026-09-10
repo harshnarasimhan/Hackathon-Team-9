@@ -95,14 +95,26 @@ worsening both together rather than just one.
 
 ## Files
 
+- **`p_multi_line_conflicts_interactive.html`** — the interactive version:
+  click any of the 6 monitored lines and see a live diverging bar chart of
+  which farms worsen it (red — curtailing them relieves the line) vs.
+  relieve it (blue — curtailing them would make it worse), with a
+  materiality toggle, a name filter, hover detail on every bar, and a
+  sortable trade-off table with an expandable per-farm, per-line profile.
+  Self-contained plain HTML/CSS/JS (embeds the full 218-node x 6-line
+  dataset inline) — opens in any browser, no server needed, works
+  straight from the repo or a GitHub Pages link. Also published for live
+  browsing/sharing at
+  https://claude.ai/code/artifact/ea8a1a9d-2446-41cb-8a37-24d83bc949fe
+  (same file, same data — republish that page if this file changes).
 - `multi_line_conflicts.csv` — all 218 nodes: `node_id, node_name,
   material_line_count, lines_worsened, lines_relieved, tradeoff_flag,
   weighted_influence_score, classification`.
-- `p_multi_line_conflicts_heatmap_WP2033_all-island.png` — signed
-  shift-factor heatmap, top 40 nodes by weighted influence score x the 6
-  monitored lines, diverging red/blue (red = worsens, blue = relieves,
-  relative to each line's own binding direction — labeled in the column
-  headers and colorbar).
+- `p_multi_line_conflicts_heatmap_WP2033_all-island.png` — the static
+  version of the same signed shift-factor data, top 40 nodes x the 6
+  monitored lines, diverging red/blue — kept for the deck/slides, where a
+  static image is more practical than a live page. Use the interactive
+  page above for exploring the data or for Q&A.
 - `p_multi_line_conflicts_top20_WP2033_all-island.png` — ranked bar chart,
   top 20 nodes by weighted influence score, colored by classification.
 
