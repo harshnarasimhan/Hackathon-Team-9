@@ -1,0 +1,5 @@
+,static (as shipped),representative seasonal DLR
+rating_mva,210.0,213.0
+hours_at_rating,52.0,50.0
+max_loading,1.0,1.0
+dispatch_down_mwh,3660.6,3579.4

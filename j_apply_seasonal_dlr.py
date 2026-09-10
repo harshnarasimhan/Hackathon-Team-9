@@ -1,6 +1,7 @@
-"""(j.2) Apply a representative seasonal DLR (from real Met Eireann weather) to
-one line, and compare against the static rating - CASE 1 (static) vs
-CASE 2 (representative seasonal DLR), same generation scenario both times.
+"""(j.2) Apply a representative seasonal DLR (from real 2024 Met Eireann
+weather + 2024 PVGIS solar) to one line, and compare against the static
+rating - CASE 1 (static) vs CASE 2 (representative seasonal DLR), same
+generation scenario both times.
 
     python examples/j_apply_seasonal_dlr.py [SCOPE] [LINE] [SEASON] [PERCENTILE] [SCENARIO]
     python examples/j_apply_seasonal_dlr.py north-west 5041-17010-2 winter 10
@@ -14,7 +15,12 @@ have applied a *summer* weather-derived rating to the *winter-peak* network -
 wrong pairing. SEASON_SCENARIO below fixes that: season='winter' loads
 WP2033, season='summer' loads SV2033, automatically, unless you pass a
 SCENARIO explicitly to override it (e.g. to deliberately test a mismatched
-pairing).
+pairing). season='spring' or 'autumn' is valid for
+j_seasonal_weather_rating.py on its own (it has real 2024 weather for all
+four seasons), but this kit ships no spring/autumn network scenario to pair
+it with - main() below raises a clear error for those unless an explicit
+SCENARIO is passed, rather than silently defaulting to WP2033 the way an
+earlier version of this script did for any unrecognised season.
 
 WIND GENERATION != WIND WEATHER - read this before changing anything below.
 The network's generation scenario is untouched by this script. gridkit.load()
@@ -26,19 +32,25 @@ g_thermal_rating_sensitivity.py already uses for its 1.1x/1.2x/1.3x sweep,
 and the same mechanism Q3's own brief (Chibuikeim's Dynamic Line Rating
 task) describes. The one difference: instead of a round arbitrary factor
 (+10%/+20%/+30%), the factor here comes from j_seasonal_weather_rating.py's
-representative-seasonal-weather calculation on real Met Eireann data - a
-direct, better-grounded answer to the exact limitation Q3's own brief tells
-you to flag ("you're really testing what if the rating were permanently
-higher as a proxy, not literally simulating live weather-based uplift" -
-true of a bare +10/20/30% sweep, not true of a representative-seasonal-
-weather-derived factor, though it's still a single constant per season
-rather than an hour-by-hour series - see this module's next paragraph).
+representative-seasonal-weather calculation on real 2024 Met Eireann wind/
+temperature AND real 2024 PVGIS solar radiation, computed hourly and
+collapsed to one seasonal percentile - a direct, better-grounded answer to
+the exact limitation Q3's own brief tells you to flag ("you're really
+testing what if the rating were permanently higher as a proxy, not
+literally simulating live weather-based uplift" - true of a bare
++10/20/30% sweep, not true of a representative-seasonal-weather-derived
+factor, though it's still a single constant per season rather than an
+hour-by-hour series - see this module's next paragraph).
 
 This applies ONE constant multiplier across the whole scenario - a
 representative seasonal rating, not a genuinely time-varying hourly DLR
 series (see j_seasonal_weather_rating.py's module docstring for why: the
 network's snapshots are a modelled week, not 168 real consecutive hours, so
-there is no honest way to vary the rating hour-by-hour against them).
+there is no honest way to vary the rating hour-by-hour against them). Do
+NOT describe the result of this script as real-time DLR, and do not
+describe the "dispatch-down avoided" figure below as EirGrid/SEM
+curtailment avoided - see both caveats spelled out again, loudly, just
+below.
 
 Mechanics mirror g_thermal_rating_sensitivity.py exactly: solve -> freeze_
 dispatch -> lpf, on a FRESH network copy per case (not stacking the DLR
@@ -54,7 +66,9 @@ network topology fixes it - WP2033 alone carries 42.6 GW of plant against an
 8.8 GW peak, so a lot of any dispatch-down total is this). It is explicitly
 *not* curtailment in the SEM/EirGrid sense - no SNSP constraint, no inertia
 constraint, no unit commitment in this model - so don't present the MWh
-figure below against a published EirGrid curtailment number. This script
+figure below against a published EirGrid curtailment number, and don't call
+the before/after MWh difference "curtailment avoided". Call it what it is:
+a reduction in this model's modelled wind dispatch-down. This script
 reports the simple before/after total (matching what Q3's brief asks for:
 "MWh actually saved... at each rating level") - it does NOT isolate the
 constraint-based component the way examples/b_lopf_dispatch.py's
@@ -62,6 +76,21 @@ _congestion_share() does (lift every rating, re-solve, take the
 difference). The before/after total here is still a fair, honest answer to
 "did widening this one line help, network-wide" - just don't call it
 curtailment avoided, call it dispatch-down avoided, and cite this caveat.
+
+WHAT THE RATING MULTIPLIER DOES AND DOESN'T REPRESENT - see
+j_seasonal_weather_rating.py's own module docstring for the full detail,
+repeated here because it's the single easiest thing to overstate when
+presenting this script's output: the multiplier is a weather-informed,
+physically-based seasonal thermal-rating ESTIMATE from real 2024 Met
+Eireann weather and real 2024 PVGIS solar radiation, applied as one
+constant relative multiplier to this line's existing static rating. It is
+not a claim that this exact multiplier reproduces EirGrid's own DLR
+algorithm, not a claim that Finner Camp represents every point on the line
+perfectly (see LINE_AZIMUTH_FOR_LINE's comment in
+j_seasonal_weather_rating.py for the actual distances), and not a claim
+that the 2033 generation scenario this script solves corresponds to 2024
+weather - the weather changes only this ONE line's thermal capacity; the
+generation scenario is untouched, exactly as stated above.
 
 OUTPUT SCHEMA MATCHES g_thermal_sensitivity_WP2033_north-west.csv on purpose
 (line, rating_factor, s_nom_mva, max_loading, hours_at_rating) plus
@@ -76,15 +105,45 @@ import sys
 
 import pandas as pd
 
-sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+
+def _find_participant_kit_dir():
+    """Locate the directory containing gridkit.py. This project's own run
+    command (see this module's docstring) assumes this script lives at
+    participant-kit/examples/j_apply_seasonal_dlr.py, one level below
+    gridkit.py's own directory - but as committed on this branch, the j_*
+    scripts currently sit flattened at the repository root instead (a
+    GitHub web-upload artifact, not a deliberate layout change - see
+    j_seasonal_weather_rating.py's ROOT comment for the same issue on the
+    weather-only side). Rather than hard-code either path and silently
+    break in the other layout, try both real candidate locations."""
+    here = os.path.dirname(os.path.abspath(__file__))
+    candidates = [
+        os.path.dirname(here),                                 # examples/ -> participant-kit
+        os.path.join(here, "grid_TF_Wind", "participant-kit"),  # repo root -> participant-kit
+    ]
+    for c in candidates:
+        if os.path.isfile(os.path.join(c, "gridkit.py")):
+            return c
+    raise SystemExit(
+        "could not find gridkit.py - expected it either one directory "
+        "above this script (participant-kit/examples/ layout) or at "
+        "<this file's directory>/grid_TF_Wind/participant-kit/gridkit.py. "
+        "Fix _find_participant_kit_dir() at the top of this file if your "
+        "project layout differs from both.")
+
+
+sys.path.insert(0, _find_participant_kit_dir())
 import gridkit
 import j_seasonal_weather_rating as weather
 
-ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+ROOT = os.path.dirname(os.path.abspath(__file__))
 
-#: Which network scenario each season pairs with by default. WP = winter
-#: peak, SV = summer valley (gridkit.SCENARIOS: WP2024, SV2024, WP2033,
-#: SV2033) - see this module's docstring for why this mapping exists.
+#: Which network scenario each season pairs with. WP = winter peak, SV =
+#: summer valley (gridkit.SCENARIOS: WP2024, SV2024, WP2033, SV2033) - see
+#: this module's docstring for why this mapping exists. Only winter/summer
+#: have a matching network scenario in this kit; spring/autumn (valid for
+#: j_seasonal_weather_rating.py on its own) have no scenario to pair with,
+#: so main() requires an explicit SCENARIO for those instead of guessing.
 SEASON_SCENARIO = {
     "winter": "WP2033",
     "summer": "SV2033",
@@ -129,7 +188,17 @@ def run_case(scenario, scope, line, rating_mva=None):
 def main(scope="north-west", line="5041-17010-2", season="winter",
          percentile="10", scenario=None):
     if scenario is None:
-        scenario = SEASON_SCENARIO.get(season, "WP2033")
+        if season not in SEASON_SCENARIO:
+            raise SystemExit(
+                f"season='{season}' has no matching network scenario in "
+                f"this kit (only {list(SEASON_SCENARIO)} do - see "
+                f"SEASON_SCENARIO's comment). j_seasonal_weather_rating.py "
+                f"can compute a real weather multiplier for '{season}' on "
+                f"its own, but this script needs a network scenario to "
+                f"apply it to - pass one explicitly as SCENARIO if you "
+                f"want to (deliberately) pair '{season}' weather with an "
+                f"existing scenario.")
+        scenario = SEASON_SCENARIO[season]
         print(f"season='{season}' -> scenario='{scenario}' "
               f"(pass an explicit scenario to override)")
 
@@ -172,8 +241,13 @@ def main(scope="north-west", line="5041-17010-2", season="winter",
           f"({static_rating:.1f} MVA -> {dlr_rating:.1f} MVA)")
     print(f"hours_at_rating: {static_hours} -> {dlr_hours} "
           f"({static_hours - dlr_hours:+d})")
-    print(f"dispatch-down (NOT curtailment - see module docstring): "
-          f"{static_mwh:,.1f} -> {dlr_mwh:,.1f} MWh ({mwh_diff:+,.1f} MWh)")
+    print(f"modelled wind dispatch-down (NOT curtailment - see module "
+          f"docstring): {static_mwh:,.1f} -> {dlr_mwh:,.1f} MWh")
+    print(f"  i.e. a {mwh_diff:+,.1f} MWh change in MODELLED DISPATCH-DOWN "
+          f"for this scenario/season - NOT a claim of {abs(mwh_diff):,.1f} "
+          f"MWh of real-world EirGrid/SEM curtailment avoided (this model "
+          f"has no SNSP constraint, no inertia constraint and no unit "
+          f"commitment - see this module's docstring).")
 
     # Row shaped to match g_thermal_sensitivity_WP2033_north-west.csv's own
     # columns (line, rating_factor, s_nom_mva, max_loading, hours_at_rating)
