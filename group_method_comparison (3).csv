@@ -1,0 +1,3 @@
+method,number_of_groups,mean_group_size,overlap_count,multi_line_node_count,low_influence_nodes_excluded,selected_lines_with_zero_candidates,selected_lines_with_zero_candidates_ids,selected_lines_with_ambiguous_direction,selected_lines_with_ambiguous_direction_ids,notes
+A,6,29.83,72.0,87,95.0,0.0,,0.0,,"Method A = actual candidate groups, one per binding line."
+B,0,,,87,,,,,,"Method B does NOT produce groups. It is a validation/trade-off layer that flags and quantifies multi-line side-effects on Method A's existing candidate rows. multi_line_node_count here is the number of distinct nodes flagged for manual cross-line validation, not a group count."
