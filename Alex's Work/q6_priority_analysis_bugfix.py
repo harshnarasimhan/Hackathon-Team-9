@@ -15,6 +15,32 @@ This script:
 Run this from the root of the repo, after activating your virtual
 environment, with:
     python q6_priority_analysis.py
+
+--- DLR PATCH (added by Lucy, see claude/dlr-cross-team-impact.md) ---
+Both network builds below (n_baseline AND n_priority_scenario) get the
+real winter-weather P10 rating for 5041-17010-2 - 301.9 MVA, replacing
+the shipped 210 MVA static value. Both need the patch (not just one) since
+they represent the same physical network under two different cost
+policies, not a "real vs. no-constraint" comparison like Harshitha's Q2
+script. The rating value itself is derived from 29 years of Met Eireann
+weather at the nearest station via a Hilpert-correlation thermal model,
+cross-validated three independent ways - see dlr-cross-team-impact.md.
+
+VERIFIED (this patched script was actually re-run end-to-end against the
+real kit, not just reasoned through): total baseline curtailment across
+all 14 north-west wind farms drops from 3,660.6 MWh (static baseline) to
+3,072.0 MWh - the same DLR floor everyone else's work converges to. Your
+headline number changes too: "unfair curtailment" (non-priority farms
+that could have been curtailed from an equally-or-more-culpable priority
+farm instead) came out at 3,062.4 MWh on this re-run, against
+['Ardnagappary wind', "Cathaleen's Fall wind", 'Sligo wind', 'Sorne Hill
+wind', 'Tievebrack wind', 'Trillick wind'] - re-run it yourself to
+confirm (LP degeneracy on the near-zero-marginal-cost wind farms means a
+different machine/HiGHS version could shuffle the exact split slightly,
+per the reproducibility caveat in claude/track-a-summary.md), but this is
+a real number, not a guess. shift_factors_1.csv itself does NOT need to
+be regenerated - shift factors depend on topology/reactance, not on any
+line's rating.
 """
 
 import pandas as pd
@@ -31,6 +57,7 @@ network_name = "WP2033"
 scope = "north-west"
 
 n_baseline = gridkit.load(network_name, scope)
+gridkit.set_rating(n_baseline, "5041-17010-2", 301.9)  # DLR PATCH: real-weather winter P10 (was 210.0 MVA static)
 
 # ---------------------------------------------------------------------------
 # STEP 2: Decide which wind farms are "priority" — THIS IS YOUR ASSUMPTION
@@ -75,6 +102,7 @@ baseline_curtailment = gridkit.dispatch_down(n_baseline)
 # Reload a fresh copy of the network so we don't carry over the solved
 # state from the baseline run
 n_priority_scenario = gridkit.load(network_name, scope)
+gridkit.set_rating(n_priority_scenario, "5041-17010-2", 301.9)  # DLR PATCH: real-weather winter P10 (was 210.0 MVA static)
 
 # Give priority farms a tiny negative cost. This is small enough not to
 # meaningfully distort total system cost, but tells the optimiser:
