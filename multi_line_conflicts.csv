@@ -1,0 +1,219 @@
+node_id,node_name,material_line_count,lines_worsened,lines_relieved,tradeoff_flag,weighted_influence_score,classification
+11261,ARKLOW_OFF,3,1122-11260-1;1122-1742-1;3082-3122-1,,False,0.195405,multi-line worsening node
+17010,CATH FALL,3,3581-89516-1,1122-11260-1;3691-4041-1,True,0.16736,trade-off node
+1301,BALLYBEG,3,1122-1742-1;3082-3122-1,2781-4951-1,True,0.028342,trade-off node
+3581,LETTERKENNY,2,3581-89516-1,1122-11260-1,True,0.298139,trade-off node
+4991,SORNE HILL,2,3581-89516-1,1122-11260-1,True,0.298139,trade-off node
+5361,TRILLICK,2,3581-89516-1,1122-11260-1,True,0.298139,trade-off node
+3591,LENALEA,2,3581-89516-1,1122-11260-1,True,0.282459,trade-off node
+4071,MEENTYCAT,2,3581-89516-1,1122-11260-1,True,0.280299,trade-off node
+1571,ARDNAGAPPARY,2,3581-89516-1,1122-11260-1,True,0.239952,trade-off node
+5191,TIEVEBRACK,2,3581-89516-1,1122-11260-1,True,0.239952,trade-off node
+51911,CROAGHONAGH,2,3581-89516-1,1122-11260-1,True,0.221541,trade-off node
+4091,MULREAVY,2,3581-89516-1,1122-11260-1,True,0.221473,trade-off node
+1341,BINBANE,2,3581-89516-1,1122-11260-1,True,0.210205,trade-off node
+4981,SLIGO,2,3581-89516-1,3691-4041-1,True,0.076266,trade-off node
+1631,CORDERRY,2,3581-89516-1,3691-4041-1,True,0.071174,trade-off node
+2661,AGHALEAGUE,2,3581-89516-1,3691-4041-1,True,0.071174,trade-off node
+2671,GARVAGH,2,3581-89516-1,3691-4041-1,True,0.071174,trade-off node
+1931,CUNGHILL,2,3581-89516-1,3691-4041-1,True,0.067689,trade-off node
+1061,ARIGNA,2,3581-89516-1,3691-4041-1,True,0.060072,trade-off node
+4371,GLENREE,2,3581-89516-1,3691-4041-1,True,0.057022,trade-off node
+1121,ARKLOW,2,1122-1742-1;3082-3122-1,,False,0.035174,multi-line worsening node
+1541,BANOGE,2,1122-1742-1;3082-3122-1,,False,0.030809,multi-line worsening node
+5291,TULLABEG,2,1122-1742-1;3082-3122-1,,False,0.02921,multi-line worsening node
+1991,CASTLEDOCKRE,2,1122-1742-1;3082-3122-1,,False,0.027667,multi-line worsening node
+3641,LODGEWOOD,2,1122-1742-1;3082-3122-1,,False,0.027667,multi-line worsening node
+36411,CRORY,2,1122-1742-1;3082-3122-1,,False,0.027667,multi-line worsening node
+1231,BALLYWATER,2,1122-1742-1;3082-3122-1,,False,0.027212,multi-line worsening node
+1841,CRANE,2,1122-1742-1;3082-3122-1,,False,0.027212,multi-line worsening node
+2211,DENNISTOWN,2,1122-1742-1;3082-3122-1,,False,0.022574,multi-line worsening node
+2641,GRAHOMICK,2,1122-1742-1;3082-3122-1,,False,0.022574,multi-line worsening node
+5501,WEXFORD,2,1122-1742-1;3082-3122-1,,False,0.022574,multi-line worsening node
+5451,ROSSPILE,2,1122-1742-1;3082-3122-1,,False,0.019517,multi-line worsening node
+2742,GREAT ISLAND,2,1122-1742-1;3082-3122-1,,False,0.016724,multi-line worsening node
+2741,GREAT ISLAND,2,1122-1742-1;3082-3122-1,,False,0.015903,multi-line worsening node
+5441,WATERFORD,2,1122-1742-1;3082-3122-1,,False,0.01515,multi-line worsening node
+1481,BUTLERSTOWN,2,1122-1742-1;3082-3122-1,,False,0.014966,multi-line worsening node
+4791,RATHNASKILLO,2,1122-1742-1;3082-3122-1,,False,0.013219,multi-line worsening node
+1281,BALLYLICKEY,2,1122-11260-1,2781-4951-1,True,0.007942,trade-off node
+1831,SCREEB,1,2781-4951-1,,False,0.159516,single-line worsening node
+2171,KNOCKALOUGH,1,2781-4951-1,,False,0.159516,single-line worsening node
+2331,FERRY VIEW,1,2781-4951-1,,False,0.159516,single-line worsening node
+4951,SALTHILL,1,2781-4951-1,,False,0.159516,single-line worsening node
+20900,BUFFY,1,2781-4951-1,,False,0.159516,single-line worsening node
+89510,STRABANE,1,,3581-89516-1,False,0.089617,single-line relief node
+81810,KILL1-CL,1,,3581-89516-1,False,0.077187,single-line relief node
+89210,SKRK1,1,,3581-89516-1,False,0.077187,single-line relief node
+84412,LSMR1,1,,3581-89516-1,False,0.060889,single-line relief node
+2601,FIRLOUGH,1,,3691-4041-1,False,0.055618,single-line relief node
+4041,MOY,1,,3691-4041-1,False,0.050321,single-line relief node
+5241,TAWNAGHMORE,1,,3691-4041-1,False,0.050321,single-line relief node
+75010,COLE1,1,,1122-11260-1,False,0.048709,single-line relief node
+5341,TONROE,1,,3691-4041-1,False,0.047546,single-line relief node
+1401,BELLACORICK,1,3691-4041-1,,False,0.044378,single-line worsening node
+14010,BELLACORICK,1,3691-4041-1,,False,0.044378,single-line worsening node
+14013,SRAHNAKILLY,1,3691-4041-1,,False,0.044378,single-line worsening node
+14016,CROAGHAUN,1,3691-4041-1,,False,0.044378,single-line worsening node
+1861,CARRICK ON S,1,,3691-4041-1,False,0.043922,single-line relief node
+2111,UGGOOL,1,,2781-4951-1,False,0.041505,single-line relief node
+1661,CASTLEBAR,1,3691-4041-1,,False,0.029846,single-line worsening node
+2281,DALTON_A1,1,3691-4041-1,,False,0.024854,single-line worsening node
+22811,DALTON_A2,1,3691-4041-1,,False,0.024849,single-line worsening node
+17420,DUBLIN ARRAY,1,3082-3122-1,,False,0.023241,single-line worsening node
+1821,CLOON,1,3691-4041-1,,False,0.019264,single-line worsening node
+70010,AGHYOULE,1,,1122-11260-1,False,0.019035,single-line relief node
+79010,ENNISKIL,1,,1122-11260-1,False,0.019035,single-line relief node
+16410,BALLYMONEEN,1,3691-4041-1,,False,0.014033,single-line worsening node
+1361,BALLYDINE,1,1122-1742-1,,False,0.01249,single-line worsening node
+2141,DUNGARVAN,1,1122-1742-1,,False,0.012234,single-line worsening node
+4971,SHANONAGH,1,,2781-4951-1,False,0.01211,single-line relief node
+6931,WOODHOUSE,1,1122-1742-1,,False,0.011683,single-line worsening node
+3511,LICKNY,1,,2781-4951-1,False,0.010983,single-line relief node
+4001,MULLINGAR,1,,2781-4951-1,False,0.010983,single-line relief node
+44732,CODLING 2,1,,3082-3122-1,False,0.010292,single-line relief node
+44733,CODLING 3,1,,3082-3122-1,False,0.010292,single-line relief node
+1591,CLONFAD,1,,2781-4951-1,False,0.007974,single-line relief node
+2921,HARRISTOWN,1,,2781-4951-1,False,0.006616,single-line relief node
+4121,MULGEETH,1,,2781-4951-1,False,0.005649,single-line relief node
+2301,DUNFIRTH,1,,2781-4951-1,False,0.00534,single-line relief node
+3311,KNOCKDRIN,1,,2781-4951-1,False,0.005314,single-line relief node
+3361,LAURENCETOWN,1,,2781-4951-1,False,0.005306,single-line relief node
+5261,TRIEN,1,,1122-11260-1,False,0.00492,single-line relief node
+1331,BLUNDELSTOWN,1,,2781-4951-1,False,0.004788,single-line relief node
+1131,ATHEA,1,1122-11260-1,,False,0.004128,single-line worsening node
+1511,CLOGHBOOLA,1,1122-11260-1,,False,0.004128,single-line worsening node
+2131,DROMADA,1,1122-11260-1,,False,0.004128,single-line worsening node
+11310,TOBERTOREEN,1,1122-11260-1,,False,0.004128,single-line worsening node
+52610,TRIEN,1,1122-11260-1,,False,0.004128,single-line worsening node
+2791,GALLANSTOWN,1,,2781-4951-1,False,0.00405,single-line relief node
+1271,BALTRASNA,1,,2781-4951-1,False,0.003906,single-line relief node
+1491,DEENES,1,,2781-4951-1,False,0.003668,single-line relief node
+3241,KILTEEL,1,,2781-4951-1,False,0.00296,single-line relief node
+83510,LIMA1,0,,,False,0.053507,low-influence node
+85510,MAKL1-CL,0,,,False,0.044617,low-influence node
+87510,OMAH1,0,,,False,0.044617,low-influence node
+2821,GORTAWEE,0,,,False,0.042884,low-influence node
+80710,GORT,0,,,False,0.040244,low-influence node
+73500,BROCK1,0,,,False,0.038365,low-influence node
+87900,RASHARK1,0,,,False,0.038365,low-influence node
+77210,DRUMQUIN,0,,,False,0.037666,low-influence node
+77212,WIND_PT,0,,,False,0.037666,low-influence node
+90210,TREM,0,,,False,0.037563,low-influence node
+77511,DUNG1,0,,,False,0.030444,low-influence node
+70311,ANTR1,0,,,False,0.029581,low-influence node
+71011,BAME1,0,,,False,0.029581,low-influence node
+81510,KELS1,0,,,False,0.029581,low-influence node
+66094,SLIABH BAWN,0,,,False,0.029137,low-influence node
+83011,LARN1,0,,,False,0.028339,low-influence node
+74011,CARN1,0,,,False,0.027327,low-influence node
+84011,LISB1,0,,,False,0.024909,low-influence node
+86312,NARD1,0,,,False,0.024884,low-influence node
+90511,WARN1,0,,,False,0.024781,low-influence node
+4701,RICHMOND,0,,,False,0.023257,low-influence node
+3501,LANESBORO_A1,0,,,False,0.023248,low-influence node
+4671,RAPPAREEHILL,0,,,False,0.023248,low-influence node
+4961,SHANKILL,0,,,False,0.0221,low-influence node
+3491,LISLEA,0,,,False,0.017553,low-influence node
+4781,RATRUSSAN,0,,,False,0.017265,low-influence node
+1141,ATHLONE,0,,,False,0.013828,low-influence node
+3561,LISDRUM,0,,,False,0.011798,low-influence node
+68090,KNOCKNAMONA,0,,,False,0.011683,low-influence node
+2161,DOON,0,,,False,0.011534,low-influence node
+1721,CAHIR,0,,,False,0.010208,low-influence node
+2391,KILL HILL,0,,,False,0.010005,low-influence node
+5001,SOMERSET,0,,,False,0.009967,low-influence node
+3621,LISHEEN,0,,,False,0.009767,low-influence node
+5301,THURLES,0,,,False,0.009767,low-influence node
+36210,LISHEEN,0,,,False,0.009767,low-influence node
+3101,IKERRIN,0,,,False,0.009478,low-influence node
+5351,TIMONEY,0,,,False,0.009468,low-influence node
+1461,BARRYMORE,0,,,False,0.009396,low-influence node
+5381,TIPPERARY,0,,,False,0.009218,low-influence node
+3111,BALLYNABRANN,0,,,False,0.009039,low-influence node
+3531,LYSAGHTSTOWN,0,,,False,0.009013,low-influence node
+3801,MIDLETON,0,,,False,0.009002,low-influence node
+32060,KNOCKRAHA OF,0,,,False,0.008907,low-influence node
+1921,COW CROSS,0,,,False,0.008882,low-influence node
+2271,DERRYLAHAN,0,,,False,0.008861,low-influence node
+1381,BARNAHELY,0,,,False,0.008819,low-influence node
+3221,KILBARRY,0,,,False,0.0087,low-influence node
+5181,TRABEG,0,,,False,0.008686,low-influence node
+2061,CASTLETREASU,0,,,False,0.008669,low-influence node
+5274,CAUTEEN,0,,,False,0.008497,low-influence node
+5271,CAUTEEN,0,,,False,0.008495,low-influence node
+2231,DERRYBRIEN,0,,,False,0.008461,low-influence node
+3261,KILKENNY,0,,,False,0.008428,low-influence node
+66123,ORIEL OFFSHO,0,,,False,0.00836,low-influence node
+1621,COOLROE,0,,,False,0.008323,low-influence node
+1441,BANDON,0,,,False,0.008301,low-influence node
+2361,ENNIS,0,,,False,0.008127,low-influence node
+23610,SLIEVECALLAN,0,,,False,0.008127,low-influence node
+4021,MALLOW,0,,,False,0.008064,low-influence node
+2221,DUNMANWAY,0,,,False,0.007942,low-influence node
+2225,DUNMANWAY,0,,,False,0.007942,low-influence node
+3891,CARRIGDANGAN,0,,,False,0.007942,low-influence node
+2241,DALLOW,0,,,False,0.007825,low-influence node
+21210,COOLSHAMROGE,0,,,False,0.007804,low-influence node
+3881,MACROOM,0,,,False,0.007765,low-influence node
+1551,BOGGERAGH,0,,,False,0.007653,low-influence node
+2121,DRUMLINE,0,,,False,0.007631,low-influence node
+1881,CHARLEVILLE,0,,,False,0.007628,low-influence node
+2881,GLENLARA,0,,,False,0.007628,low-influence node
+18810,BALLYNADRIDE,0,,,False,0.007628,low-influence node
+33410,BENDINSTOWN,0,,,False,0.007609,low-influence node
+5081,STONESTOWN,0,,,False,0.007531,low-influence node
+1901,CARLOW,0,,,False,0.007354,low-influence node
+3571,DERRYCARNEY,0,,,False,0.007189,low-influence node
+1021,ARDNACRUSHA,0,,,False,0.007113,low-influence node
+1081,AHANE,0,,,False,0.006895,low-influence node
+4261,NENAGH,0,,,False,0.006894,low-influence node
+66096,UPPERCHURCH,0,,,False,0.006894,low-influence node
+3541,LIMERICK,0,,,False,0.006739,low-influence node
+1251,BOOLTIAGH,0,,,False,0.006588,low-influence node
+1751,COOMNACLOHY,0,,,False,0.006539,low-influence node
+1971,COOMAGEARLAH,0,,,False,0.006539,low-influence node
+2731,GLANLEE,0,,,False,0.006539,low-influence node
+2771,GARROW,0,,,False,0.006539,low-influence node
+6201,COOMATAGGART,0,,,False,0.006539,low-influence node
+44731,CODLING 1,0,,,False,0.006249,low-influence node
+3301,KNOCKEARAGH,0,,,False,0.006166,low-influence node
+14720,NISA BELCAMP,0,,,False,0.006105,low-influence node
+2571,FIN_RURAL,0,,,False,0.006078,low-influence node
+2701,GLASMORE,0,,,False,0.006078,low-influence node
+25610,NEWBARN,0,,,False,0.006078,low-influence node
+1431,BALLYRAGGET,0,,,False,0.005978,low-influence node
+1311,CORDAL,0,,,False,0.005867,low-influence node
+3391,KNOCKACUMMER,0,,,False,0.005867,low-influence node
+28810,GLENLARA,0,,,False,0.005867,low-influence node
+4681,RATHKEALE,0,,,False,0.005783,low-influence node
+1151,BALLINKNOCKA,0,,,False,0.005562,low-influence node
+4361,OUGHTRAGH,0,,,False,0.005493,low-influence node
+5221,TULLABRACK,0,,,False,0.005448,low-influence node
+3251,REAMORE,0,,,False,0.005155,low-influence node
+5281,TRALEE,0,,,False,0.005155,low-influence node
+1221,ATHY,0,,,False,0.005038,low-influence node
+1651,CLAHANE,0,,,False,0.005016,low-influence node
+3941,MONEYPOINT,0,,,False,0.004993,low-influence node
+2151,DROMBEG,0,,,False,0.004854,low-influence node
+3461,KILPADDOGE,0,,,False,0.004724,low-influence node
+3481,COOLNANOONAG,0,,,False,0.004724,low-influence node
+2651,GARRINTAGGAR,0,,,False,0.004576,low-influence node
+5321,THORNSBERRY,0,,,False,0.004233,low-influence node
+2721,GRIFFINRATH,0,,,False,0.004169,low-influence node
+3821,MEATH HILL,0,,,False,0.004166,low-influence node
+5211,TIMAHOE,0,,,False,0.004046,low-influence node
+4221,NAVAN,0,,,False,0.003907,low-influence node
+2101,DUNDALK,0,,,False,0.003854,low-influence node
+39420,SKERD ROCK,0,,,False,0.003759,low-influence node
+2181,DRYBRIDGE,0,,,False,0.003458,low-influence node
+2691,GARBALLAGH,0,,,False,0.003427,low-influence node
+3521,LOUTHA,0,,,False,0.003325,low-influence node
+1521,BOGTOWN,0,,,False,0.003298,low-influence node
+2401,MOUNT LUCAS,0,,,False,0.003298,low-influence node
+3551,COOLNABACKY,0,,,False,0.003132,low-influence node
+4481,PORTLAOISE,0,,,False,0.002985,low-influence node
+4081,MONREAD,0,,,False,0.002574,low-influence node
+1671,KILCUMBER,0,,,False,0.002493,low-influence node
+4391,PHILIPSTOWN,0,,,False,0.002429,low-influence node
+4201,NEWBRIDGE,0,,,False,0.00232,low-influence node
