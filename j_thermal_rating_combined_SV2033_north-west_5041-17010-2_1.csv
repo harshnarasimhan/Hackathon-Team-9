@@ -1,0 +1,6 @@
+line,rating_factor,s_nom_mva,max_loading,hours_at_rating,dispatch_down_mwh,source,scenario
+5041-17010-2,1.0,178.0,1.0,89,21813.61196123414,arbitrary sweep,SV2033
+5041-17010-2,1.1,195.8,1.0,76,20802.609257051117,arbitrary sweep,SV2033
+5041-17010-2,1.2,213.6,1.0,66,20097.90943249988,arbitrary sweep,SV2033
+5041-17010-2,1.2981,231.1,1.0,54,19701.3,weather-derived (summer),SV2033
+5041-17010-2,1.3,231.4,1.0,54,19694.785704380683,arbitrary sweep,SV2033
