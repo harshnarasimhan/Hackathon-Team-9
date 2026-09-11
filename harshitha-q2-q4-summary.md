@@ -1,10 +1,12 @@
 # Q2 (Battery siting/sizing) + Q4 (Developer siting narrative) — Harshitha
 
-North-West, WP2033, monitored circuit `5041-17010-2` (Srananagh–Cathaleen's Fall, 210 MVA) — the same target line as Lucy's Q1/Q5 (`TRACK_A_SUMMARY_1.md`) and Chibuikeim's Q3 (`chibuikeim-q3-summary.md`). Script: `k_battery_siting_sizing.py`, reproducible with one command (see header comment). Output: `k_dispatch_down_hourly_WP2033_north-west.csv`.
+North-West, WP2033, monitored circuit `5041-17010-2` (Srananagh–Cathaleen's Fall, 210 MVA static / 213 MVA real winter DLR — see below) — the same target line as Lucy's Q1/Q5 (`TRACK_A_SUMMARY_1.md`) and Chibuikeim's Q3 (`dlr-2024-real-weather-rewrite.md`). Scripts: `k_battery_siting_sizing.py` (static rating), `k_battery_siting_sizing_DLR-PATCHED.py` (real DLR rating), `l_battery_validation.py` (inserts the recommended batteries and re-solves — see "Validation" section, this is new).
+
+**This file supersedes both the original `harshitha-q2-q4-summary.md` and the interim `harshitha-q2-q4-summary (2).md` — there is now only one authoritative version. Delete the `(2)` copy once this is pushed, so nobody edits the wrong one.**
 
 ## One correction to the task brief
 
-The brief says to size from `hourly_flows.csv`'s flow/limit columns ("worst-hour MW reduction," "summed MWh-over-limit"). That doesn't work here: the LOPF that produced those flows already respects the 210 MVA rating, so flow never exceeds `limit_MW` — there's no "excess" to read off the flow column. What's actually lost is wind output withheld to keep the line at its cap, and that only shows up in the generator dispatch, not the line flow. So this re-solves the network directly and reads dispatch-down from there.
+The brief says to size from `hourly_flows.csv`'s flow/limit columns ("worst-hour MW reduction," "summed MWh-over-limit"). That doesn't work here: the LOPF that produced those flows already respects the line's rating, so flow never exceeds `limit_MW` — there's no "excess" to read off the flow column. What's actually lost is wind output withheld to keep the line at its cap, and that only shows up in the generator dispatch, not the line flow. So this re-solves the network directly and reads dispatch-down from there.
 
 ## Method, and a bug caught + fixed along the way
 
@@ -12,17 +14,21 @@ Splitting constraint-based vs. surplus-based dispatch-down **per generator** by 
 
 Fixed by splitting at the aggregate-hourly level (matches the kit's own whole-week method exactly), then allocating each hour's validated total across generators pro-rata by their own share of that hour's real curtailment.
 
-**Corrected total: 588.6 MWh of wind curtailed for this constraint over the 168-hour week.**
+**Corrected total at the static 210 MVA rating: 588.6 MWh of wind curtailed for this constraint over the 168-hour week.**
 
-## Reconciliation with Chibuikeim's Q3 DLR numbers
+## DLR reconciliation — real number, both re-runs done
 
-`j_dlr_sensitivity_WP2033_north-west.csv` (0% uplift row) reports **3,660.6 MWh/week** via the kit's stock `gridkit.dispatch_down()` — that's *total* dispatch-down (constraint-based + surplus-based combined), not constraint-based alone. Re-running the same real-ratings-vs-ratings-lifted comparison here independently:
+Chibuikeim's Q3 result was corrected from a retracted 301.9 MVA (+43.7%) figure to a real, weather-derived 213.0 MVA (+1.4%) winter rating (`dlr-2024-real-weather-rewrite.md`). `k_battery_siting_sizing_DLR-PATCHED.py` has now actually been re-run at the corrected rating, not left as a pending TODO:
 
-- total dispatch-down, real ratings: **3,660.6 MWh** — exact match to Chibuikeim's number
-- surplus-based only, ratings lifted: **3,072.0 MWh** — exact match to Chibuikeim's own +30%-uplift row (3,072.0), which makes sense: near-full relief of this line converges to the pure-surplus floor
-- **3,660.6 − 3,072.0 = 588.6 MWh — exact match to this doc's constraint-based total**, computed via a completely independent method (aggregate-hourly + pro-rata vs. one single whole-week solve)
+| Rating | Total dispatch-down (week) | Constraint-based only |
+|---|---|---|
+| 210 MVA (static) | 3,660.6 MWh | **588.6 MWh** |
+| 213 MVA (real winter DLR) | 3,579.8 MWh | **507.8 MWh** (−13.7%) |
+| 3,072.0 MWh (surplus-only floor, ratings lifted) | — | — |
 
-No discrepancy — these are the same system, split two consistent ways, cross-checked against a teammate's independently-written script.
+DLR meaningfully helps (13.7% reduction) but does **not** eliminate the constraint the way the retracted 301.9 MVA figure implied — consistent with Q3's own "DLR helps a lot, doesn't solve it alone" framing for this rating. At 213 MVA a new nonzero contributor appears at the margin: Cathaleen's Fall (26.2 MWh, 99.8% cumulative) — negligible next to Drumkeen (336.7 MWh, 66.3%) and Binbane (144.1 MWh, 94.7%), but worth knowing it's there if a judge asks for the full per-generator table at the DLR rating.
+
+**Present both numbers.** Use 588.6 MWh (static) as the sizing basis for the battery recommendation below — that's the more conservative, defensible design point — and cite 507.8 MWh only when specifically discussing DLR's own effect.
 
 ## Sign matters more than magnitude — checked against real dispatch, not just the shift-factor sheet
 
@@ -38,9 +44,9 @@ Largest magnitude is group A (Corderry, 0.579). But the sign is opposite to grou
 
 **Confirmed against the actual solved dispatch: Corderry, Glenree, and Sligo each show 0.0 MWh of constraint-based curtailment across the entire week** — the optimiser never once curtails them for this constraint, exactly as the sign predicts. Every megawatt-hour of the 588.6 MWh sits in group B.
 
-**Flag for the team — Track A's Q5 section currently states "Corderry wind alone offers 43 MW" of relief at the peak hour.** That's the raw \|shift factor\| × available-MW number, before checking sign against this line's actual flow direction — the same "pick the largest \|shift factor\|" trap this section exists to correct. Worth a one-line caveat there (or a pointer to this doc) before the panel, since a judge who checks the actual dispatch would find Corderry contributes zero real relief on this line. Flagging rather than editing `TRACK_A_SUMMARY_1.md` directly since it's Lucy's file — happy to add the caveat myself if the team's fine with it.
+**Flag for the team — Track A's Q5 section currently states "Corderry wind alone offers 43 MW" of relief at the peak hour.** That's the raw |shift factor| × available-MW number, before checking sign against this line's actual flow direction — the same "pick the largest |shift factor|" trap this section exists to correct. Worth a one-line caveat there (or a pointer to this doc) before the panel, since a judge who checks the actual dispatch would find Corderry contributes zero real relief on this line.
 
-## Where the curtailment actually concentrates
+## Where the curtailment actually concentrates (static 210 MVA)
 
 | rank | node | MWh curtailed (week) | cumulative % |
 |---|---|---|---|
@@ -52,21 +58,37 @@ Largest magnitude is group A (Corderry, 0.579). But the sign is opposite to grou
 
 Two sites — Drumkeen and Binbane — cover 92.5% of everything, which is a different picture from nameplate capacity (Croaghonagh is the largest group-B generator at 139.2 MW and contributes 0.0 MWh) — impact tracks which farms are actually generating heavily in the hours the corridor is already full, which only the real dispatch run reveals.
 
-## Recommended siting & sizing
+## Hand-derived siting & sizing (screening estimate — see Validation section below before quoting these as a firm recommendation)
 
 **Single site — Drumkeen:** covers 58.9% of all constraint-based curtailment on its own.
 - Power rating: **42.9 MW** (worst single hour)
 - Energy, conservative (sum of every curtailed hour, no discharge in between): **346.5 MWh**
-- Energy, realistic (largest contiguous congestion episode — 10 episodes across the week): **100.8 MWh over a 4-hour episode**
+- Energy, realistic (largest contiguous congestion episode): **100.8 MWh over a 4-hour episode**
 
 **Two sites — Drumkeen + Binbane:** covers 92.5% combined.
 - Power rating: **48.4 MW** (worst combined hour)
 - Energy, conservative: **544.4 MWh**
 - Energy, realistic (largest contiguous episode): **232.6 MWh over 6 hours**
 
-Two sites gets to 92.5% — very little left to chase after that (Letterkenny only adds 7%). Drumkeen + Binbane is the natural two-site pitch, not Drumkeen + Letterkenny.
+## Validation — batteries actually inserted and re-solved (`l_battery_validation.py`, new)
 
-**For the deck:** lead with Drumkeen alone (42.9 MW / ~101 MWh episodic — small, realistic, buildable single-site number), show Drumkeen + Binbane as the "92.5% instead of 59%" upsell. State plainly that 346.5 MWh is an upper bound assuming zero discharge between episodes — the 101 MWh episodic figure is the number you'd actually design a battery to.
+The gap flagged in earlier drafts of this document — "no run here actually inserts a battery of the recommended size at the recommended bus and re-solves to confirm it removes the constraint-based curtailment" — has now been closed. `l_battery_validation.py` uses `gridkit.add_battery()` to place batteries at Drumkeen (and Binbane) at the sizes above, then re-solves the full LOPF and re-measures constraint-based dispatch-down, at the static 210 MVA baseline (588.6 MWh).
+
+**Real result — materially smaller relief than the hand-derived numbers implied:**
+
+| Scenario | Battery spec | Constraint-based remaining | Relief |
+|---|---|---|---|
+| Baseline | — | 588.6 MWh | — |
+| Drumkeen only, episodic | 42.9 MW / 100.8 MWh | 557.6 MWh | **5.3%** |
+| Drumkeen only, conservative | 42.9 MW / 346.5 MWh | 466.2 MWh | **20.8%** |
+| Drumkeen + Binbane, episodic | 42.9 MW/100.8 MWh + 48.4 MW/146.3 MWh | 546.3 MWh | **7.2%** |
+| Drumkeen + Binbane, conservative | 42.9 MW/346.5 MWh + 48.4 MW/197.9 MWh | 399.3 MWh | **32.2%** |
+
+**Headline: the recommendation above does not deliver anything close to the 58.9%/92.5% coverage the worst-hour/worst-episode reading implied.** Even the larger "conservative" sizing only reaches 20.8%/32.2% real relief once the battery's own charge/discharge behaviour is allowed to interact with the rest of the network's dispatch. The smaller "episodic" sizing — the one this document previously recommended leading with in the deck as "small, realistic, buildable" — performs worst of all (5.3%/7.2%). A battery sized to only its single worst episode has no capacity left for the *other* congestion episodes in the week, and recharging after one episode interacts with hours the hand-derived method never examined.
+
+One more wrinkle worth knowing before a judge asks about it: for the two-battery episodic case, two different (and equally legitimate) ways of computing "constraint-based MWh" disagree — 619.8 MWh by the exact method `k_battery_siting_sizing.py` uses (clip each hour's difference at zero, then sum) vs. 546.3 MWh by a simpler whole-week-totals-then-subtract method. They agree everywhere else in this project; they only diverge once a battery is present, because in 2 of the 168 hours the "ratings-lifted" counterfactual run curtails *more* than the real-ratings run with the same battery installed (an artifact of the battery charging differently across the two counterfactuals). Full explanation in `l_battery_validation.py`'s own docstring.
+
+**What this means for the pitch:** present the battery section as a two-stage story rather than a single sizing number — "a 42.9 MW / 346.5 MWh battery at Drumkeen, actually re-solved, delivers ~21% real relief; getting materially higher requires either a bigger battery than the naive worst-episode reading suggests, or accepting that a battery alone won't close this gap and DLR (13.7% at the real 213 MVA rating) needs to be counted alongside it, not instead of it." That's a more defensible, and more interesting, panel answer than a single "battery solves 92.5% of this" number that doesn't survive a re-solve.
 
 ## Q4 — Developer siting narrative
 
@@ -74,11 +96,11 @@ Two sites gets to 92.5% — very little left to chase after that (Letterkenny on
 
 **Attractive for new wind (low risk of adding to this constraint):** Corderry, Glenree, Sligo — the positive-shift-factor group. New capacity here sits electrically close to the Srananagh import point; more output there relieves the constraint rather than adding to it. Confirmed against real dispatch: zero curtailment here across the whole week, regardless of how much they generated.
 
-**Attractive for BESS (this is where the real problem lives):** the negative-shift-factor group, but overwhelmingly concentrated at two of its ten members — Drumkeen and Binbane, 92.5% of the total between them. New wind added at these two without storage directly worsens dispatch-down; storage sited here directly relieves it. Shift-factor sign tells a developer which side of the network they're on; it doesn't say which specific farm within that side actually matters — that took running the real dispatch.
+**Attractive for BESS (this is where the real problem lives):** the negative-shift-factor group, but overwhelmingly concentrated at two of its ten members — Drumkeen and Binbane, 92.5% of the *curtailment* between them (not the same as 92.5% of *relief* — see Validation above for why those aren't interchangeable). New wind added at these two without storage directly worsens dispatch-down; storage sited here directly relieves it, just not by as much as the curtailment share alone would suggest.
 
-**The threshold isn't a number, it's a side, and even the side isn't the whole story.** The group clusters tightly on shift factor alone (−0.238 for ten different farms), so magnitude alone doesn't discriminate within it — but it also doesn't reveal that two farms dominate while eight contribute nothing. That distinction only came from the real dispatch run: shift factors tell you the mechanism, not the answer.
+**The threshold isn't a number, it's a side, and even the side isn't the whole story.** The group clusters tightly on shift factor alone (−0.238 for ten different farms), so magnitude alone doesn't discriminate within it — but it also doesn't reveal that two farms dominate while eight contribute nothing, or that "dominates curtailment" isn't the same claim as "a battery sized to that farm's numbers delivers proportional relief." Both distinctions only came from the real dispatch runs: shift factors tell you the mechanism, not the answer, and a hand-derived MWh reading doesn't substitute for actually re-solving with the battery in place.
 
-**Honest caveats for this slide:** WP2033 is a synthetic weather week (Ornstein–Uhlenbeck / Gaussian-field wind, not historical or forecast) — MWh figures are indicative of the mechanism, not a real-world forecast for these specific farms. Costs anywhere in the model are round-number placeholders (wind bids −1 EUR/MWh to make curtailment a last resort, not a real market price). This is a DC linear approximation — no voltage, no reactive power, no N-1 — a screening result, not an operational recommendation.
+**Honest caveats for this slide:** WP2033 is a synthetic weather week (Ornstein–Uhlenbeck / Gaussian-field wind, not historical or forecast) — MWh figures are indicative of the mechanism, not a real-world forecast for these specific farms. Wind `marginal_cost` is **0.0** in every shipped `generators.csv` (not −1 EUR/MWh as an earlier draft of this note and the kit README stated) — costs are round-number placeholders either way, but 0.0 specifically means curtailment among same-side wind farms is **cost-neutral to the optimiser**, so the exact per-farm split within group B is an LP-degenerate result — the pro-rata-by-real-curtailment allocation above is a reasonable way to break that tie, but a different solver or solver version could plausibly redistribute the split differently while landing on the same 588.6 MWh aggregate. Say the total with confidence; say the specific per-farm ranking as "this run's result," not as a uniquely determined fact. This is a DC linear approximation — no voltage, no reactive power, no N-1 — a screening result, not an operational recommendation.
 
 ---
-*Reproducible with `python k_battery_siting_sizing.py` from the repo root (needs `grid_TF_Wind/participant-kit` on the path, as in the script header). Re-run and cross-checked against this repo's own copy of the kit before this commit — see reconciliation section above.*
+*Reproducible with `python k_battery_siting_sizing.py` (static rating), `python k_battery_siting_sizing_DLR-PATCHED.py` (real DLR rating), and `python l_battery_validation.py` (battery insertion + re-solve) from the repo root — all three need `grid_TF_Wind/participant-kit` on the path, as in each script's header. All three re-run and cross-checked against this repo's own copy of the kit before this commit.*
