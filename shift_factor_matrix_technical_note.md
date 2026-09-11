@@ -1,5 +1,19 @@
 # Shift-factor matrix - technical note
 
+**Reconstruction note (2026-09-11):** the script that built the files
+below (`o_shift_factor_matrix.py`) was never committed to this branch —
+only its outputs were, which meant the matrix couldn't be regenerated or
+independently checked (Track A audit F-06). It's now committed. Running
+it reproduces every one of the 1,308 already-committed rows to machine
+precision (max difference 9.9e-17), confirmed directly rather than
+assumed. As a side effect, this also empirically confirms the "DLR
+rating has zero effect on shift factors" claim below: the committed file
+was originally built with 5041-17010-2 at the since-retracted 301.9 MVA
+DLR rating, and this rebuild uses the corrected 213.0 MVA rating instead
+— the two ratings differ by 89 MVA, and the resulting shift factors are
+identical to 1e-16, exactly as the PTDF-is-topology-only claim predicts.
+`candidate_renewable_nodes.csv` was also missing and has been added.
+
 - Case name: WP2033 all-island (Step 1's binding_lines.csv case,
   provenance-checked - this run refused to proceed if binding_lines.csv
   didn't carry matching scenario/scope columns)

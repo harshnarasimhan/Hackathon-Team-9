@@ -1,0 +1,219 @@
+node_id,node_name,candidate_unit,p_nom_total_MW_nameplate,n_generators_at_bus,carriers_at_bus
+1021,ARDNACRUSHA,bus,220.32,8,hydro;load shedding;solar;wind
+1061,ARIGNA,bus,23.895,5,load shedding;wind
+1081,AHANE,bus,16.64,3,load shedding;solar
+1121,ARKLOW,bus,230.23,9,load shedding;solar;wind
+11261,ARKLOW_OFF,bus,800.0,1,wind
+1131,ATHEA,bus,34.35,1,wind
+11310,TOBERTOREEN,bus,23.15,1,wind
+1141,ATHLONE,bus,141.49,5,load shedding;solar;unknown;wind
+1151,BALLINKNOCKA,bus,50.0,1,solar
+1221,ATHY,bus,42.82,2,load shedding;solar
+1231,BALLYWATER,bus,42.0,2,wind
+1251,BOOLTIAGH,bus,154.219,11,wind
+1271,BALTRASNA,bus,43.525,3,load shedding;solar
+1281,BALLYLICKEY,bus,87.79,7,load shedding;wind
+1301,BALLYBEG,bus,44.465,3,load shedding;solar
+1311,CORDAL,bus,147.6,4,wind
+1331,BLUNDELSTOWN,bus,74.25,2,load shedding;solar
+1341,BINBANE,bus,120.83,18,load shedding;wind
+1361,BALLYDINE,bus,32.875,2,load shedding;solar
+1381,BARNAHELY,bus,67.41,4,load shedding;solar;wind
+1401,BELLACORICK,bus,55.754999999999995,7,load shedding;wind
+14010,BELLACORICK,bus,33.9,1,wind
+14013,SRAHNAKILLY,bus,172.0,2,wind
+14016,CROAGHAUN,bus,50.0,1,wind
+1431,BALLYRAGGET,bus,124.75500000000002,4,load shedding;solar;wind
+1441,BANDON,bus,125.255,9,load shedding;solar;wind
+1461,BARRYMORE,bus,100.41,3,load shedding;solar;wind
+14720,NISA BELCAMP,bus,500.0,1,wind
+1481,BUTLERSTOWN,bus,109.6,4,load shedding;solar;wind
+1491,DEENES,bus,85.0,1,solar
+1511,CLOGHBOOLA,bus,100.54899999999999,5,wind
+1521,BOGTOWN,bus,56.4,1,wind
+1541,BANOGE,bus,21.034999999999997,3,load shedding;solar
+1551,BOGGERAGH,bus,169.05,7,wind
+1571,ARDNAGAPPARY,bus,39.230000000000004,4,load shedding;wind
+1591,CLONFAD,bus,100.0,1,solar
+1621,COOLROE,bus,28.345,2,load shedding;solar
+1631,CORDERRY,bus,79.60300000000001,12,wind
+16410,BALLYMONEEN,bus,100.0,1,solar
+1651,CLAHANE,bus,85.6,3,solar;wind
+1661,CASTLEBAR,bus,100.735,8,load shedding;wind
+1671,KILCUMBER,bus,75.0,1,wind
+17010,CATH FALL,bus,106.71000000000001,4,hydro;load shedding;wind
+1721,CAHIR,bus,79.58500000000001,5,load shedding;solar
+17420,DUBLIN ARRAY,bus,824.0,1,wind
+1751,COOMNACLOHY,bus,54.0,2,wind
+1821,CLOON,bus,139.24,8,load shedding;solar;unknown;wind
+1831,SCREEB,bus,42.1,3,load shedding;wind
+1841,CRANE,bus,77.90499999999999,4,load shedding;solar;wind
+1861,CARRICK ON S,bus,60.699999999999996,4,load shedding;solar;unknown
+1881,CHARLEVILLE,bus,107.089,8,load shedding;wind
+18810,BALLYNADRIDE,bus,120.0,1,solar
+1901,CARLOW,bus,179.485,11,load shedding;solar;wind
+1921,COW CROSS,bus,32.655,2,load shedding;solar
+1931,CUNGHILL,bus,34.8,2,wind
+1971,COOMAGEARLAH,bus,81.0,3,wind
+1991,CASTLEDOCKRE,bus,41.400000000000006,4,wind
+2061,CASTLETREASU,bus,55.0,1,solar
+20900,BUFFY,bus,109.2,2,wind
+2101,DUNDALK,bus,121.78,4,load shedding;solar;wind
+2111,UGGOOL,bus,174.0,2,wind
+2121,DRUMLINE,bus,56.625,3,load shedding;solar
+21210,COOLSHAMROGE,bus,60.0,1,solar
+2131,DROMADA,bus,28.5,1,wind
+2141,DUNGARVAN,bus,134.70999999999998,8,load shedding;solar;unknown;wind
+2151,DROMBEG,bus,75.2,2,solar;wind
+2161,DOON,bus,60.870000000000005,3,load shedding;solar
+2171,KNOCKALOUGH,bus,33.6,1,wind
+2181,DRYBRIDGE,bus,165.03000000000003,9,load shedding;solar;wind
+2211,DENNISTOWN,bus,101.1,1,solar
+2221,DUNMANWAY,bus,28.17,5,unknown;wind
+2225,DUNMANWAY,bus,82.47,3,load shedding;wind
+2231,DERRYBRIEN,bus,59.5,1,wind
+2241,DALLOW,bus,58.775,6,load shedding;wind
+2271,DERRYLAHAN,bus,65.0,1,solar
+2281,DALTON_A1,bus,44.8,2,solar;wind
+22811,DALTON_A2,bus,51.66,2,load shedding;wind
+2301,DUNFIRTH,bus,48.480000000000004,3,load shedding;solar
+2331,FERRY VIEW,bus,47.3,1,wind
+2361,ENNIS,bus,128.365,2,load shedding;solar
+23610,SLIEVECALLAN,bus,72.39,2,wind
+2391,KILL HILL,bus,36.0,1,wind
+2401,MOUNT LUCAS,bus,79.2,1,wind
+25610,NEWBARN,bus,93.27,2,solar
+2571,FIN_RURAL,bus,69.98,2,load shedding;solar
+2601,FIRLOUGH,bus,75.6,2,wind
+2641,GRAHOMICK,bus,54.8,1,solar
+2651,GARRINTAGGAR,bus,49.5,1,wind
+2661,AGHALEAGUE,bus,40.0,1,solar
+2671,GARVAGH,bus,82.0,3,wind
+2691,GARBALLAGH,bus,143.0,2,solar
+2701,GLASMORE,bus,161.19,4,load shedding;solar;wind
+2721,GRIFFINRATH,bus,144.535,4,load shedding;solar
+2731,GLANLEE,bus,36.8,3,solar;wind
+2741,GREAT ISLAND,bus,50.395,3,load shedding;solar
+2742,GREAT ISLAND,bus,915.5,2,gas;wind
+2771,GARROW,bus,74.215,4,wind
+2791,GALLANSTOWN,bus,169.5,3,solar
+2821,GORTAWEE,bus,60.125,3,load shedding;wind
+2881,GLENLARA,bus,50.195,2,load shedding;wind
+28810,GLENLARA,bus,45.75,4,solar;wind
+2921,HARRISTOWN,bus,42.3,1,solar
+3101,IKERRIN,bus,79.51,2,load shedding;wind
+3111,BALLYNABRANN,bus,42.0,2,solar
+32060,KNOCKRAHA OF,bus,450.0,1,wind
+3221,KILBARRY,bus,146.185,4,load shedding;solar;wind
+3241,KILTEEL,bus,72.44999999999999,2,load shedding;solar
+3251,REAMORE,bus,83.15,4,wind
+3261,KILKENNY,bus,148.505,6,load shedding;solar;unknown
+3301,KNOCKEARAGH,bus,92.47,4,load shedding;solar;wind
+3311,KNOCKDRIN,bus,110.2,1,wind
+33410,BENDINSTOWN,bus,81.0,1,solar
+3361,LAURENCETOWN,bus,47.0,1,solar
+3391,KNOCKACUMMER,bus,105.0,1,wind
+3461,KILPADDOGE,bus,18.0,1,wind
+3481,COOLNANOONAG,bus,37.0,1,wind
+3491,LISLEA,bus,48.9,1,wind
+3501,LANESBORO_A1,bus,43.64,4,load shedding;solar;wind
+3511,LICKNY,bus,97.5,2,wind
+3521,LOUTHA,bus,50.0,1,solar
+3531,LYSAGHTSTOWN,bus,147.0,2,solar
+3541,LIMERICK,bus,162.53499999999997,3,load shedding;solar
+3551,COOLNABACKY,bus,80.0,2,solar
+3561,LISDRUM,bus,91.82499999999999,2,load shedding;wind
+3571,DERRYCARNEY,bus,34.0,1,wind
+3581,LETTERKENNY,bus,171.63,8,load shedding;wind
+3591,LENALEA,bus,30.5,1,wind
+3621,LISHEEN,bus,68.4,2,wind
+36210,LISHEEN,bus,59.0,2,wind
+3641,LODGEWOOD,bus,20.0,1,solar
+36411,CRORY,bus,60.162,9,wind
+3801,MIDLETON,bus,88.965,6,load shedding;solar;wind
+3821,MEATH HILL,bus,156.688,8,load shedding;wind
+3881,MACROOM,bus,72.75999999999999,4,load shedding;solar;wind
+3891,CARRIGDANGAN,bus,67.89999999999999,2,wind
+3941,MONEYPOINT,bus,17.25,1,wind
+39420,SKERD ROCK,bus,450.0,1,wind
+4001,MULLINGAR,bus,116.94,6,load shedding;solar
+4021,MALLOW,bus,49.465,3,load shedding;solar;unknown
+4041,MOY,bus,51.3,2,load shedding;wind
+4071,MEENTYCAT,bus,84.96,3,wind
+4081,MONREAD,bus,40.235,3,load shedding;solar
+4091,MULREAVY,bus,95.25,4,wind
+4121,MULGEETH,bus,60.0,1,wind
+4201,NEWBRIDGE,bus,90.285,2,load shedding;solar
+4221,NAVAN,bus,129.38400000000001,6,load shedding;solar
+4261,NENAGH,bus,60.614999999999995,8,load shedding;solar;wind
+4361,OUGHTRAGH,bus,56.815,3,load shedding;solar;wind
+4371,GLENREE,bus,77.3,4,wind
+4391,PHILIPSTOWN,bus,50.0,1,wind
+44731,CODLING 1,bus,483.0,1,wind
+44732,CODLING 2,bus,483.0,1,wind
+44733,CODLING 3,bus,483.0,1,wind
+4481,PORTLAOISE,bus,132.091,4,load shedding;solar;wind
+4671,RAPPAREEHILL,bus,90.0,1,wind
+4681,RATHKEALE,bus,103.05000000000001,4,load shedding;wind
+4701,RICHMOND,bus,83.57500000000002,4,load shedding;solar;wind
+4781,RATRUSSAN,bus,78.62,3,wind
+4791,RATHNASKILLO,bus,95.0,1,solar
+4951,SALTHILL,bus,123.35,5,load shedding;wind
+4961,SHANKILL,bus,130.87699999999998,6,load shedding;solar;wind
+4971,SHANONAGH,bus,58.6,1,solar
+4981,SLIGO,bus,109.05000000000001,4,load shedding;wind
+4991,SORNE HILL,bus,63.24999999999999,10,wind
+5001,SOMERSET,bus,56.74999999999999,4,load shedding;solar;wind
+5081,STONESTOWN,bus,105.0,1,wind
+5181,TRABEG,bus,132.52499999999998,2,load shedding;solar
+5191,TIEVEBRACK,bus,29.9,1,wind
+51911,CROAGHONAGH,bus,139.2,2,wind
+5211,TIMAHOE,bus,70.0,1,solar
+5221,TULLABRACK,bus,50.56,4,load shedding;wind
+5241,TAWNAGHMORE,bus,71.5,2,unknown;wind
+5261,TRIEN,bus,68.375,9,load shedding;solar;wind
+52610,TRIEN,bus,46.3,3,wind
+5271,CAUTEEN,bus,59.08,3,wind
+5274,CAUTEEN,bus,115.08,3,wind
+5281,TRALEE,bus,147.8,9,load shedding;solar;wind
+5291,TULLABEG,bus,155.0,2,solar
+5301,THURLES,bus,86.875,6,load shedding;wind
+5321,THORNSBERRY,bus,81.11500000000001,5,load shedding;solar
+5341,TONROE,bus,44.75,5,load shedding;unknown;wind
+5351,TIMONEY,bus,156.56,2,solar
+5361,TRILLICK,bus,78.515,7,load shedding;wind
+5381,TIPPERARY,bus,44.195,4,load shedding;solar;wind
+5441,WATERFORD,bus,126.29000000000002,6,load shedding;solar;wind
+5451,ROSSPILE,bus,95.0,1,solar
+5501,WEXFORD,bus,147.605,6,load shedding;solar;wind
+6201,COOMATAGGART,bus,156.84,2,wind
+66094,SLIABH BAWN,bus,58.0,1,wind
+66096,UPPERCHURCH,bus,84.0,1,wind
+66123,ORIEL OFFSHO,bus,370.0,2,wind
+68090,KNOCKNAMONA,bus,34.0,1,wind
+6931,WOODHOUSE,bus,20.0,1,wind
+70010,AGHYOULE,bus,115.5,5,load shedding;wind
+70311,ANTR1,bus,138.547,6,load shedding;solar
+71011,BAME1,bus,114.36999999999999,7,load shedding;solar;unknown;wind
+73500,BROCK1,bus,47.5,1,wind
+74011,CARN1,bus,77.28000000000002,2,load shedding;wind
+75010,COLE1,bus,171.79,5,load shedding;wind
+77210,DRUMQUIN,bus,67.9,3,wind
+77212,WIND_PT,bus,51.6,1,wind
+77511,DUNG1,bus,176.38,2,load shedding;wind
+79010,ENNISKIL,bus,128.515,3,load shedding;unknown;wind
+80710,GORT,bus,89.1,6,unknown;wind
+81510,KELS1,bus,23.1,1,solar
+81810,KILL1-CL,bus,88.7,4,unknown;wind
+83011,LARN1,bus,109.28,4,load shedding;unknown;wind
+83510,LIMA1,bus,75.95,3,load shedding;wind
+84011,LISB1,bus,173.83999999999997,4,load shedding;solar
+84412,LSMR1,bus,77.46000000000001,2,load shedding;wind
+85510,MAKL1-CL,bus,138.0,7,unknown;wind
+86312,NARD1,bus,76.55499999999999,2,load shedding;solar
+87510,OMAH1,bus,194.48999999999998,8,load shedding;wind
+87900,RASHARK1,bus,111.31900000000002,6,solar;wind
+89210,SKRK1,bus,73.6,3,unknown;wind
+89510,STRABANE,bus,98.27000000000001,5,load shedding;wind
+90210,TREM,bus,89.99999999999999,7,wind
+90511,WARN1,bus,119.625,2,load shedding;solar
