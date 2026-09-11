@@ -1,0 +1,7 @@
+case_id,hour,target_line,method,renewable_MW_reduced,target_overload_before_MW,target_overload_after_MW,target_relief_MW,new_overloads_count,largest_new_overload_MW,validation_status
+1,2030-01-16 16:00:00,3581-89516-1,simple,232.05,2.0,0.0,2.0,0,0.0,relieved_clean
+1,2030-01-16 16:00:00,3581-89516-1,multiline_aware,128.63,2.0,0.0,2.0,0,0.0,relieved_clean
+1,2030-01-18 05:00:00,3082-3122-1,simple,368.97,54.33,16.77,37.56,0,0.0,partial_relief
+1,2030-01-18 05:00:00,3082-3122-1,multiline_aware,358.97,54.33,21.5,32.83,0,0.0,partial_relief
+1,,3691-4041-1,simple,0.0,0.0,0.0,0.0,0,0.0,no_genuine_overload_to_relieve
+1,,3691-4041-1,multiline_aware,0.0,0.0,0.0,0.0,0,0.0,no_genuine_overload_to_relieve

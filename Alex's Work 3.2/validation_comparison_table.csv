@@ -1,0 +1,3 @@
+method,target_overload_relieved_MW,renewable_MW_reduced,new_monitored_line_overloads,nodes_curtailed,nodes_flagged_excluded
+simple,39.56,601.02,0,71,0
+multiline_aware,34.83,487.6,0,57,15
