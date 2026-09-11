@@ -1,0 +1,39 @@
+Lines with at least one adverse-tradeoff node (testable): ['3581-89516-1', '3082-3122-1', '3691-4041-1']
+Skipping (simple == multi-line-aware, nothing to compare): ['2781-4951-1', '1122-11260-1', '1122-1742-1']
+
+=== Case 1: 3581-89516-1 ===
+    trying 2030-01-17 09:00:00 ...
+    -> genuine counterfactual overload: 2.00 MW
+  method=simple, group size=28
+    cut=219.54 MW across 28 nodes, before=2.00, after=0.00, relief=2.00, new_overloads=0
+  method=multiline_aware, group size=15
+    cut=128.23 MW across 15 nodes, before=2.00, after=0.00, relief=2.00, new_overloads=0
+
+=== Case 2: 3082-3122-1 ===
+    trying 2030-01-18 05:00:00 ...
+    -> -114.21 MW, below noise floor, trying next hour
+    trying 2030-01-16 13:00:00 ...
+    -> genuine counterfactual overload: 71.06 MW
+  method=simple, group size=65
+    cut=521.57 MW across 65 nodes, before=71.06, after=15.03, relief=56.02, new_overloads=0
+  method=multiline_aware, group size=64
+    cut=511.57 MW across 64 nodes, before=71.06, after=19.76, relief=51.30, new_overloads=0
+
+=== Case 3: 3691-4041-1 ===
+    trying 2030-01-18 18:00:00 ...
+    -> -127.58 MW, below noise floor, trying next hour
+    trying 2030-01-18 11:00:00 ...
+    -> -113.25 MW, below noise floor, trying next hour
+    trying 2030-01-17 00:00:00 ...
+    -> -149.96 MW, below noise floor, trying next hour
+    trying 2030-01-18 10:00:00 ...
+    -> -59.77 MW, below noise floor, trying next hour
+    trying 2030-01-18 09:00:00 ...
+    -> -62.59 MW, below noise floor, trying next hour
+  No genuine overload found across 5 near-binding hours.
+
+Wrote validation_results.csv (6 rows)
+Wrote validation_comparison_table.csv
+         method  target_overload_relieved_MW  renewable_MW_reduced  new_monitored_line_overloads  nodes_curtailed  nodes_flagged_excluded
+         simple                        58.02                741.11                             0               93                       0
+multiline_aware                        53.30                639.80                             0               79                      15
