@@ -21,7 +21,7 @@ All numbers are for the `WP2033` scenario (2033 winter peak), north-west region,
 | --- | --- |
 | Kanyinsola | Step 1: ran the full grid and ranked the overloaded lines |
 | Lucy Pakenham | Step 2: shift-factor matrix; Q1/Q5 most-constrained lines and per-farm shift factors |
-| Harshitha Narasimhan | Q2/Q4: battery siting and sizing (validated by re-solving the network); Step 3A: multi-line conflict analysis; merged branches and tidied the repo |
+| Harshitha Narasimhan | Q2/Q4: battery siting and sizing (validated by re-solving the network); Step 3A: multi-line conflict analysis along with a heatmap and an interactive chart; merged branches and tidied the repo |
 | Chibuikeim Onwukaife | Q3: dynamic line rating (real-weather 213 MVA winter rating); Step 3B: curtailment groups |
 | Alex D'Alba | Q6: priority vs non-priority wind farms; Step 4: validation and comparison |
 
