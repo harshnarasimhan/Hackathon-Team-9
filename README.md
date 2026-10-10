@@ -15,6 +15,16 @@ All numbers are for the `WP2033` scenario (2033 winter peak), north-west region,
 - **The sign of a shift factor matters more than its size.** Corderry, Glenree and Sligo have the largest shift factor (+0.579) but the opposite sign to the ten farms in the other group (-0.238). The line loads in one direction, so the +0.579 farms cannot relieve it, and all of the constraint curtailment sits in the second group.
 - **Multi-line awareness gives smaller curtailment groups.** In the first validation case, a 15-node group that accounts for side effects on other lines relieves the same 2.0 MW overload as a 28-node group, while cutting 128 MW instead of 220 MW.
 
+## Team
+
+| Person | Contribution |
+| --- | --- |
+| Kanyinsola | Step 1: ran the full grid and ranked the overloaded lines |
+| Lucy Pakenham | Step 2: shift-factor matrix; Q1/Q5 most-constrained lines and per-farm shift factors |
+| Harshitha Narasimhan | Q2/Q4: battery siting and sizing (validated by re-solving the network); Step 3A: multi-line conflict analysis; merged branches and tidied the repo |
+| Chibuikeim Onwukaife | Q3: dynamic line rating (real-weather 213 MVA winter rating); Step 3B: curtailment groups |
+| Alex D'Alba | Q6: priority vs non-priority wind farms; Step 4: validation and comparison |
+
 ## Repository map
 
 ```
