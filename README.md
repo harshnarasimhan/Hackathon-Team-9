@@ -4,6 +4,8 @@ Our work for the **TPSA & TFWind Hackathon 2026**. Roughly half of the renewable
 
 The base network and the starter kit come from the hackathon organisers and live in [`grid_TF_Wind/`](grid_TF_Wind/). Everything else in this repository is our analysis built on top of it.
 
+**Presentation:** [Hackathon slides on Canva](https://canva.link/o0i9iizp966ij8u)
+
 ## Headline findings
 
 All numbers are for the `WP2033` scenario (2033 winter peak), north-west region, over the modelled 168-hour week, unless stated otherwise.
