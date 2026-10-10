@@ -61,8 +61,9 @@ Run:
     python k_battery_siting_sizing.py
 Requires the participant-kit (gridkit.py) on the Python path.
 """
+import os
 import sys
-sys.path.insert(0, "grid_TF_Wind/participant-kit")
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), os.pardir, "grid_TF_Wind", "participant-kit"))
 import gridkit
 import pandas as pd
 import numpy as np

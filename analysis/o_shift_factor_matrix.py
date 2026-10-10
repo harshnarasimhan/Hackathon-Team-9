@@ -54,6 +54,7 @@ import pandas as pd
 _HERE = os.path.dirname(os.path.abspath(__file__))
 for _candidate in (
     os.path.join(_HERE, "grid_TF_Wind", "participant-kit"),
+    os.path.join(os.path.dirname(_HERE), "grid_TF_Wind", "participant-kit"),  # this file inside analysis/
     os.path.dirname(os.path.dirname(_HERE)),
 ):
     if os.path.isfile(os.path.join(_candidate, "gridkit.py")):

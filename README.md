@@ -19,30 +19,25 @@ All numbers are for the `WP2033` scenario (2033 winter peak), north-west region,
 
 ```
 .
+├── analysis/                Our analysis pipeline: scripts, the CSVs they pass to each other, results
+│   ├── n_binding_lines_baseline.py     Step 1   find the binding lines (all-island)
+│   ├── o_shift_factor_matrix.py        Step 2   shift factors: node x binding line
+│   ├── p_multi_line_conflicts.py       Step 3A  nodes that help one line but hurt another
+│   ├── step3b_group_generation.py      Step 3B  candidate curtailment groups
+│   ├── fetch_pvgis_2024_solar.py, j_*.py       Q3     dynamic line rating
+│   ├── k_battery_siting_sizing.py, l_battery_validation.py   Q2/Q4  batteries
+│   ├── h_export_hourly_flows.py, i_export_shift_factors.py   Track A exports (Q1/Q5)
+│   ├── *.csv                           Inputs and outputs the scripts read by name
+│   ├── figures/                        Saved charts and interactive maps
+│   ├── results/                        Older or suffixed result files kept for reference
+│   └── archive/duplicates/             Byte-identical copies of files kept elsewhere
+├── Alex's Work 3.1/         Q6      priority vs non-priority wind farms
+├── Alex's Work 3.2/         Step 4  validate and compare the groups
+├── docs/                    Write-ups, grouped by topic (see below)
 ├── grid_TF_Wind/            Organiser-provided network, data and starter kit
 │   └── participant-kit/     The PyPSA networks + gridkit.py our scripts import
-│
-├── n_binding_lines_baseline.py     Step 1  find the binding lines (all-island)
-├── o_shift_factor_matrix.py        Step 2  shift factors: node x binding line
-├── p_multi_line_conflicts.py       Step 3A which nodes help one line but hurt another
-├── step3b_group_generation.py      Step 3B candidate curtailment groups
-├── Alex's Work 3.2/                Step 4  validate and compare the groups
-│
-├── fetch_pvgis_2024_solar.py       Q3  DLR inputs and ratings (j_*.py)
-├── j_*.py
-├── k_battery_siting_sizing.py      Q2/Q4  battery siting and sizing
-├── l_battery_validation.py
-├── h_export_hourly_flows.py        Track A exports (Q1/Q5)
-├── i_export_shift_factors.py
-├── Alex's Work 3.1/                Q6  priority vs non-priority wind farms
-│
-├── *.csv                           Pipeline inputs/outputs the scripts read by name
-├── docs/                           Write-ups, grouped by topic (see below)
-├── figures/                        Saved charts and interactive maps
-├── results/                        Older or suffixed result files kept for reference
-├── archive/duplicates/             Byte-identical copies of files kept elsewhere
 ├── workshop/, populationDensity_2024/   Supporting workshop and map material
-└── shell.nix                       Nix dev shell
+└── shell.nix                Nix dev shell
 ```
 
 ### Documentation (`docs/`)
@@ -68,7 +63,7 @@ Each step reads the CSVs written by the one before it.
 | 3B. Group generation | `step3b_group_generation.py` | `binding_lines.csv`, `baseline_hourly_flows.csv`, `shift_factor_matrix.csv` | `proposed_groups.csv`, `group_method_comparison.csv`, `group_map_readable.csv`, `multiline_tradeoff_analysis.csv` |
 | 4. Validation | `Alex's Work 3.2/p_step4_validation_comparison_v3_final.py` | the network plus the Step 1-3 outputs | `validation_results.csv`, `validation_comparison_table.csv` |
 
-The Step 3B outputs are created when the script runs. The copies committed here carry upload suffixes such as `_2` or `(1)` and are kept in [`results/step3b/`](results/step3b/).
+The Step 3B outputs are created when the script runs. The copies committed here carry upload suffixes such as `_2` or `(1)` and are kept in [`analysis/results/step3b/`](analysis/results/step3b/).
 
 Questions from the hackathon sheet map onto the scripts like this:
 
@@ -88,19 +83,22 @@ python -m venv .venv && source .venv/bin/activate
 pip install -r grid_TF_Wind/participant-kit/requirements.txt
 ```
 
-Run the pipeline scripts **from the repository root**, in step order:
+Run the pipeline scripts **from inside `analysis/`**, in step order:
 
 ```bash
+cd analysis
 python n_binding_lines_baseline.py WP2033 all-island overload_hours 15
 python p_multi_line_conflicts.py
 python step3b_group_generation.py
 ```
 
+The Step 4 script in `Alex's Work 3.2/` also expects to be run with `analysis/` as the current folder, for example `python "../Alex's Work 3.2/p_step4_validation_comparison_v3_final.py"`.
+
 A few scripts (`h_export_hourly_flows.py`, `i_export_shift_factors.py`, `j_dlr_rating_sensitivity (1).py`, `j_thermal_rating_chart (1).py`) were written to sit in `grid_TF_Wind/participant-kit/examples/` and look for `gridkit.py` relative to their own location. Copy them there to run them.
 
-## Why the scripts and CSVs stay at the root
+## Why the scripts and CSVs live together in `analysis/`
 
-The scripts locate their inputs relative to their own folder or the repository root, and several pass CSVs to one another by file name. Keeping them together means the pipeline runs as written. Charts, notes and older result variants are the parts that were moved out of the way. `p_multi_line_conflicts.py` writes its charts into the folder it is run from, so re-running it puts fresh copies at the root; the committed versions live in [`figures/`](figures/).
+The scripts read and write their CSVs by file name and pass them from one step to the next, so they are kept side by side. Re-running a script writes fresh copies of its outputs into `analysis/`. The committed charts are in [`analysis/figures/`](analysis/figures/), and notes and write-ups are in [`docs/`](docs/).
 
 ## Notes on the data and model
 
@@ -108,3 +106,4 @@ The scripts locate their inputs relative to their own folder or the repository r
 - Each source case is one solved hour; the 168-hour week is built from real weather and demand shapes fitted to that anchor hour.
 - Priority and non-priority status is **not** in the dataset. Q6 uses an assumed split (the 7 largest of 14 north-west farms), stated explicitly in its write-up.
 - Thresholds such as `TAU = 0.05` in Step 3B are working placeholders, not validated values.
+- The findings above come from the committed write-ups. The optimisation can return slightly different (equally valid) dispatches between runs and PyPSA/solver versions, so re-running Step 1 may not reproduce the committed CSVs exactly.
